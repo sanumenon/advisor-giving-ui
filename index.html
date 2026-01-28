@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Charitable Impact Giving Advisor!</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f6f7fb;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .chat-container {
+      width: 100%;
+      max-width: 700px;
+      height: 90vh;
+      background: white;
+      border-radius: 16px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .header {
+      background: #0056b3;
+      color: white;
+      padding: 16px;
+      font-weight: bold;
+      text-align: center;
+    }
+    .messages {
+      flex: 1;
+      padding: 16px;
+      overflow-y: auto;
+    }
+    .message {
+      margin-bottom: 12px;
+      padding: 12px;
+      border-radius: 12px;
+      max-width: 95%;
+      line-height: 1.5;
+      font-size: 15px;
+    }
+    .user { background: #e6f0ff; margin-left: auto; }
+    .bot { background: #f4f4f4; }
+
+    .input-area {
+      display: flex;
+      border-top: 1px solid #ddd;
+    }
+    input {
+      flex: 1;
+      padding: 14px;
+      border: none;
+      font-size: 16px;
+    }
+    button {
+      padding: 14px 20px;
+      border: none;
+      background: #0056b3;
+      color: white;
+      cursor: pointer;
+    }
+
+    table {
+      border-collapse: collapse;
+      margin-top: 10px;
+      width: 100%;
+      font-size: 14px;
+      table-layout: fixed; /* 🔥 Important: prevents column overflow */
+    }
+    
+    th, td {
+      border: 1px solid #ddd;
+      padding: 8px;
+      text-align: left;
+      vertical-align: top;
+      word-wrap: break-word;
+      overflow-wrap: break-word;
+      white-space: normal; /* 🔥 Forces wrapping inside same cell */
+    }
+    
+    th {
+      background: #f0f4ff;
+      font-weight: bold;
+    }
+
+    a {
+      color: #0056b3;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+<div class="chat-container">
+  <div class="header">Charitable Impact Giving Advisor Bot - V1.0</div>
+  <div class="messages" id="messages"></div>
+  <div class="input-area">
+  <input id="input" placeholder="Ask about donations..." onkeydown="handleKey(event)" />
+  <button onclick="sendMessage()">Send</button>
+  <button onclick="clearChat()">Clear</button>
+</div>
+</div>
+
+<script>
+const API_URL = "https://giving-advisor-api.menon-sanu.workers.dev";
+
+const systemPrompt = `You are a helpful donation advisor.`;
+
+
+let messages = JSON.parse(sessionStorage.getItem("chat")) || [
+  { role: "system", content: systemPrompt },
+  { role: "assistant", content: "Hello! I can help you to create an allocation portfolio for your donations. Tell me your amount and interests or causes that you support." }
+];
+
+const messagesDiv = document.getElementById("messages");
+
+function handleKey(e) {
+  if (e.key === "Enter" && !e.shiftKey) {
+    e.preventDefault();
+    sendMessage();
+  }
+}
+
+
+function renderMessages() {
+  messagesDiv.innerHTML = "";
+  messages.filter(m => m.role !== "system").forEach(m => {
+    const div = document.createElement("div");
+    div.className = "message " + (m.role === "user" ? "user" : "bot");
+    div.innerHTML = renderMarkdown(m.content);
+    messagesDiv.appendChild(div);
+  });
+  messagesDiv.scrollTop = messagesDiv.scrollHeight;
+}
+
+function renderMarkdown(text) {
+  if (!text) return "";
+
+  // Convert links to clickable
+  text = text.replace(
+    /(https?:\/\/[^\s]+)/g,
+    '<a href="$1" target="_blank">$1</a>'
+  );
+
+  // Convert markdown table blocks only
+  const tableRegex = /(\|.+\|\n\|[-\s|]+\|\n(?:\|.*\|\n?)*)/g;
+
+  text = text.replace(tableRegex, (tableMarkdown) => {
+    return markdownTableToHtml(tableMarkdown);
+  });
+
+  // Preserve paragraphs properly
+  return text
+    .replace(/\n\n/g, "<br><br>")   // paragraph breaks
+    .replace(/\n/g, "<br>");
+
+}
+
+function markdownTableToHtml(markdown) {
+  const lines = markdown.trim().split("\n").filter(l => l.includes("|"));
+  if (lines.length < 2) return markdown;
+
+  const headers = lines[0].split("|").map(h => h.trim()).filter(Boolean);
+  const rows = lines.slice(2).map(row =>
+    row.split("|").map(c => c.trim()).filter(Boolean)
+  );
+
+  let html = `<table>`;
+  html += "<thead><tr>" + headers.map(h => `<th>${h}</th>`).join("") + "</tr></thead>";
+  html += "<tbody>";
+
+  rows.forEach(r => {
+    html += "<tr>" + r.map(c => `<td>${c}</td>`).join("") + "</tr>";
+  });
+
+  html += "</tbody></table>";
+  return html;
+}
+
+function clearChat() {
+  sessionStorage.removeItem("chat");
+  messages = [
+    { role: "system", content: systemPrompt },
+    { role: "assistant", content: "Hello! I can help you to create an allocation portfolio for your donations. Tell me your amount and interests or causes that you support."}
+  ];
+  renderMessages();
+}
+
+
+
+//   localStorage.removeItem("chat");
+//   messages = [
+//     { role: "system", content: systemPrompt },
+//     { role: "assistant", content: "Hello! I can help you allocate your donations. Tell me your amount and interests." }
+//   ];
+//   renderMessages();
+// }
+
+  
+async function sendMessage() {
+  const input = document.getElementById("input");
+  const text = input.value.trim();
+  if (!text) return;
+
+  messages.push({ role: "user", content: text });
+  input.value = "";
+  renderMessages();
+
+  try {
+    const typing = document.createElement("div");
+    typing.className = "message bot";
+    typing.id = "typing";
+    typing.innerText = "Advisor is typing...";
+    messagesDiv.appendChild(typing);
+    const response = await fetch(API_URL, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ 
+      user_id: messages.find(m => m.role === "user")?.content.match(/demo-user-\d+/)?.[0],
+      messages 
+})
+
+    });
+    document.getElementById("typing")?.remove();
+    const data = await response.json();
+    
+    if (!data.choices) {
+      throw new Error(JSON.stringify(data));
+    }
+
+    const reply = data.choices[0].message.content;
+
+    messages.push({ role: "assistant", content: reply });
+    sessionStorage.setItem("chat", JSON.stringify(messages));
+    renderMessages();
+
+  } catch (err) {
+    alert("Error: " + err.message);
+  }
+}
+
+renderMessages();
+</script>
+
+</body>
+</html>
