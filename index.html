@@ -224,7 +224,7 @@ async function sendMessage() {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ 
-      user_id: messages.find(m => m.role === "user")?.content.match(/demo-user-\d+/)?.[0],
+      user_id: messages.find(m => m.role === "user")?.content.match(/\buser\d+\b/)?.[0],
       messages 
 })
 
