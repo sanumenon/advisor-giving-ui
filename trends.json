@@ -1,0 +1,5002 @@
+{
+  "ch_00000": {
+    "last_12_month_avg": 46,
+    "growth_5yr": 0.64,
+    "volatility": 0.14
+  },
+  "ch_00001": {
+    "last_12_month_avg": 65,
+    "growth_5yr": 0.62,
+    "volatility": 0.26
+  },
+  "ch_00002": {
+    "last_12_month_avg": 55,
+    "growth_5yr": 0.51,
+    "volatility": 0.16
+  },
+  "ch_00003": {
+    "last_12_month_avg": 70,
+    "growth_5yr": 0.28,
+    "volatility": 0.3
+  },
+  "ch_00004": {
+    "last_12_month_avg": 88,
+    "growth_5yr": 0.26,
+    "volatility": 0.21
+  },
+  "ch_00005": {
+    "last_12_month_avg": 54,
+    "growth_5yr": 0.5,
+    "volatility": 0.1
+  },
+  "ch_00006": {
+    "last_12_month_avg": 66,
+    "growth_5yr": 0.29,
+    "volatility": 0.12
+  },
+  "ch_00007": {
+    "last_12_month_avg": 72,
+    "growth_5yr": 0.17,
+    "volatility": 0.26
+  },
+  "ch_00008": {
+    "last_12_month_avg": 40,
+    "growth_5yr": 0.14,
+    "volatility": 0.1
+  },
+  "ch_00009": {
+    "last_12_month_avg": 70,
+    "growth_5yr": 0.35,
+    "volatility": 0.26
+  },
+  "ch_00010": {
+    "last_12_month_avg": 89,
+    "growth_5yr": 0.39,
+    "volatility": 0.19
+  },
+  "ch_00011": {
+    "last_12_month_avg": 71,
+    "growth_5yr": 0.12,
+    "volatility": 0.26
+  },
+  "ch_00012": {
+    "last_12_month_avg": 55,
+    "growth_5yr": 0.6,
+    "volatility": 0.09
+  },
+  "ch_00013": {
+    "last_12_month_avg": 56,
+    "growth_5yr": 0.65,
+    "volatility": 0.13
+  },
+  "ch_00014": {
+    "last_12_month_avg": 48,
+    "growth_5yr": 0.5,
+    "volatility": 0.26
+  },
+  "ch_00015": {
+    "last_12_month_avg": 99,
+    "growth_5yr": 0.17,
+    "volatility": 0.27
+  },
+  "ch_00016": {
+    "last_12_month_avg": 84,
+    "growth_5yr": 0.33,
+    "volatility": 0.08
+  },
+  "ch_00017": {
+    "last_12_month_avg": 95,
+    "growth_5yr": 0.48,
+    "volatility": 0.21
+  },
+  "ch_00018": {
+    "last_12_month_avg": 92,
+    "growth_5yr": 0.69,
+    "volatility": 0.15
+  },
+  "ch_00019": {
+    "last_12_month_avg": 88,
+    "growth_5yr": 0.36,
+    "volatility": 0.13
+  },
+  "ch_00020": {
+    "last_12_month_avg": 99,
+    "growth_5yr": 0.61,
+    "volatility": 0.28
+  },
+  "ch_00021": {
+    "last_12_month_avg": 45,
+    "growth_5yr": 0.66,
+    "volatility": 0.24
+  },
+  "ch_00022": {
+    "last_12_month_avg": 45,
+    "growth_5yr": 0.54,
+    "volatility": 0.12
+  },
+  "ch_00023": {
+    "last_12_month_avg": 77,
+    "growth_5yr": 0.43,
+    "volatility": 0.2
+  },
+  "ch_00024": {
+    "last_12_month_avg": 57,
+    "growth_5yr": 0.35,
+    "volatility": 0.17
+  },
+  "ch_00025": {
+    "last_12_month_avg": 95,
+    "growth_5yr": 0.26,
+    "volatility": 0.3
+  },
+  "ch_00026": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.28,
+    "volatility": 0.05
+  },
+  "ch_00027": {
+    "last_12_month_avg": 62,
+    "growth_5yr": 0.25,
+    "volatility": 0.25
+  },
+  "ch_00028": {
+    "last_12_month_avg": 65,
+    "growth_5yr": 0.14,
+    "volatility": 0.13
+  },
+  "ch_00029": {
+    "last_12_month_avg": 87,
+    "growth_5yr": 0.64,
+    "volatility": 0.28
+  },
+  "ch_00030": {
+    "last_12_month_avg": 55,
+    "growth_5yr": 0.7,
+    "volatility": 0.16
+  },
+  "ch_00031": {
+    "last_12_month_avg": 99,
+    "growth_5yr": 0.41,
+    "volatility": 0.14
+  },
+  "ch_00032": {
+    "last_12_month_avg": 56,
+    "growth_5yr": 0.63,
+    "volatility": 0.2
+  },
+  "ch_00033": {
+    "last_12_month_avg": 87,
+    "growth_5yr": 0.15,
+    "volatility": 0.25
+  },
+  "ch_00034": {
+    "last_12_month_avg": 62,
+    "growth_5yr": 0.6,
+    "volatility": 0.14
+  },
+  "ch_00035": {
+    "last_12_month_avg": 92,
+    "growth_5yr": 0.16,
+    "volatility": 0.06
+  },
+  "ch_00036": {
+    "last_12_month_avg": 87,
+    "growth_5yr": 0.44,
+    "volatility": 0.29
+  },
+  "ch_00037": {
+    "last_12_month_avg": 84,
+    "growth_5yr": 0.45,
+    "volatility": 0.13
+  },
+  "ch_00038": {
+    "last_12_month_avg": 44,
+    "growth_5yr": 0.66,
+    "volatility": 0.25
+  },
+  "ch_00039": {
+    "last_12_month_avg": 76,
+    "growth_5yr": 0.33,
+    "volatility": 0.23
+  },
+  "ch_00040": {
+    "last_12_month_avg": 99,
+    "growth_5yr": 0.18,
+    "volatility": 0.16
+  },
+  "ch_00041": {
+    "last_12_month_avg": 54,
+    "growth_5yr": 0.13,
+    "volatility": 0.21
+  },
+  "ch_00042": {
+    "last_12_month_avg": 91,
+    "growth_5yr": 0.11,
+    "volatility": 0.21
+  },
+  "ch_00043": {
+    "last_12_month_avg": 82,
+    "growth_5yr": 0.63,
+    "volatility": 0.05
+  },
+  "ch_00044": {
+    "last_12_month_avg": 67,
+    "growth_5yr": 0.59,
+    "volatility": 0.1
+  },
+  "ch_00045": {
+    "last_12_month_avg": 66,
+    "growth_5yr": 0.32,
+    "volatility": 0.15
+  },
+  "ch_00046": {
+    "last_12_month_avg": 93,
+    "growth_5yr": 0.18,
+    "volatility": 0.06
+  },
+  "ch_00047": {
+    "last_12_month_avg": 81,
+    "growth_5yr": 0.53,
+    "volatility": 0.14
+  },
+  "ch_00048": {
+    "last_12_month_avg": 68,
+    "growth_5yr": 0.6,
+    "volatility": 0.22
+  },
+  "ch_00049": {
+    "last_12_month_avg": 74,
+    "growth_5yr": 0.17,
+    "volatility": 0.19
+  },
+  "ch_00050": {
+    "last_12_month_avg": 55,
+    "growth_5yr": 0.42,
+    "volatility": 0.28
+  },
+  "ch_00051": {
+    "last_12_month_avg": 73,
+    "growth_5yr": 0.23,
+    "volatility": 0.18
+  },
+  "ch_00052": {
+    "last_12_month_avg": 81,
+    "growth_5yr": 0.42,
+    "volatility": 0.26
+  },
+  "ch_00053": {
+    "last_12_month_avg": 70,
+    "growth_5yr": 0.62,
+    "volatility": 0.29
+  },
+  "ch_00054": {
+    "last_12_month_avg": 64,
+    "growth_5yr": 0.35,
+    "volatility": 0.12
+  },
+  "ch_00055": {
+    "last_12_month_avg": 66,
+    "growth_5yr": 0.67,
+    "volatility": 0.17
+  },
+  "ch_00056": {
+    "last_12_month_avg": 62,
+    "growth_5yr": 0.4,
+    "volatility": 0.17
+  },
+  "ch_00057": {
+    "last_12_month_avg": 52,
+    "growth_5yr": 0.48,
+    "volatility": 0.26
+  },
+  "ch_00058": {
+    "last_12_month_avg": 73,
+    "growth_5yr": 0.37,
+    "volatility": 0.25
+  },
+  "ch_00059": {
+    "last_12_month_avg": 92,
+    "growth_5yr": 0.66,
+    "volatility": 0.28
+  },
+  "ch_00060": {
+    "last_12_month_avg": 98,
+    "growth_5yr": 0.13,
+    "volatility": 0.2
+  },
+  "ch_00061": {
+    "last_12_month_avg": 58,
+    "growth_5yr": 0.61,
+    "volatility": 0.17
+  },
+  "ch_00062": {
+    "last_12_month_avg": 67,
+    "growth_5yr": 0.2,
+    "volatility": 0.23
+  },
+  "ch_00063": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.35,
+    "volatility": 0.07
+  },
+  "ch_00064": {
+    "last_12_month_avg": 91,
+    "growth_5yr": 0.5,
+    "volatility": 0.29
+  },
+  "ch_00065": {
+    "last_12_month_avg": 48,
+    "growth_5yr": 0.12,
+    "volatility": 0.28
+  },
+  "ch_00066": {
+    "last_12_month_avg": 54,
+    "growth_5yr": 0.4,
+    "volatility": 0.26
+  },
+  "ch_00067": {
+    "last_12_month_avg": 93,
+    "growth_5yr": 0.43,
+    "volatility": 0.14
+  },
+  "ch_00068": {
+    "last_12_month_avg": 89,
+    "growth_5yr": 0.3,
+    "volatility": 0.27
+  },
+  "ch_00069": {
+    "last_12_month_avg": 80,
+    "growth_5yr": 0.45,
+    "volatility": 0.2
+  },
+  "ch_00070": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.39,
+    "volatility": 0.27
+  },
+  "ch_00071": {
+    "last_12_month_avg": 83,
+    "growth_5yr": 0.13,
+    "volatility": 0.11
+  },
+  "ch_00072": {
+    "last_12_month_avg": 84,
+    "growth_5yr": 0.65,
+    "volatility": 0.18
+  },
+  "ch_00073": {
+    "last_12_month_avg": 81,
+    "growth_5yr": 0.51,
+    "volatility": 0.25
+  },
+  "ch_00074": {
+    "last_12_month_avg": 65,
+    "growth_5yr": 0.47,
+    "volatility": 0.14
+  },
+  "ch_00075": {
+    "last_12_month_avg": 75,
+    "growth_5yr": 0.47,
+    "volatility": 0.22
+  },
+  "ch_00076": {
+    "last_12_month_avg": 74,
+    "growth_5yr": 0.58,
+    "volatility": 0.11
+  },
+  "ch_00077": {
+    "last_12_month_avg": 87,
+    "growth_5yr": 0.48,
+    "volatility": 0.17
+  },
+  "ch_00078": {
+    "last_12_month_avg": 76,
+    "growth_5yr": 0.45,
+    "volatility": 0.09
+  },
+  "ch_00079": {
+    "last_12_month_avg": 85,
+    "growth_5yr": 0.42,
+    "volatility": 0.28
+  },
+  "ch_00080": {
+    "last_12_month_avg": 91,
+    "growth_5yr": 0.37,
+    "volatility": 0.28
+  },
+  "ch_00081": {
+    "last_12_month_avg": 92,
+    "growth_5yr": 0.69,
+    "volatility": 0.19
+  },
+  "ch_00082": {
+    "last_12_month_avg": 48,
+    "growth_5yr": 0.11,
+    "volatility": 0.26
+  },
+  "ch_00083": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.32,
+    "volatility": 0.12
+  },
+  "ch_00084": {
+    "last_12_month_avg": 51,
+    "growth_5yr": 0.17,
+    "volatility": 0.09
+  },
+  "ch_00085": {
+    "last_12_month_avg": 42,
+    "growth_5yr": 0.26,
+    "volatility": 0.18
+  },
+  "ch_00086": {
+    "last_12_month_avg": 50,
+    "growth_5yr": 0.14,
+    "volatility": 0.08
+  },
+  "ch_00087": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.57,
+    "volatility": 0.08
+  },
+  "ch_00088": {
+    "last_12_month_avg": 60,
+    "growth_5yr": 0.34,
+    "volatility": 0.1
+  },
+  "ch_00089": {
+    "last_12_month_avg": 70,
+    "growth_5yr": 0.12,
+    "volatility": 0.27
+  },
+  "ch_00090": {
+    "last_12_month_avg": 69,
+    "growth_5yr": 0.49,
+    "volatility": 0.16
+  },
+  "ch_00091": {
+    "last_12_month_avg": 96,
+    "growth_5yr": 0.12,
+    "volatility": 0.21
+  },
+  "ch_00092": {
+    "last_12_month_avg": 50,
+    "growth_5yr": 0.39,
+    "volatility": 0.09
+  },
+  "ch_00093": {
+    "last_12_month_avg": 51,
+    "growth_5yr": 0.45,
+    "volatility": 0.27
+  },
+  "ch_00094": {
+    "last_12_month_avg": 67,
+    "growth_5yr": 0.29,
+    "volatility": 0.21
+  },
+  "ch_00095": {
+    "last_12_month_avg": 62,
+    "growth_5yr": 0.18,
+    "volatility": 0.12
+  },
+  "ch_00096": {
+    "last_12_month_avg": 48,
+    "growth_5yr": 0.59,
+    "volatility": 0.07
+  },
+  "ch_00097": {
+    "last_12_month_avg": 82,
+    "growth_5yr": 0.63,
+    "volatility": 0.09
+  },
+  "ch_00098": {
+    "last_12_month_avg": 51,
+    "growth_5yr": 0.43,
+    "volatility": 0.27
+  },
+  "ch_00099": {
+    "last_12_month_avg": 75,
+    "growth_5yr": 0.25,
+    "volatility": 0.21
+  },
+  "ch_00100": {
+    "last_12_month_avg": 67,
+    "growth_5yr": 0.4,
+    "volatility": 0.16
+  },
+  "ch_00101": {
+    "last_12_month_avg": 63,
+    "growth_5yr": 0.38,
+    "volatility": 0.29
+  },
+  "ch_00102": {
+    "last_12_month_avg": 89,
+    "growth_5yr": 0.68,
+    "volatility": 0.15
+  },
+  "ch_00103": {
+    "last_12_month_avg": 100,
+    "growth_5yr": 0.38,
+    "volatility": 0.07
+  },
+  "ch_00104": {
+    "last_12_month_avg": 80,
+    "growth_5yr": 0.19,
+    "volatility": 0.1
+  },
+  "ch_00105": {
+    "last_12_month_avg": 89,
+    "growth_5yr": 0.61,
+    "volatility": 0.07
+  },
+  "ch_00106": {
+    "last_12_month_avg": 83,
+    "growth_5yr": 0.51,
+    "volatility": 0.1
+  },
+  "ch_00107": {
+    "last_12_month_avg": 80,
+    "growth_5yr": 0.61,
+    "volatility": 0.21
+  },
+  "ch_00108": {
+    "last_12_month_avg": 51,
+    "growth_5yr": 0.61,
+    "volatility": 0.19
+  },
+  "ch_00109": {
+    "last_12_month_avg": 97,
+    "growth_5yr": 0.64,
+    "volatility": 0.18
+  },
+  "ch_00110": {
+    "last_12_month_avg": 46,
+    "growth_5yr": 0.14,
+    "volatility": 0.09
+  },
+  "ch_00111": {
+    "last_12_month_avg": 45,
+    "growth_5yr": 0.1,
+    "volatility": 0.12
+  },
+  "ch_00112": {
+    "last_12_month_avg": 84,
+    "growth_5yr": 0.3,
+    "volatility": 0.22
+  },
+  "ch_00113": {
+    "last_12_month_avg": 97,
+    "growth_5yr": 0.6,
+    "volatility": 0.28
+  },
+  "ch_00114": {
+    "last_12_month_avg": 84,
+    "growth_5yr": 0.37,
+    "volatility": 0.19
+  },
+  "ch_00115": {
+    "last_12_month_avg": 88,
+    "growth_5yr": 0.42,
+    "volatility": 0.17
+  },
+  "ch_00116": {
+    "last_12_month_avg": 79,
+    "growth_5yr": 0.65,
+    "volatility": 0.29
+  },
+  "ch_00117": {
+    "last_12_month_avg": 96,
+    "growth_5yr": 0.45,
+    "volatility": 0.28
+  },
+  "ch_00118": {
+    "last_12_month_avg": 86,
+    "growth_5yr": 0.54,
+    "volatility": 0.15
+  },
+  "ch_00119": {
+    "last_12_month_avg": 66,
+    "growth_5yr": 0.24,
+    "volatility": 0.07
+  },
+  "ch_00120": {
+    "last_12_month_avg": 79,
+    "growth_5yr": 0.37,
+    "volatility": 0.1
+  },
+  "ch_00121": {
+    "last_12_month_avg": 64,
+    "growth_5yr": 0.12,
+    "volatility": 0.15
+  },
+  "ch_00122": {
+    "last_12_month_avg": 57,
+    "growth_5yr": 0.24,
+    "volatility": 0.24
+  },
+  "ch_00123": {
+    "last_12_month_avg": 58,
+    "growth_5yr": 0.38,
+    "volatility": 0.14
+  },
+  "ch_00124": {
+    "last_12_month_avg": 59,
+    "growth_5yr": 0.69,
+    "volatility": 0.24
+  },
+  "ch_00125": {
+    "last_12_month_avg": 72,
+    "growth_5yr": 0.52,
+    "volatility": 0.09
+  },
+  "ch_00126": {
+    "last_12_month_avg": 100,
+    "growth_5yr": 0.32,
+    "volatility": 0.23
+  },
+  "ch_00127": {
+    "last_12_month_avg": 42,
+    "growth_5yr": 0.18,
+    "volatility": 0.22
+  },
+  "ch_00128": {
+    "last_12_month_avg": 65,
+    "growth_5yr": 0.46,
+    "volatility": 0.15
+  },
+  "ch_00129": {
+    "last_12_month_avg": 83,
+    "growth_5yr": 0.56,
+    "volatility": 0.05
+  },
+  "ch_00130": {
+    "last_12_month_avg": 89,
+    "growth_5yr": 0.4,
+    "volatility": 0.2
+  },
+  "ch_00131": {
+    "last_12_month_avg": 72,
+    "growth_5yr": 0.41,
+    "volatility": 0.06
+  },
+  "ch_00132": {
+    "last_12_month_avg": 88,
+    "growth_5yr": 0.2,
+    "volatility": 0.08
+  },
+  "ch_00133": {
+    "last_12_month_avg": 99,
+    "growth_5yr": 0.6,
+    "volatility": 0.28
+  },
+  "ch_00134": {
+    "last_12_month_avg": 62,
+    "growth_5yr": 0.45,
+    "volatility": 0.19
+  },
+  "ch_00135": {
+    "last_12_month_avg": 79,
+    "growth_5yr": 0.67,
+    "volatility": 0.12
+  },
+  "ch_00136": {
+    "last_12_month_avg": 96,
+    "growth_5yr": 0.55,
+    "volatility": 0.15
+  },
+  "ch_00137": {
+    "last_12_month_avg": 64,
+    "growth_5yr": 0.4,
+    "volatility": 0.19
+  },
+  "ch_00138": {
+    "last_12_month_avg": 63,
+    "growth_5yr": 0.24,
+    "volatility": 0.22
+  },
+  "ch_00139": {
+    "last_12_month_avg": 86,
+    "growth_5yr": 0.67,
+    "volatility": 0.08
+  },
+  "ch_00140": {
+    "last_12_month_avg": 57,
+    "growth_5yr": 0.13,
+    "volatility": 0.16
+  },
+  "ch_00141": {
+    "last_12_month_avg": 80,
+    "growth_5yr": 0.7,
+    "volatility": 0.19
+  },
+  "ch_00142": {
+    "last_12_month_avg": 49,
+    "growth_5yr": 0.23,
+    "volatility": 0.15
+  },
+  "ch_00143": {
+    "last_12_month_avg": 95,
+    "growth_5yr": 0.39,
+    "volatility": 0.19
+  },
+  "ch_00144": {
+    "last_12_month_avg": 43,
+    "growth_5yr": 0.48,
+    "volatility": 0.21
+  },
+  "ch_00145": {
+    "last_12_month_avg": 63,
+    "growth_5yr": 0.45,
+    "volatility": 0.22
+  },
+  "ch_00146": {
+    "last_12_month_avg": 72,
+    "growth_5yr": 0.65,
+    "volatility": 0.14
+  },
+  "ch_00147": {
+    "last_12_month_avg": 83,
+    "growth_5yr": 0.18,
+    "volatility": 0.14
+  },
+  "ch_00148": {
+    "last_12_month_avg": 74,
+    "growth_5yr": 0.38,
+    "volatility": 0.06
+  },
+  "ch_00149": {
+    "last_12_month_avg": 99,
+    "growth_5yr": 0.55,
+    "volatility": 0.29
+  },
+  "ch_00150": {
+    "last_12_month_avg": 48,
+    "growth_5yr": 0.52,
+    "volatility": 0.1
+  },
+  "ch_00151": {
+    "last_12_month_avg": 76,
+    "growth_5yr": 0.61,
+    "volatility": 0.16
+  },
+  "ch_00152": {
+    "last_12_month_avg": 76,
+    "growth_5yr": 0.66,
+    "volatility": 0.05
+  },
+  "ch_00153": {
+    "last_12_month_avg": 93,
+    "growth_5yr": 0.58,
+    "volatility": 0.13
+  },
+  "ch_00154": {
+    "last_12_month_avg": 100,
+    "growth_5yr": 0.14,
+    "volatility": 0.27
+  },
+  "ch_00155": {
+    "last_12_month_avg": 55,
+    "growth_5yr": 0.49,
+    "volatility": 0.28
+  },
+  "ch_00156": {
+    "last_12_month_avg": 59,
+    "growth_5yr": 0.56,
+    "volatility": 0.11
+  },
+  "ch_00157": {
+    "last_12_month_avg": 47,
+    "growth_5yr": 0.24,
+    "volatility": 0.12
+  },
+  "ch_00158": {
+    "last_12_month_avg": 70,
+    "growth_5yr": 0.64,
+    "volatility": 0.15
+  },
+  "ch_00159": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.34,
+    "volatility": 0.05
+  },
+  "ch_00160": {
+    "last_12_month_avg": 64,
+    "growth_5yr": 0.2,
+    "volatility": 0.24
+  },
+  "ch_00161": {
+    "last_12_month_avg": 73,
+    "growth_5yr": 0.39,
+    "volatility": 0.18
+  },
+  "ch_00162": {
+    "last_12_month_avg": 52,
+    "growth_5yr": 0.14,
+    "volatility": 0.11
+  },
+  "ch_00163": {
+    "last_12_month_avg": 41,
+    "growth_5yr": 0.49,
+    "volatility": 0.09
+  },
+  "ch_00164": {
+    "last_12_month_avg": 74,
+    "growth_5yr": 0.59,
+    "volatility": 0.3
+  },
+  "ch_00165": {
+    "last_12_month_avg": 62,
+    "growth_5yr": 0.13,
+    "volatility": 0.08
+  },
+  "ch_00166": {
+    "last_12_month_avg": 95,
+    "growth_5yr": 0.65,
+    "volatility": 0.29
+  },
+  "ch_00167": {
+    "last_12_month_avg": 88,
+    "growth_5yr": 0.33,
+    "volatility": 0.25
+  },
+  "ch_00168": {
+    "last_12_month_avg": 43,
+    "growth_5yr": 0.32,
+    "volatility": 0.08
+  },
+  "ch_00169": {
+    "last_12_month_avg": 89,
+    "growth_5yr": 0.5,
+    "volatility": 0.1
+  },
+  "ch_00170": {
+    "last_12_month_avg": 69,
+    "growth_5yr": 0.19,
+    "volatility": 0.12
+  },
+  "ch_00171": {
+    "last_12_month_avg": 61,
+    "growth_5yr": 0.5,
+    "volatility": 0.23
+  },
+  "ch_00172": {
+    "last_12_month_avg": 97,
+    "growth_5yr": 0.22,
+    "volatility": 0.23
+  },
+  "ch_00173": {
+    "last_12_month_avg": 89,
+    "growth_5yr": 0.55,
+    "volatility": 0.23
+  },
+  "ch_00174": {
+    "last_12_month_avg": 87,
+    "growth_5yr": 0.13,
+    "volatility": 0.11
+  },
+  "ch_00175": {
+    "last_12_month_avg": 95,
+    "growth_5yr": 0.67,
+    "volatility": 0.06
+  },
+  "ch_00176": {
+    "last_12_month_avg": 69,
+    "growth_5yr": 0.12,
+    "volatility": 0.13
+  },
+  "ch_00177": {
+    "last_12_month_avg": 61,
+    "growth_5yr": 0.34,
+    "volatility": 0.22
+  },
+  "ch_00178": {
+    "last_12_month_avg": 79,
+    "growth_5yr": 0.46,
+    "volatility": 0.16
+  },
+  "ch_00179": {
+    "last_12_month_avg": 82,
+    "growth_5yr": 0.21,
+    "volatility": 0.1
+  },
+  "ch_00180": {
+    "last_12_month_avg": 96,
+    "growth_5yr": 0.59,
+    "volatility": 0.1
+  },
+  "ch_00181": {
+    "last_12_month_avg": 93,
+    "growth_5yr": 0.23,
+    "volatility": 0.28
+  },
+  "ch_00182": {
+    "last_12_month_avg": 49,
+    "growth_5yr": 0.14,
+    "volatility": 0.3
+  },
+  "ch_00183": {
+    "last_12_month_avg": 43,
+    "growth_5yr": 0.48,
+    "volatility": 0.15
+  },
+  "ch_00184": {
+    "last_12_month_avg": 60,
+    "growth_5yr": 0.38,
+    "volatility": 0.14
+  },
+  "ch_00185": {
+    "last_12_month_avg": 52,
+    "growth_5yr": 0.35,
+    "volatility": 0.13
+  },
+  "ch_00186": {
+    "last_12_month_avg": 76,
+    "growth_5yr": 0.37,
+    "volatility": 0.09
+  },
+  "ch_00187": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.41,
+    "volatility": 0.08
+  },
+  "ch_00188": {
+    "last_12_month_avg": 76,
+    "growth_5yr": 0.24,
+    "volatility": 0.22
+  },
+  "ch_00189": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.63,
+    "volatility": 0.17
+  },
+  "ch_00190": {
+    "last_12_month_avg": 79,
+    "growth_5yr": 0.56,
+    "volatility": 0.09
+  },
+  "ch_00191": {
+    "last_12_month_avg": 95,
+    "growth_5yr": 0.5,
+    "volatility": 0.25
+  },
+  "ch_00192": {
+    "last_12_month_avg": 74,
+    "growth_5yr": 0.23,
+    "volatility": 0.2
+  },
+  "ch_00193": {
+    "last_12_month_avg": 51,
+    "growth_5yr": 0.26,
+    "volatility": 0.26
+  },
+  "ch_00194": {
+    "last_12_month_avg": 96,
+    "growth_5yr": 0.28,
+    "volatility": 0.13
+  },
+  "ch_00195": {
+    "last_12_month_avg": 57,
+    "growth_5yr": 0.48,
+    "volatility": 0.19
+  },
+  "ch_00196": {
+    "last_12_month_avg": 45,
+    "growth_5yr": 0.29,
+    "volatility": 0.07
+  },
+  "ch_00197": {
+    "last_12_month_avg": 98,
+    "growth_5yr": 0.69,
+    "volatility": 0.27
+  },
+  "ch_00198": {
+    "last_12_month_avg": 44,
+    "growth_5yr": 0.19,
+    "volatility": 0.07
+  },
+  "ch_00199": {
+    "last_12_month_avg": 52,
+    "growth_5yr": 0.55,
+    "volatility": 0.23
+  },
+  "ch_00200": {
+    "last_12_month_avg": 51,
+    "growth_5yr": 0.41,
+    "volatility": 0.1
+  },
+  "ch_00201": {
+    "last_12_month_avg": 73,
+    "growth_5yr": 0.14,
+    "volatility": 0.22
+  },
+  "ch_00202": {
+    "last_12_month_avg": 82,
+    "growth_5yr": 0.41,
+    "volatility": 0.08
+  },
+  "ch_00203": {
+    "last_12_month_avg": 41,
+    "growth_5yr": 0.22,
+    "volatility": 0.12
+  },
+  "ch_00204": {
+    "last_12_month_avg": 97,
+    "growth_5yr": 0.12,
+    "volatility": 0.1
+  },
+  "ch_00205": {
+    "last_12_month_avg": 73,
+    "growth_5yr": 0.56,
+    "volatility": 0.1
+  },
+  "ch_00206": {
+    "last_12_month_avg": 99,
+    "growth_5yr": 0.35,
+    "volatility": 0.3
+  },
+  "ch_00207": {
+    "last_12_month_avg": 57,
+    "growth_5yr": 0.16,
+    "volatility": 0.11
+  },
+  "ch_00208": {
+    "last_12_month_avg": 50,
+    "growth_5yr": 0.68,
+    "volatility": 0.12
+  },
+  "ch_00209": {
+    "last_12_month_avg": 81,
+    "growth_5yr": 0.45,
+    "volatility": 0.14
+  },
+  "ch_00210": {
+    "last_12_month_avg": 61,
+    "growth_5yr": 0.54,
+    "volatility": 0.15
+  },
+  "ch_00211": {
+    "last_12_month_avg": 52,
+    "growth_5yr": 0.62,
+    "volatility": 0.05
+  },
+  "ch_00212": {
+    "last_12_month_avg": 65,
+    "growth_5yr": 0.29,
+    "volatility": 0.27
+  },
+  "ch_00213": {
+    "last_12_month_avg": 63,
+    "growth_5yr": 0.22,
+    "volatility": 0.21
+  },
+  "ch_00214": {
+    "last_12_month_avg": 83,
+    "growth_5yr": 0.44,
+    "volatility": 0.29
+  },
+  "ch_00215": {
+    "last_12_month_avg": 91,
+    "growth_5yr": 0.49,
+    "volatility": 0.26
+  },
+  "ch_00216": {
+    "last_12_month_avg": 78,
+    "growth_5yr": 0.34,
+    "volatility": 0.09
+  },
+  "ch_00217": {
+    "last_12_month_avg": 98,
+    "growth_5yr": 0.48,
+    "volatility": 0.29
+  },
+  "ch_00218": {
+    "last_12_month_avg": 49,
+    "growth_5yr": 0.14,
+    "volatility": 0.07
+  },
+  "ch_00219": {
+    "last_12_month_avg": 80,
+    "growth_5yr": 0.65,
+    "volatility": 0.26
+  },
+  "ch_00220": {
+    "last_12_month_avg": 90,
+    "growth_5yr": 0.54,
+    "volatility": 0.29
+  },
+  "ch_00221": {
+    "last_12_month_avg": 43,
+    "growth_5yr": 0.25,
+    "volatility": 0.12
+  },
+  "ch_00222": {
+    "last_12_month_avg": 67,
+    "growth_5yr": 0.3,
+    "volatility": 0.19
+  },
+  "ch_00223": {
+    "last_12_month_avg": 100,
+    "growth_5yr": 0.55,
+    "volatility": 0.18
+  },
+  "ch_00224": {
+    "last_12_month_avg": 100,
+    "growth_5yr": 0.63,
+    "volatility": 0.28
+  },
+  "ch_00225": {
+    "last_12_month_avg": 66,
+    "growth_5yr": 0.62,
+    "volatility": 0.14
+  },
+  "ch_00226": {
+    "last_12_month_avg": 50,
+    "growth_5yr": 0.56,
+    "volatility": 0.11
+  },
+  "ch_00227": {
+    "last_12_month_avg": 41,
+    "growth_5yr": 0.31,
+    "volatility": 0.28
+  },
+  "ch_00228": {
+    "last_12_month_avg": 86,
+    "growth_5yr": 0.42,
+    "volatility": 0.06
+  },
+  "ch_00229": {
+    "last_12_month_avg": 75,
+    "growth_5yr": 0.51,
+    "volatility": 0.07
+  },
+  "ch_00230": {
+    "last_12_month_avg": 46,
+    "growth_5yr": 0.68,
+    "volatility": 0.07
+  },
+  "ch_00231": {
+    "last_12_month_avg": 46,
+    "growth_5yr": 0.15,
+    "volatility": 0.13
+  },
+  "ch_00232": {
+    "last_12_month_avg": 51,
+    "growth_5yr": 0.41,
+    "volatility": 0.25
+  },
+  "ch_00233": {
+    "last_12_month_avg": 87,
+    "growth_5yr": 0.43,
+    "volatility": 0.12
+  },
+  "ch_00234": {
+    "last_12_month_avg": 67,
+    "growth_5yr": 0.3,
+    "volatility": 0.23
+  },
+  "ch_00235": {
+    "last_12_month_avg": 61,
+    "growth_5yr": 0.44,
+    "volatility": 0.13
+  },
+  "ch_00236": {
+    "last_12_month_avg": 100,
+    "growth_5yr": 0.16,
+    "volatility": 0.23
+  },
+  "ch_00237": {
+    "last_12_month_avg": 84,
+    "growth_5yr": 0.54,
+    "volatility": 0.19
+  },
+  "ch_00238": {
+    "last_12_month_avg": 88,
+    "growth_5yr": 0.48,
+    "volatility": 0.07
+  },
+  "ch_00239": {
+    "last_12_month_avg": 49,
+    "growth_5yr": 0.43,
+    "volatility": 0.23
+  },
+  "ch_00240": {
+    "last_12_month_avg": 51,
+    "growth_5yr": 0.66,
+    "volatility": 0.25
+  },
+  "ch_00241": {
+    "last_12_month_avg": 82,
+    "growth_5yr": 0.63,
+    "volatility": 0.22
+  },
+  "ch_00242": {
+    "last_12_month_avg": 93,
+    "growth_5yr": 0.49,
+    "volatility": 0.21
+  },
+  "ch_00243": {
+    "last_12_month_avg": 90,
+    "growth_5yr": 0.46,
+    "volatility": 0.07
+  },
+  "ch_00244": {
+    "last_12_month_avg": 78,
+    "growth_5yr": 0.14,
+    "volatility": 0.1
+  },
+  "ch_00245": {
+    "last_12_month_avg": 90,
+    "growth_5yr": 0.5,
+    "volatility": 0.11
+  },
+  "ch_00246": {
+    "last_12_month_avg": 71,
+    "growth_5yr": 0.37,
+    "volatility": 0.15
+  },
+  "ch_00247": {
+    "last_12_month_avg": 89,
+    "growth_5yr": 0.69,
+    "volatility": 0.27
+  },
+  "ch_00248": {
+    "last_12_month_avg": 71,
+    "growth_5yr": 0.19,
+    "volatility": 0.18
+  },
+  "ch_00249": {
+    "last_12_month_avg": 80,
+    "growth_5yr": 0.69,
+    "volatility": 0.22
+  },
+  "ch_00250": {
+    "last_12_month_avg": 95,
+    "growth_5yr": 0.11,
+    "volatility": 0.08
+  },
+  "ch_00251": {
+    "last_12_month_avg": 82,
+    "growth_5yr": 0.63,
+    "volatility": 0.3
+  },
+  "ch_00252": {
+    "last_12_month_avg": 51,
+    "growth_5yr": 0.7,
+    "volatility": 0.26
+  },
+  "ch_00253": {
+    "last_12_month_avg": 89,
+    "growth_5yr": 0.33,
+    "volatility": 0.24
+  },
+  "ch_00254": {
+    "last_12_month_avg": 83,
+    "growth_5yr": 0.68,
+    "volatility": 0.06
+  },
+  "ch_00255": {
+    "last_12_month_avg": 61,
+    "growth_5yr": 0.54,
+    "volatility": 0.07
+  },
+  "ch_00256": {
+    "last_12_month_avg": 50,
+    "growth_5yr": 0.23,
+    "volatility": 0.19
+  },
+  "ch_00257": {
+    "last_12_month_avg": 83,
+    "growth_5yr": 0.4,
+    "volatility": 0.21
+  },
+  "ch_00258": {
+    "last_12_month_avg": 98,
+    "growth_5yr": 0.45,
+    "volatility": 0.09
+  },
+  "ch_00259": {
+    "last_12_month_avg": 41,
+    "growth_5yr": 0.54,
+    "volatility": 0.26
+  },
+  "ch_00260": {
+    "last_12_month_avg": 96,
+    "growth_5yr": 0.34,
+    "volatility": 0.16
+  },
+  "ch_00261": {
+    "last_12_month_avg": 40,
+    "growth_5yr": 0.4,
+    "volatility": 0.08
+  },
+  "ch_00262": {
+    "last_12_month_avg": 83,
+    "growth_5yr": 0.42,
+    "volatility": 0.21
+  },
+  "ch_00263": {
+    "last_12_month_avg": 56,
+    "growth_5yr": 0.31,
+    "volatility": 0.24
+  },
+  "ch_00264": {
+    "last_12_month_avg": 89,
+    "growth_5yr": 0.29,
+    "volatility": 0.14
+  },
+  "ch_00265": {
+    "last_12_month_avg": 54,
+    "growth_5yr": 0.54,
+    "volatility": 0.21
+  },
+  "ch_00266": {
+    "last_12_month_avg": 72,
+    "growth_5yr": 0.22,
+    "volatility": 0.05
+  },
+  "ch_00267": {
+    "last_12_month_avg": 73,
+    "growth_5yr": 0.29,
+    "volatility": 0.11
+  },
+  "ch_00268": {
+    "last_12_month_avg": 70,
+    "growth_5yr": 0.12,
+    "volatility": 0.09
+  },
+  "ch_00269": {
+    "last_12_month_avg": 69,
+    "growth_5yr": 0.63,
+    "volatility": 0.2
+  },
+  "ch_00270": {
+    "last_12_month_avg": 45,
+    "growth_5yr": 0.16,
+    "volatility": 0.24
+  },
+  "ch_00271": {
+    "last_12_month_avg": 66,
+    "growth_5yr": 0.26,
+    "volatility": 0.25
+  },
+  "ch_00272": {
+    "last_12_month_avg": 85,
+    "growth_5yr": 0.48,
+    "volatility": 0.25
+  },
+  "ch_00273": {
+    "last_12_month_avg": 52,
+    "growth_5yr": 0.36,
+    "volatility": 0.07
+  },
+  "ch_00274": {
+    "last_12_month_avg": 89,
+    "growth_5yr": 0.61,
+    "volatility": 0.22
+  },
+  "ch_00275": {
+    "last_12_month_avg": 74,
+    "growth_5yr": 0.26,
+    "volatility": 0.17
+  },
+  "ch_00276": {
+    "last_12_month_avg": 98,
+    "growth_5yr": 0.2,
+    "volatility": 0.11
+  },
+  "ch_00277": {
+    "last_12_month_avg": 70,
+    "growth_5yr": 0.59,
+    "volatility": 0.29
+  },
+  "ch_00278": {
+    "last_12_month_avg": 53,
+    "growth_5yr": 0.52,
+    "volatility": 0.17
+  },
+  "ch_00279": {
+    "last_12_month_avg": 49,
+    "growth_5yr": 0.46,
+    "volatility": 0.06
+  },
+  "ch_00280": {
+    "last_12_month_avg": 66,
+    "growth_5yr": 0.56,
+    "volatility": 0.07
+  },
+  "ch_00281": {
+    "last_12_month_avg": 76,
+    "growth_5yr": 0.64,
+    "volatility": 0.24
+  },
+  "ch_00282": {
+    "last_12_month_avg": 80,
+    "growth_5yr": 0.53,
+    "volatility": 0.16
+  },
+  "ch_00283": {
+    "last_12_month_avg": 62,
+    "growth_5yr": 0.17,
+    "volatility": 0.27
+  },
+  "ch_00284": {
+    "last_12_month_avg": 58,
+    "growth_5yr": 0.48,
+    "volatility": 0.23
+  },
+  "ch_00285": {
+    "last_12_month_avg": 99,
+    "growth_5yr": 0.62,
+    "volatility": 0.18
+  },
+  "ch_00286": {
+    "last_12_month_avg": 64,
+    "growth_5yr": 0.18,
+    "volatility": 0.28
+  },
+  "ch_00287": {
+    "last_12_month_avg": 40,
+    "growth_5yr": 0.69,
+    "volatility": 0.28
+  },
+  "ch_00288": {
+    "last_12_month_avg": 76,
+    "growth_5yr": 0.38,
+    "volatility": 0.2
+  },
+  "ch_00289": {
+    "last_12_month_avg": 92,
+    "growth_5yr": 0.4,
+    "volatility": 0.21
+  },
+  "ch_00290": {
+    "last_12_month_avg": 88,
+    "growth_5yr": 0.66,
+    "volatility": 0.24
+  },
+  "ch_00291": {
+    "last_12_month_avg": 84,
+    "growth_5yr": 0.12,
+    "volatility": 0.27
+  },
+  "ch_00292": {
+    "last_12_month_avg": 91,
+    "growth_5yr": 0.57,
+    "volatility": 0.16
+  },
+  "ch_00293": {
+    "last_12_month_avg": 92,
+    "growth_5yr": 0.42,
+    "volatility": 0.21
+  },
+  "ch_00294": {
+    "last_12_month_avg": 84,
+    "growth_5yr": 0.15,
+    "volatility": 0.2
+  },
+  "ch_00295": {
+    "last_12_month_avg": 72,
+    "growth_5yr": 0.26,
+    "volatility": 0.1
+  },
+  "ch_00296": {
+    "last_12_month_avg": 76,
+    "growth_5yr": 0.49,
+    "volatility": 0.09
+  },
+  "ch_00297": {
+    "last_12_month_avg": 58,
+    "growth_5yr": 0.48,
+    "volatility": 0.12
+  },
+  "ch_00298": {
+    "last_12_month_avg": 72,
+    "growth_5yr": 0.39,
+    "volatility": 0.08
+  },
+  "ch_00299": {
+    "last_12_month_avg": 90,
+    "growth_5yr": 0.35,
+    "volatility": 0.18
+  },
+  "ch_00300": {
+    "last_12_month_avg": 100,
+    "growth_5yr": 0.66,
+    "volatility": 0.12
+  },
+  "ch_00301": {
+    "last_12_month_avg": 74,
+    "growth_5yr": 0.56,
+    "volatility": 0.25
+  },
+  "ch_00302": {
+    "last_12_month_avg": 48,
+    "growth_5yr": 0.44,
+    "volatility": 0.1
+  },
+  "ch_00303": {
+    "last_12_month_avg": 89,
+    "growth_5yr": 0.4,
+    "volatility": 0.07
+  },
+  "ch_00304": {
+    "last_12_month_avg": 52,
+    "growth_5yr": 0.55,
+    "volatility": 0.18
+  },
+  "ch_00305": {
+    "last_12_month_avg": 72,
+    "growth_5yr": 0.55,
+    "volatility": 0.13
+  },
+  "ch_00306": {
+    "last_12_month_avg": 42,
+    "growth_5yr": 0.13,
+    "volatility": 0.13
+  },
+  "ch_00307": {
+    "last_12_month_avg": 88,
+    "growth_5yr": 0.1,
+    "volatility": 0.14
+  },
+  "ch_00308": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.64,
+    "volatility": 0.19
+  },
+  "ch_00309": {
+    "last_12_month_avg": 72,
+    "growth_5yr": 0.57,
+    "volatility": 0.12
+  },
+  "ch_00310": {
+    "last_12_month_avg": 96,
+    "growth_5yr": 0.62,
+    "volatility": 0.13
+  },
+  "ch_00311": {
+    "last_12_month_avg": 69,
+    "growth_5yr": 0.1,
+    "volatility": 0.2
+  },
+  "ch_00312": {
+    "last_12_month_avg": 59,
+    "growth_5yr": 0.63,
+    "volatility": 0.08
+  },
+  "ch_00313": {
+    "last_12_month_avg": 71,
+    "growth_5yr": 0.5,
+    "volatility": 0.15
+  },
+  "ch_00314": {
+    "last_12_month_avg": 57,
+    "growth_5yr": 0.5,
+    "volatility": 0.22
+  },
+  "ch_00315": {
+    "last_12_month_avg": 74,
+    "growth_5yr": 0.44,
+    "volatility": 0.06
+  },
+  "ch_00316": {
+    "last_12_month_avg": 88,
+    "growth_5yr": 0.38,
+    "volatility": 0.26
+  },
+  "ch_00317": {
+    "last_12_month_avg": 69,
+    "growth_5yr": 0.53,
+    "volatility": 0.08
+  },
+  "ch_00318": {
+    "last_12_month_avg": 54,
+    "growth_5yr": 0.24,
+    "volatility": 0.18
+  },
+  "ch_00319": {
+    "last_12_month_avg": 60,
+    "growth_5yr": 0.23,
+    "volatility": 0.06
+  },
+  "ch_00320": {
+    "last_12_month_avg": 40,
+    "growth_5yr": 0.23,
+    "volatility": 0.28
+  },
+  "ch_00321": {
+    "last_12_month_avg": 74,
+    "growth_5yr": 0.38,
+    "volatility": 0.18
+  },
+  "ch_00322": {
+    "last_12_month_avg": 48,
+    "growth_5yr": 0.45,
+    "volatility": 0.1
+  },
+  "ch_00323": {
+    "last_12_month_avg": 91,
+    "growth_5yr": 0.47,
+    "volatility": 0.21
+  },
+  "ch_00324": {
+    "last_12_month_avg": 91,
+    "growth_5yr": 0.34,
+    "volatility": 0.29
+  },
+  "ch_00325": {
+    "last_12_month_avg": 69,
+    "growth_5yr": 0.27,
+    "volatility": 0.19
+  },
+  "ch_00326": {
+    "last_12_month_avg": 93,
+    "growth_5yr": 0.28,
+    "volatility": 0.14
+  },
+  "ch_00327": {
+    "last_12_month_avg": 88,
+    "growth_5yr": 0.65,
+    "volatility": 0.21
+  },
+  "ch_00328": {
+    "last_12_month_avg": 47,
+    "growth_5yr": 0.43,
+    "volatility": 0.14
+  },
+  "ch_00329": {
+    "last_12_month_avg": 78,
+    "growth_5yr": 0.2,
+    "volatility": 0.26
+  },
+  "ch_00330": {
+    "last_12_month_avg": 45,
+    "growth_5yr": 0.67,
+    "volatility": 0.26
+  },
+  "ch_00331": {
+    "last_12_month_avg": 42,
+    "growth_5yr": 0.52,
+    "volatility": 0.08
+  },
+  "ch_00332": {
+    "last_12_month_avg": 56,
+    "growth_5yr": 0.47,
+    "volatility": 0.24
+  },
+  "ch_00333": {
+    "last_12_month_avg": 42,
+    "growth_5yr": 0.23,
+    "volatility": 0.08
+  },
+  "ch_00334": {
+    "last_12_month_avg": 81,
+    "growth_5yr": 0.49,
+    "volatility": 0.15
+  },
+  "ch_00335": {
+    "last_12_month_avg": 43,
+    "growth_5yr": 0.26,
+    "volatility": 0.18
+  },
+  "ch_00336": {
+    "last_12_month_avg": 77,
+    "growth_5yr": 0.6,
+    "volatility": 0.27
+  },
+  "ch_00337": {
+    "last_12_month_avg": 43,
+    "growth_5yr": 0.56,
+    "volatility": 0.29
+  },
+  "ch_00338": {
+    "last_12_month_avg": 59,
+    "growth_5yr": 0.65,
+    "volatility": 0.22
+  },
+  "ch_00339": {
+    "last_12_month_avg": 67,
+    "growth_5yr": 0.47,
+    "volatility": 0.23
+  },
+  "ch_00340": {
+    "last_12_month_avg": 47,
+    "growth_5yr": 0.17,
+    "volatility": 0.22
+  },
+  "ch_00341": {
+    "last_12_month_avg": 56,
+    "growth_5yr": 0.23,
+    "volatility": 0.28
+  },
+  "ch_00342": {
+    "last_12_month_avg": 73,
+    "growth_5yr": 0.32,
+    "volatility": 0.12
+  },
+  "ch_00343": {
+    "last_12_month_avg": 76,
+    "growth_5yr": 0.28,
+    "volatility": 0.2
+  },
+  "ch_00344": {
+    "last_12_month_avg": 40,
+    "growth_5yr": 0.51,
+    "volatility": 0.1
+  },
+  "ch_00345": {
+    "last_12_month_avg": 90,
+    "growth_5yr": 0.6,
+    "volatility": 0.26
+  },
+  "ch_00346": {
+    "last_12_month_avg": 64,
+    "growth_5yr": 0.56,
+    "volatility": 0.23
+  },
+  "ch_00347": {
+    "last_12_month_avg": 83,
+    "growth_5yr": 0.48,
+    "volatility": 0.18
+  },
+  "ch_00348": {
+    "last_12_month_avg": 99,
+    "growth_5yr": 0.53,
+    "volatility": 0.26
+  },
+  "ch_00349": {
+    "last_12_month_avg": 62,
+    "growth_5yr": 0.32,
+    "volatility": 0.26
+  },
+  "ch_00350": {
+    "last_12_month_avg": 78,
+    "growth_5yr": 0.43,
+    "volatility": 0.27
+  },
+  "ch_00351": {
+    "last_12_month_avg": 50,
+    "growth_5yr": 0.35,
+    "volatility": 0.29
+  },
+  "ch_00352": {
+    "last_12_month_avg": 85,
+    "growth_5yr": 0.48,
+    "volatility": 0.08
+  },
+  "ch_00353": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.49,
+    "volatility": 0.22
+  },
+  "ch_00354": {
+    "last_12_month_avg": 55,
+    "growth_5yr": 0.36,
+    "volatility": 0.19
+  },
+  "ch_00355": {
+    "last_12_month_avg": 41,
+    "growth_5yr": 0.33,
+    "volatility": 0.24
+  },
+  "ch_00356": {
+    "last_12_month_avg": 47,
+    "growth_5yr": 0.27,
+    "volatility": 0.28
+  },
+  "ch_00357": {
+    "last_12_month_avg": 56,
+    "growth_5yr": 0.38,
+    "volatility": 0.23
+  },
+  "ch_00358": {
+    "last_12_month_avg": 59,
+    "growth_5yr": 0.24,
+    "volatility": 0.15
+  },
+  "ch_00359": {
+    "last_12_month_avg": 64,
+    "growth_5yr": 0.39,
+    "volatility": 0.25
+  },
+  "ch_00360": {
+    "last_12_month_avg": 69,
+    "growth_5yr": 0.56,
+    "volatility": 0.06
+  },
+  "ch_00361": {
+    "last_12_month_avg": 79,
+    "growth_5yr": 0.27,
+    "volatility": 0.24
+  },
+  "ch_00362": {
+    "last_12_month_avg": 68,
+    "growth_5yr": 0.55,
+    "volatility": 0.12
+  },
+  "ch_00363": {
+    "last_12_month_avg": 93,
+    "growth_5yr": 0.28,
+    "volatility": 0.21
+  },
+  "ch_00364": {
+    "last_12_month_avg": 100,
+    "growth_5yr": 0.15,
+    "volatility": 0.09
+  },
+  "ch_00365": {
+    "last_12_month_avg": 60,
+    "growth_5yr": 0.32,
+    "volatility": 0.11
+  },
+  "ch_00366": {
+    "last_12_month_avg": 51,
+    "growth_5yr": 0.62,
+    "volatility": 0.07
+  },
+  "ch_00367": {
+    "last_12_month_avg": 86,
+    "growth_5yr": 0.58,
+    "volatility": 0.24
+  },
+  "ch_00368": {
+    "last_12_month_avg": 82,
+    "growth_5yr": 0.16,
+    "volatility": 0.14
+  },
+  "ch_00369": {
+    "last_12_month_avg": 95,
+    "growth_5yr": 0.69,
+    "volatility": 0.12
+  },
+  "ch_00370": {
+    "last_12_month_avg": 92,
+    "growth_5yr": 0.26,
+    "volatility": 0.22
+  },
+  "ch_00371": {
+    "last_12_month_avg": 49,
+    "growth_5yr": 0.65,
+    "volatility": 0.13
+  },
+  "ch_00372": {
+    "last_12_month_avg": 73,
+    "growth_5yr": 0.37,
+    "volatility": 0.23
+  },
+  "ch_00373": {
+    "last_12_month_avg": 52,
+    "growth_5yr": 0.67,
+    "volatility": 0.29
+  },
+  "ch_00374": {
+    "last_12_month_avg": 64,
+    "growth_5yr": 0.64,
+    "volatility": 0.28
+  },
+  "ch_00375": {
+    "last_12_month_avg": 45,
+    "growth_5yr": 0.28,
+    "volatility": 0.16
+  },
+  "ch_00376": {
+    "last_12_month_avg": 41,
+    "growth_5yr": 0.49,
+    "volatility": 0.15
+  },
+  "ch_00377": {
+    "last_12_month_avg": 69,
+    "growth_5yr": 0.36,
+    "volatility": 0.06
+  },
+  "ch_00378": {
+    "last_12_month_avg": 59,
+    "growth_5yr": 0.46,
+    "volatility": 0.18
+  },
+  "ch_00379": {
+    "last_12_month_avg": 53,
+    "growth_5yr": 0.24,
+    "volatility": 0.27
+  },
+  "ch_00380": {
+    "last_12_month_avg": 49,
+    "growth_5yr": 0.41,
+    "volatility": 0.2
+  },
+  "ch_00381": {
+    "last_12_month_avg": 52,
+    "growth_5yr": 0.13,
+    "volatility": 0.15
+  },
+  "ch_00382": {
+    "last_12_month_avg": 91,
+    "growth_5yr": 0.7,
+    "volatility": 0.09
+  },
+  "ch_00383": {
+    "last_12_month_avg": 70,
+    "growth_5yr": 0.24,
+    "volatility": 0.18
+  },
+  "ch_00384": {
+    "last_12_month_avg": 41,
+    "growth_5yr": 0.59,
+    "volatility": 0.13
+  },
+  "ch_00385": {
+    "last_12_month_avg": 76,
+    "growth_5yr": 0.14,
+    "volatility": 0.07
+  },
+  "ch_00386": {
+    "last_12_month_avg": 98,
+    "growth_5yr": 0.31,
+    "volatility": 0.25
+  },
+  "ch_00387": {
+    "last_12_month_avg": 68,
+    "growth_5yr": 0.43,
+    "volatility": 0.18
+  },
+  "ch_00388": {
+    "last_12_month_avg": 49,
+    "growth_5yr": 0.54,
+    "volatility": 0.22
+  },
+  "ch_00389": {
+    "last_12_month_avg": 69,
+    "growth_5yr": 0.25,
+    "volatility": 0.16
+  },
+  "ch_00390": {
+    "last_12_month_avg": 64,
+    "growth_5yr": 0.44,
+    "volatility": 0.09
+  },
+  "ch_00391": {
+    "last_12_month_avg": 71,
+    "growth_5yr": 0.4,
+    "volatility": 0.14
+  },
+  "ch_00392": {
+    "last_12_month_avg": 90,
+    "growth_5yr": 0.51,
+    "volatility": 0.09
+  },
+  "ch_00393": {
+    "last_12_month_avg": 45,
+    "growth_5yr": 0.26,
+    "volatility": 0.12
+  },
+  "ch_00394": {
+    "last_12_month_avg": 44,
+    "growth_5yr": 0.25,
+    "volatility": 0.11
+  },
+  "ch_00395": {
+    "last_12_month_avg": 80,
+    "growth_5yr": 0.56,
+    "volatility": 0.16
+  },
+  "ch_00396": {
+    "last_12_month_avg": 52,
+    "growth_5yr": 0.57,
+    "volatility": 0.28
+  },
+  "ch_00397": {
+    "last_12_month_avg": 54,
+    "growth_5yr": 0.18,
+    "volatility": 0.21
+  },
+  "ch_00398": {
+    "last_12_month_avg": 62,
+    "growth_5yr": 0.56,
+    "volatility": 0.12
+  },
+  "ch_00399": {
+    "last_12_month_avg": 95,
+    "growth_5yr": 0.27,
+    "volatility": 0.13
+  },
+  "ch_00400": {
+    "last_12_month_avg": 78,
+    "growth_5yr": 0.43,
+    "volatility": 0.21
+  },
+  "ch_00401": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.16,
+    "volatility": 0.22
+  },
+  "ch_00402": {
+    "last_12_month_avg": 73,
+    "growth_5yr": 0.16,
+    "volatility": 0.3
+  },
+  "ch_00403": {
+    "last_12_month_avg": 86,
+    "growth_5yr": 0.45,
+    "volatility": 0.14
+  },
+  "ch_00404": {
+    "last_12_month_avg": 87,
+    "growth_5yr": 0.67,
+    "volatility": 0.29
+  },
+  "ch_00405": {
+    "last_12_month_avg": 70,
+    "growth_5yr": 0.36,
+    "volatility": 0.22
+  },
+  "ch_00406": {
+    "last_12_month_avg": 99,
+    "growth_5yr": 0.12,
+    "volatility": 0.23
+  },
+  "ch_00407": {
+    "last_12_month_avg": 60,
+    "growth_5yr": 0.11,
+    "volatility": 0.07
+  },
+  "ch_00408": {
+    "last_12_month_avg": 75,
+    "growth_5yr": 0.23,
+    "volatility": 0.06
+  },
+  "ch_00409": {
+    "last_12_month_avg": 48,
+    "growth_5yr": 0.54,
+    "volatility": 0.11
+  },
+  "ch_00410": {
+    "last_12_month_avg": 93,
+    "growth_5yr": 0.27,
+    "volatility": 0.15
+  },
+  "ch_00411": {
+    "last_12_month_avg": 56,
+    "growth_5yr": 0.27,
+    "volatility": 0.29
+  },
+  "ch_00412": {
+    "last_12_month_avg": 50,
+    "growth_5yr": 0.64,
+    "volatility": 0.15
+  },
+  "ch_00413": {
+    "last_12_month_avg": 84,
+    "growth_5yr": 0.22,
+    "volatility": 0.22
+  },
+  "ch_00414": {
+    "last_12_month_avg": 77,
+    "growth_5yr": 0.38,
+    "volatility": 0.25
+  },
+  "ch_00415": {
+    "last_12_month_avg": 70,
+    "growth_5yr": 0.46,
+    "volatility": 0.3
+  },
+  "ch_00416": {
+    "last_12_month_avg": 43,
+    "growth_5yr": 0.38,
+    "volatility": 0.12
+  },
+  "ch_00417": {
+    "last_12_month_avg": 66,
+    "growth_5yr": 0.68,
+    "volatility": 0.16
+  },
+  "ch_00418": {
+    "last_12_month_avg": 43,
+    "growth_5yr": 0.48,
+    "volatility": 0.28
+  },
+  "ch_00419": {
+    "last_12_month_avg": 68,
+    "growth_5yr": 0.32,
+    "volatility": 0.26
+  },
+  "ch_00420": {
+    "last_12_month_avg": 75,
+    "growth_5yr": 0.4,
+    "volatility": 0.29
+  },
+  "ch_00421": {
+    "last_12_month_avg": 90,
+    "growth_5yr": 0.44,
+    "volatility": 0.22
+  },
+  "ch_00422": {
+    "last_12_month_avg": 51,
+    "growth_5yr": 0.64,
+    "volatility": 0.27
+  },
+  "ch_00423": {
+    "last_12_month_avg": 51,
+    "growth_5yr": 0.19,
+    "volatility": 0.3
+  },
+  "ch_00424": {
+    "last_12_month_avg": 84,
+    "growth_5yr": 0.7,
+    "volatility": 0.3
+  },
+  "ch_00425": {
+    "last_12_month_avg": 42,
+    "growth_5yr": 0.25,
+    "volatility": 0.16
+  },
+  "ch_00426": {
+    "last_12_month_avg": 82,
+    "growth_5yr": 0.62,
+    "volatility": 0.25
+  },
+  "ch_00427": {
+    "last_12_month_avg": 74,
+    "growth_5yr": 0.11,
+    "volatility": 0.06
+  },
+  "ch_00428": {
+    "last_12_month_avg": 93,
+    "growth_5yr": 0.48,
+    "volatility": 0.24
+  },
+  "ch_00429": {
+    "last_12_month_avg": 77,
+    "growth_5yr": 0.25,
+    "volatility": 0.1
+  },
+  "ch_00430": {
+    "last_12_month_avg": 54,
+    "growth_5yr": 0.57,
+    "volatility": 0.08
+  },
+  "ch_00431": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.17,
+    "volatility": 0.15
+  },
+  "ch_00432": {
+    "last_12_month_avg": 64,
+    "growth_5yr": 0.29,
+    "volatility": 0.28
+  },
+  "ch_00433": {
+    "last_12_month_avg": 96,
+    "growth_5yr": 0.26,
+    "volatility": 0.09
+  },
+  "ch_00434": {
+    "last_12_month_avg": 81,
+    "growth_5yr": 0.29,
+    "volatility": 0.07
+  },
+  "ch_00435": {
+    "last_12_month_avg": 42,
+    "growth_5yr": 0.41,
+    "volatility": 0.25
+  },
+  "ch_00436": {
+    "last_12_month_avg": 87,
+    "growth_5yr": 0.32,
+    "volatility": 0.29
+  },
+  "ch_00437": {
+    "last_12_month_avg": 96,
+    "growth_5yr": 0.67,
+    "volatility": 0.12
+  },
+  "ch_00438": {
+    "last_12_month_avg": 96,
+    "growth_5yr": 0.62,
+    "volatility": 0.11
+  },
+  "ch_00439": {
+    "last_12_month_avg": 40,
+    "growth_5yr": 0.36,
+    "volatility": 0.15
+  },
+  "ch_00440": {
+    "last_12_month_avg": 52,
+    "growth_5yr": 0.7,
+    "volatility": 0.07
+  },
+  "ch_00441": {
+    "last_12_month_avg": 72,
+    "growth_5yr": 0.69,
+    "volatility": 0.14
+  },
+  "ch_00442": {
+    "last_12_month_avg": 53,
+    "growth_5yr": 0.62,
+    "volatility": 0.3
+  },
+  "ch_00443": {
+    "last_12_month_avg": 76,
+    "growth_5yr": 0.43,
+    "volatility": 0.09
+  },
+  "ch_00444": {
+    "last_12_month_avg": 47,
+    "growth_5yr": 0.14,
+    "volatility": 0.17
+  },
+  "ch_00445": {
+    "last_12_month_avg": 62,
+    "growth_5yr": 0.51,
+    "volatility": 0.24
+  },
+  "ch_00446": {
+    "last_12_month_avg": 78,
+    "growth_5yr": 0.25,
+    "volatility": 0.13
+  },
+  "ch_00447": {
+    "last_12_month_avg": 61,
+    "growth_5yr": 0.52,
+    "volatility": 0.19
+  },
+  "ch_00448": {
+    "last_12_month_avg": 79,
+    "growth_5yr": 0.54,
+    "volatility": 0.07
+  },
+  "ch_00449": {
+    "last_12_month_avg": 44,
+    "growth_5yr": 0.64,
+    "volatility": 0.27
+  },
+  "ch_00450": {
+    "last_12_month_avg": 83,
+    "growth_5yr": 0.61,
+    "volatility": 0.17
+  },
+  "ch_00451": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.19,
+    "volatility": 0.08
+  },
+  "ch_00452": {
+    "last_12_month_avg": 48,
+    "growth_5yr": 0.21,
+    "volatility": 0.13
+  },
+  "ch_00453": {
+    "last_12_month_avg": 99,
+    "growth_5yr": 0.16,
+    "volatility": 0.26
+  },
+  "ch_00454": {
+    "last_12_month_avg": 62,
+    "growth_5yr": 0.65,
+    "volatility": 0.06
+  },
+  "ch_00455": {
+    "last_12_month_avg": 73,
+    "growth_5yr": 0.61,
+    "volatility": 0.12
+  },
+  "ch_00456": {
+    "last_12_month_avg": 84,
+    "growth_5yr": 0.5,
+    "volatility": 0.27
+  },
+  "ch_00457": {
+    "last_12_month_avg": 80,
+    "growth_5yr": 0.49,
+    "volatility": 0.12
+  },
+  "ch_00458": {
+    "last_12_month_avg": 44,
+    "growth_5yr": 0.69,
+    "volatility": 0.17
+  },
+  "ch_00459": {
+    "last_12_month_avg": 98,
+    "growth_5yr": 0.34,
+    "volatility": 0.13
+  },
+  "ch_00460": {
+    "last_12_month_avg": 88,
+    "growth_5yr": 0.27,
+    "volatility": 0.12
+  },
+  "ch_00461": {
+    "last_12_month_avg": 90,
+    "growth_5yr": 0.41,
+    "volatility": 0.19
+  },
+  "ch_00462": {
+    "last_12_month_avg": 65,
+    "growth_5yr": 0.25,
+    "volatility": 0.23
+  },
+  "ch_00463": {
+    "last_12_month_avg": 92,
+    "growth_5yr": 0.22,
+    "volatility": 0.15
+  },
+  "ch_00464": {
+    "last_12_month_avg": 64,
+    "growth_5yr": 0.28,
+    "volatility": 0.21
+  },
+  "ch_00465": {
+    "last_12_month_avg": 53,
+    "growth_5yr": 0.21,
+    "volatility": 0.26
+  },
+  "ch_00466": {
+    "last_12_month_avg": 95,
+    "growth_5yr": 0.56,
+    "volatility": 0.07
+  },
+  "ch_00467": {
+    "last_12_month_avg": 99,
+    "growth_5yr": 0.44,
+    "volatility": 0.16
+  },
+  "ch_00468": {
+    "last_12_month_avg": 88,
+    "growth_5yr": 0.43,
+    "volatility": 0.17
+  },
+  "ch_00469": {
+    "last_12_month_avg": 78,
+    "growth_5yr": 0.45,
+    "volatility": 0.08
+  },
+  "ch_00470": {
+    "last_12_month_avg": 79,
+    "growth_5yr": 0.44,
+    "volatility": 0.13
+  },
+  "ch_00471": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.65,
+    "volatility": 0.19
+  },
+  "ch_00472": {
+    "last_12_month_avg": 75,
+    "growth_5yr": 0.22,
+    "volatility": 0.2
+  },
+  "ch_00473": {
+    "last_12_month_avg": 45,
+    "growth_5yr": 0.17,
+    "volatility": 0.13
+  },
+  "ch_00474": {
+    "last_12_month_avg": 74,
+    "growth_5yr": 0.5,
+    "volatility": 0.09
+  },
+  "ch_00475": {
+    "last_12_month_avg": 99,
+    "growth_5yr": 0.5,
+    "volatility": 0.23
+  },
+  "ch_00476": {
+    "last_12_month_avg": 51,
+    "growth_5yr": 0.38,
+    "volatility": 0.22
+  },
+  "ch_00477": {
+    "last_12_month_avg": 65,
+    "growth_5yr": 0.69,
+    "volatility": 0.18
+  },
+  "ch_00478": {
+    "last_12_month_avg": 78,
+    "growth_5yr": 0.38,
+    "volatility": 0.11
+  },
+  "ch_00479": {
+    "last_12_month_avg": 69,
+    "growth_5yr": 0.54,
+    "volatility": 0.27
+  },
+  "ch_00480": {
+    "last_12_month_avg": 43,
+    "growth_5yr": 0.46,
+    "volatility": 0.25
+  },
+  "ch_00481": {
+    "last_12_month_avg": 72,
+    "growth_5yr": 0.14,
+    "volatility": 0.12
+  },
+  "ch_00482": {
+    "last_12_month_avg": 84,
+    "growth_5yr": 0.6,
+    "volatility": 0.11
+  },
+  "ch_00483": {
+    "last_12_month_avg": 98,
+    "growth_5yr": 0.62,
+    "volatility": 0.07
+  },
+  "ch_00484": {
+    "last_12_month_avg": 51,
+    "growth_5yr": 0.62,
+    "volatility": 0.17
+  },
+  "ch_00485": {
+    "last_12_month_avg": 80,
+    "growth_5yr": 0.49,
+    "volatility": 0.11
+  },
+  "ch_00486": {
+    "last_12_month_avg": 53,
+    "growth_5yr": 0.15,
+    "volatility": 0.18
+  },
+  "ch_00487": {
+    "last_12_month_avg": 92,
+    "growth_5yr": 0.65,
+    "volatility": 0.23
+  },
+  "ch_00488": {
+    "last_12_month_avg": 46,
+    "growth_5yr": 0.27,
+    "volatility": 0.09
+  },
+  "ch_00489": {
+    "last_12_month_avg": 59,
+    "growth_5yr": 0.4,
+    "volatility": 0.14
+  },
+  "ch_00490": {
+    "last_12_month_avg": 84,
+    "growth_5yr": 0.15,
+    "volatility": 0.14
+  },
+  "ch_00491": {
+    "last_12_month_avg": 57,
+    "growth_5yr": 0.69,
+    "volatility": 0.18
+  },
+  "ch_00492": {
+    "last_12_month_avg": 63,
+    "growth_5yr": 0.17,
+    "volatility": 0.19
+  },
+  "ch_00493": {
+    "last_12_month_avg": 100,
+    "growth_5yr": 0.33,
+    "volatility": 0.06
+  },
+  "ch_00494": {
+    "last_12_month_avg": 54,
+    "growth_5yr": 0.31,
+    "volatility": 0.29
+  },
+  "ch_00495": {
+    "last_12_month_avg": 63,
+    "growth_5yr": 0.68,
+    "volatility": 0.22
+  },
+  "ch_00496": {
+    "last_12_month_avg": 49,
+    "growth_5yr": 0.1,
+    "volatility": 0.1
+  },
+  "ch_00497": {
+    "last_12_month_avg": 66,
+    "growth_5yr": 0.29,
+    "volatility": 0.09
+  },
+  "ch_00498": {
+    "last_12_month_avg": 65,
+    "growth_5yr": 0.56,
+    "volatility": 0.18
+  },
+  "ch_00499": {
+    "last_12_month_avg": 55,
+    "growth_5yr": 0.26,
+    "volatility": 0.1
+  },
+  "ch_00500": {
+    "last_12_month_avg": 96,
+    "growth_5yr": 0.51,
+    "volatility": 0.23
+  },
+  "ch_00501": {
+    "last_12_month_avg": 52,
+    "growth_5yr": 0.1,
+    "volatility": 0.16
+  },
+  "ch_00502": {
+    "last_12_month_avg": 63,
+    "growth_5yr": 0.53,
+    "volatility": 0.2
+  },
+  "ch_00503": {
+    "last_12_month_avg": 58,
+    "growth_5yr": 0.66,
+    "volatility": 0.16
+  },
+  "ch_00504": {
+    "last_12_month_avg": 70,
+    "growth_5yr": 0.62,
+    "volatility": 0.26
+  },
+  "ch_00505": {
+    "last_12_month_avg": 40,
+    "growth_5yr": 0.66,
+    "volatility": 0.07
+  },
+  "ch_00506": {
+    "last_12_month_avg": 46,
+    "growth_5yr": 0.38,
+    "volatility": 0.1
+  },
+  "ch_00507": {
+    "last_12_month_avg": 85,
+    "growth_5yr": 0.53,
+    "volatility": 0.12
+  },
+  "ch_00508": {
+    "last_12_month_avg": 53,
+    "growth_5yr": 0.52,
+    "volatility": 0.26
+  },
+  "ch_00509": {
+    "last_12_month_avg": 80,
+    "growth_5yr": 0.53,
+    "volatility": 0.19
+  },
+  "ch_00510": {
+    "last_12_month_avg": 53,
+    "growth_5yr": 0.51,
+    "volatility": 0.28
+  },
+  "ch_00511": {
+    "last_12_month_avg": 52,
+    "growth_5yr": 0.49,
+    "volatility": 0.15
+  },
+  "ch_00512": {
+    "last_12_month_avg": 76,
+    "growth_5yr": 0.48,
+    "volatility": 0.22
+  },
+  "ch_00513": {
+    "last_12_month_avg": 79,
+    "growth_5yr": 0.11,
+    "volatility": 0.2
+  },
+  "ch_00514": {
+    "last_12_month_avg": 54,
+    "growth_5yr": 0.4,
+    "volatility": 0.15
+  },
+  "ch_00515": {
+    "last_12_month_avg": 96,
+    "growth_5yr": 0.62,
+    "volatility": 0.29
+  },
+  "ch_00516": {
+    "last_12_month_avg": 41,
+    "growth_5yr": 0.45,
+    "volatility": 0.25
+  },
+  "ch_00517": {
+    "last_12_month_avg": 73,
+    "growth_5yr": 0.19,
+    "volatility": 0.2
+  },
+  "ch_00518": {
+    "last_12_month_avg": 87,
+    "growth_5yr": 0.5,
+    "volatility": 0.08
+  },
+  "ch_00519": {
+    "last_12_month_avg": 71,
+    "growth_5yr": 0.57,
+    "volatility": 0.1
+  },
+  "ch_00520": {
+    "last_12_month_avg": 69,
+    "growth_5yr": 0.28,
+    "volatility": 0.21
+  },
+  "ch_00521": {
+    "last_12_month_avg": 92,
+    "growth_5yr": 0.33,
+    "volatility": 0.29
+  },
+  "ch_00522": {
+    "last_12_month_avg": 87,
+    "growth_5yr": 0.19,
+    "volatility": 0.12
+  },
+  "ch_00523": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.33,
+    "volatility": 0.09
+  },
+  "ch_00524": {
+    "last_12_month_avg": 53,
+    "growth_5yr": 0.66,
+    "volatility": 0.11
+  },
+  "ch_00525": {
+    "last_12_month_avg": 42,
+    "growth_5yr": 0.66,
+    "volatility": 0.17
+  },
+  "ch_00526": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.7,
+    "volatility": 0.15
+  },
+  "ch_00527": {
+    "last_12_month_avg": 93,
+    "growth_5yr": 0.19,
+    "volatility": 0.13
+  },
+  "ch_00528": {
+    "last_12_month_avg": 53,
+    "growth_5yr": 0.65,
+    "volatility": 0.22
+  },
+  "ch_00529": {
+    "last_12_month_avg": 72,
+    "growth_5yr": 0.27,
+    "volatility": 0.26
+  },
+  "ch_00530": {
+    "last_12_month_avg": 67,
+    "growth_5yr": 0.11,
+    "volatility": 0.22
+  },
+  "ch_00531": {
+    "last_12_month_avg": 56,
+    "growth_5yr": 0.54,
+    "volatility": 0.16
+  },
+  "ch_00532": {
+    "last_12_month_avg": 96,
+    "growth_5yr": 0.62,
+    "volatility": 0.16
+  },
+  "ch_00533": {
+    "last_12_month_avg": 69,
+    "growth_5yr": 0.24,
+    "volatility": 0.16
+  },
+  "ch_00534": {
+    "last_12_month_avg": 100,
+    "growth_5yr": 0.16,
+    "volatility": 0.23
+  },
+  "ch_00535": {
+    "last_12_month_avg": 83,
+    "growth_5yr": 0.11,
+    "volatility": 0.16
+  },
+  "ch_00536": {
+    "last_12_month_avg": 78,
+    "growth_5yr": 0.17,
+    "volatility": 0.12
+  },
+  "ch_00537": {
+    "last_12_month_avg": 90,
+    "growth_5yr": 0.61,
+    "volatility": 0.15
+  },
+  "ch_00538": {
+    "last_12_month_avg": 87,
+    "growth_5yr": 0.39,
+    "volatility": 0.24
+  },
+  "ch_00539": {
+    "last_12_month_avg": 57,
+    "growth_5yr": 0.65,
+    "volatility": 0.27
+  },
+  "ch_00540": {
+    "last_12_month_avg": 44,
+    "growth_5yr": 0.18,
+    "volatility": 0.29
+  },
+  "ch_00541": {
+    "last_12_month_avg": 70,
+    "growth_5yr": 0.12,
+    "volatility": 0.24
+  },
+  "ch_00542": {
+    "last_12_month_avg": 47,
+    "growth_5yr": 0.33,
+    "volatility": 0.28
+  },
+  "ch_00543": {
+    "last_12_month_avg": 95,
+    "growth_5yr": 0.52,
+    "volatility": 0.06
+  },
+  "ch_00544": {
+    "last_12_month_avg": 76,
+    "growth_5yr": 0.44,
+    "volatility": 0.28
+  },
+  "ch_00545": {
+    "last_12_month_avg": 91,
+    "growth_5yr": 0.65,
+    "volatility": 0.15
+  },
+  "ch_00546": {
+    "last_12_month_avg": 46,
+    "growth_5yr": 0.52,
+    "volatility": 0.08
+  },
+  "ch_00547": {
+    "last_12_month_avg": 42,
+    "growth_5yr": 0.22,
+    "volatility": 0.21
+  },
+  "ch_00548": {
+    "last_12_month_avg": 90,
+    "growth_5yr": 0.19,
+    "volatility": 0.26
+  },
+  "ch_00549": {
+    "last_12_month_avg": 92,
+    "growth_5yr": 0.61,
+    "volatility": 0.18
+  },
+  "ch_00550": {
+    "last_12_month_avg": 76,
+    "growth_5yr": 0.64,
+    "volatility": 0.19
+  },
+  "ch_00551": {
+    "last_12_month_avg": 53,
+    "growth_5yr": 0.22,
+    "volatility": 0.3
+  },
+  "ch_00552": {
+    "last_12_month_avg": 84,
+    "growth_5yr": 0.24,
+    "volatility": 0.1
+  },
+  "ch_00553": {
+    "last_12_month_avg": 87,
+    "growth_5yr": 0.15,
+    "volatility": 0.1
+  },
+  "ch_00554": {
+    "last_12_month_avg": 96,
+    "growth_5yr": 0.31,
+    "volatility": 0.08
+  },
+  "ch_00555": {
+    "last_12_month_avg": 45,
+    "growth_5yr": 0.64,
+    "volatility": 0.12
+  },
+  "ch_00556": {
+    "last_12_month_avg": 45,
+    "growth_5yr": 0.39,
+    "volatility": 0.22
+  },
+  "ch_00557": {
+    "last_12_month_avg": 83,
+    "growth_5yr": 0.14,
+    "volatility": 0.1
+  },
+  "ch_00558": {
+    "last_12_month_avg": 41,
+    "growth_5yr": 0.3,
+    "volatility": 0.18
+  },
+  "ch_00559": {
+    "last_12_month_avg": 97,
+    "growth_5yr": 0.17,
+    "volatility": 0.18
+  },
+  "ch_00560": {
+    "last_12_month_avg": 82,
+    "growth_5yr": 0.51,
+    "volatility": 0.24
+  },
+  "ch_00561": {
+    "last_12_month_avg": 81,
+    "growth_5yr": 0.15,
+    "volatility": 0.08
+  },
+  "ch_00562": {
+    "last_12_month_avg": 69,
+    "growth_5yr": 0.31,
+    "volatility": 0.23
+  },
+  "ch_00563": {
+    "last_12_month_avg": 77,
+    "growth_5yr": 0.46,
+    "volatility": 0.11
+  },
+  "ch_00564": {
+    "last_12_month_avg": 63,
+    "growth_5yr": 0.38,
+    "volatility": 0.11
+  },
+  "ch_00565": {
+    "last_12_month_avg": 97,
+    "growth_5yr": 0.51,
+    "volatility": 0.09
+  },
+  "ch_00566": {
+    "last_12_month_avg": 73,
+    "growth_5yr": 0.33,
+    "volatility": 0.3
+  },
+  "ch_00567": {
+    "last_12_month_avg": 71,
+    "growth_5yr": 0.11,
+    "volatility": 0.22
+  },
+  "ch_00568": {
+    "last_12_month_avg": 47,
+    "growth_5yr": 0.28,
+    "volatility": 0.26
+  },
+  "ch_00569": {
+    "last_12_month_avg": 81,
+    "growth_5yr": 0.69,
+    "volatility": 0.12
+  },
+  "ch_00570": {
+    "last_12_month_avg": 45,
+    "growth_5yr": 0.6,
+    "volatility": 0.22
+  },
+  "ch_00571": {
+    "last_12_month_avg": 58,
+    "growth_5yr": 0.3,
+    "volatility": 0.09
+  },
+  "ch_00572": {
+    "last_12_month_avg": 60,
+    "growth_5yr": 0.34,
+    "volatility": 0.05
+  },
+  "ch_00573": {
+    "last_12_month_avg": 59,
+    "growth_5yr": 0.24,
+    "volatility": 0.11
+  },
+  "ch_00574": {
+    "last_12_month_avg": 93,
+    "growth_5yr": 0.44,
+    "volatility": 0.06
+  },
+  "ch_00575": {
+    "last_12_month_avg": 82,
+    "growth_5yr": 0.7,
+    "volatility": 0.08
+  },
+  "ch_00576": {
+    "last_12_month_avg": 64,
+    "growth_5yr": 0.55,
+    "volatility": 0.08
+  },
+  "ch_00577": {
+    "last_12_month_avg": 60,
+    "growth_5yr": 0.34,
+    "volatility": 0.2
+  },
+  "ch_00578": {
+    "last_12_month_avg": 97,
+    "growth_5yr": 0.27,
+    "volatility": 0.19
+  },
+  "ch_00579": {
+    "last_12_month_avg": 59,
+    "growth_5yr": 0.45,
+    "volatility": 0.07
+  },
+  "ch_00580": {
+    "last_12_month_avg": 85,
+    "growth_5yr": 0.11,
+    "volatility": 0.05
+  },
+  "ch_00581": {
+    "last_12_month_avg": 70,
+    "growth_5yr": 0.56,
+    "volatility": 0.16
+  },
+  "ch_00582": {
+    "last_12_month_avg": 88,
+    "growth_5yr": 0.27,
+    "volatility": 0.25
+  },
+  "ch_00583": {
+    "last_12_month_avg": 100,
+    "growth_5yr": 0.46,
+    "volatility": 0.27
+  },
+  "ch_00584": {
+    "last_12_month_avg": 54,
+    "growth_5yr": 0.44,
+    "volatility": 0.21
+  },
+  "ch_00585": {
+    "last_12_month_avg": 46,
+    "growth_5yr": 0.4,
+    "volatility": 0.1
+  },
+  "ch_00586": {
+    "last_12_month_avg": 92,
+    "growth_5yr": 0.28,
+    "volatility": 0.29
+  },
+  "ch_00587": {
+    "last_12_month_avg": 95,
+    "growth_5yr": 0.68,
+    "volatility": 0.28
+  },
+  "ch_00588": {
+    "last_12_month_avg": 54,
+    "growth_5yr": 0.31,
+    "volatility": 0.13
+  },
+  "ch_00589": {
+    "last_12_month_avg": 66,
+    "growth_5yr": 0.32,
+    "volatility": 0.18
+  },
+  "ch_00590": {
+    "last_12_month_avg": 92,
+    "growth_5yr": 0.34,
+    "volatility": 0.14
+  },
+  "ch_00591": {
+    "last_12_month_avg": 72,
+    "growth_5yr": 0.65,
+    "volatility": 0.13
+  },
+  "ch_00592": {
+    "last_12_month_avg": 84,
+    "growth_5yr": 0.37,
+    "volatility": 0.16
+  },
+  "ch_00593": {
+    "last_12_month_avg": 82,
+    "growth_5yr": 0.62,
+    "volatility": 0.15
+  },
+  "ch_00594": {
+    "last_12_month_avg": 93,
+    "growth_5yr": 0.55,
+    "volatility": 0.24
+  },
+  "ch_00595": {
+    "last_12_month_avg": 74,
+    "growth_5yr": 0.36,
+    "volatility": 0.07
+  },
+  "ch_00596": {
+    "last_12_month_avg": 56,
+    "growth_5yr": 0.27,
+    "volatility": 0.2
+  },
+  "ch_00597": {
+    "last_12_month_avg": 83,
+    "growth_5yr": 0.36,
+    "volatility": 0.11
+  },
+  "ch_00598": {
+    "last_12_month_avg": 79,
+    "growth_5yr": 0.26,
+    "volatility": 0.13
+  },
+  "ch_00599": {
+    "last_12_month_avg": 83,
+    "growth_5yr": 0.58,
+    "volatility": 0.06
+  },
+  "ch_00600": {
+    "last_12_month_avg": 71,
+    "growth_5yr": 0.15,
+    "volatility": 0.25
+  },
+  "ch_00601": {
+    "last_12_month_avg": 62,
+    "growth_5yr": 0.38,
+    "volatility": 0.18
+  },
+  "ch_00602": {
+    "last_12_month_avg": 60,
+    "growth_5yr": 0.56,
+    "volatility": 0.25
+  },
+  "ch_00603": {
+    "last_12_month_avg": 51,
+    "growth_5yr": 0.48,
+    "volatility": 0.29
+  },
+  "ch_00604": {
+    "last_12_month_avg": 40,
+    "growth_5yr": 0.2,
+    "volatility": 0.27
+  },
+  "ch_00605": {
+    "last_12_month_avg": 55,
+    "growth_5yr": 0.51,
+    "volatility": 0.2
+  },
+  "ch_00606": {
+    "last_12_month_avg": 95,
+    "growth_5yr": 0.22,
+    "volatility": 0.15
+  },
+  "ch_00607": {
+    "last_12_month_avg": 80,
+    "growth_5yr": 0.17,
+    "volatility": 0.26
+  },
+  "ch_00608": {
+    "last_12_month_avg": 46,
+    "growth_5yr": 0.64,
+    "volatility": 0.24
+  },
+  "ch_00609": {
+    "last_12_month_avg": 44,
+    "growth_5yr": 0.19,
+    "volatility": 0.22
+  },
+  "ch_00610": {
+    "last_12_month_avg": 68,
+    "growth_5yr": 0.25,
+    "volatility": 0.24
+  },
+  "ch_00611": {
+    "last_12_month_avg": 75,
+    "growth_5yr": 0.64,
+    "volatility": 0.12
+  },
+  "ch_00612": {
+    "last_12_month_avg": 82,
+    "growth_5yr": 0.47,
+    "volatility": 0.13
+  },
+  "ch_00613": {
+    "last_12_month_avg": 40,
+    "growth_5yr": 0.23,
+    "volatility": 0.18
+  },
+  "ch_00614": {
+    "last_12_month_avg": 98,
+    "growth_5yr": 0.38,
+    "volatility": 0.25
+  },
+  "ch_00615": {
+    "last_12_month_avg": 75,
+    "growth_5yr": 0.12,
+    "volatility": 0.16
+  },
+  "ch_00616": {
+    "last_12_month_avg": 52,
+    "growth_5yr": 0.11,
+    "volatility": 0.28
+  },
+  "ch_00617": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.5,
+    "volatility": 0.15
+  },
+  "ch_00618": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.14,
+    "volatility": 0.1
+  },
+  "ch_00619": {
+    "last_12_month_avg": 92,
+    "growth_5yr": 0.29,
+    "volatility": 0.19
+  },
+  "ch_00620": {
+    "last_12_month_avg": 84,
+    "growth_5yr": 0.33,
+    "volatility": 0.17
+  },
+  "ch_00621": {
+    "last_12_month_avg": 44,
+    "growth_5yr": 0.38,
+    "volatility": 0.07
+  },
+  "ch_00622": {
+    "last_12_month_avg": 65,
+    "growth_5yr": 0.44,
+    "volatility": 0.2
+  },
+  "ch_00623": {
+    "last_12_month_avg": 96,
+    "growth_5yr": 0.68,
+    "volatility": 0.17
+  },
+  "ch_00624": {
+    "last_12_month_avg": 97,
+    "growth_5yr": 0.64,
+    "volatility": 0.29
+  },
+  "ch_00625": {
+    "last_12_month_avg": 88,
+    "growth_5yr": 0.1,
+    "volatility": 0.16
+  },
+  "ch_00626": {
+    "last_12_month_avg": 87,
+    "growth_5yr": 0.48,
+    "volatility": 0.12
+  },
+  "ch_00627": {
+    "last_12_month_avg": 69,
+    "growth_5yr": 0.17,
+    "volatility": 0.16
+  },
+  "ch_00628": {
+    "last_12_month_avg": 78,
+    "growth_5yr": 0.51,
+    "volatility": 0.27
+  },
+  "ch_00629": {
+    "last_12_month_avg": 84,
+    "growth_5yr": 0.41,
+    "volatility": 0.07
+  },
+  "ch_00630": {
+    "last_12_month_avg": 71,
+    "growth_5yr": 0.59,
+    "volatility": 0.15
+  },
+  "ch_00631": {
+    "last_12_month_avg": 52,
+    "growth_5yr": 0.21,
+    "volatility": 0.11
+  },
+  "ch_00632": {
+    "last_12_month_avg": 45,
+    "growth_5yr": 0.48,
+    "volatility": 0.12
+  },
+  "ch_00633": {
+    "last_12_month_avg": 49,
+    "growth_5yr": 0.44,
+    "volatility": 0.11
+  },
+  "ch_00634": {
+    "last_12_month_avg": 67,
+    "growth_5yr": 0.67,
+    "volatility": 0.1
+  },
+  "ch_00635": {
+    "last_12_month_avg": 56,
+    "growth_5yr": 0.1,
+    "volatility": 0.24
+  },
+  "ch_00636": {
+    "last_12_month_avg": 79,
+    "growth_5yr": 0.52,
+    "volatility": 0.28
+  },
+  "ch_00637": {
+    "last_12_month_avg": 73,
+    "growth_5yr": 0.21,
+    "volatility": 0.24
+  },
+  "ch_00638": {
+    "last_12_month_avg": 96,
+    "growth_5yr": 0.29,
+    "volatility": 0.07
+  },
+  "ch_00639": {
+    "last_12_month_avg": 52,
+    "growth_5yr": 0.36,
+    "volatility": 0.22
+  },
+  "ch_00640": {
+    "last_12_month_avg": 60,
+    "growth_5yr": 0.68,
+    "volatility": 0.18
+  },
+  "ch_00641": {
+    "last_12_month_avg": 89,
+    "growth_5yr": 0.28,
+    "volatility": 0.17
+  },
+  "ch_00642": {
+    "last_12_month_avg": 74,
+    "growth_5yr": 0.27,
+    "volatility": 0.13
+  },
+  "ch_00643": {
+    "last_12_month_avg": 71,
+    "growth_5yr": 0.29,
+    "volatility": 0.25
+  },
+  "ch_00644": {
+    "last_12_month_avg": 42,
+    "growth_5yr": 0.37,
+    "volatility": 0.14
+  },
+  "ch_00645": {
+    "last_12_month_avg": 100,
+    "growth_5yr": 0.69,
+    "volatility": 0.27
+  },
+  "ch_00646": {
+    "last_12_month_avg": 99,
+    "growth_5yr": 0.42,
+    "volatility": 0.07
+  },
+  "ch_00647": {
+    "last_12_month_avg": 90,
+    "growth_5yr": 0.66,
+    "volatility": 0.17
+  },
+  "ch_00648": {
+    "last_12_month_avg": 51,
+    "growth_5yr": 0.69,
+    "volatility": 0.11
+  },
+  "ch_00649": {
+    "last_12_month_avg": 64,
+    "growth_5yr": 0.68,
+    "volatility": 0.3
+  },
+  "ch_00650": {
+    "last_12_month_avg": 49,
+    "growth_5yr": 0.42,
+    "volatility": 0.18
+  },
+  "ch_00651": {
+    "last_12_month_avg": 93,
+    "growth_5yr": 0.48,
+    "volatility": 0.14
+  },
+  "ch_00652": {
+    "last_12_month_avg": 42,
+    "growth_5yr": 0.38,
+    "volatility": 0.13
+  },
+  "ch_00653": {
+    "last_12_month_avg": 82,
+    "growth_5yr": 0.34,
+    "volatility": 0.08
+  },
+  "ch_00654": {
+    "last_12_month_avg": 48,
+    "growth_5yr": 0.1,
+    "volatility": 0.13
+  },
+  "ch_00655": {
+    "last_12_month_avg": 47,
+    "growth_5yr": 0.53,
+    "volatility": 0.05
+  },
+  "ch_00656": {
+    "last_12_month_avg": 66,
+    "growth_5yr": 0.27,
+    "volatility": 0.2
+  },
+  "ch_00657": {
+    "last_12_month_avg": 90,
+    "growth_5yr": 0.59,
+    "volatility": 0.15
+  },
+  "ch_00658": {
+    "last_12_month_avg": 40,
+    "growth_5yr": 0.57,
+    "volatility": 0.23
+  },
+  "ch_00659": {
+    "last_12_month_avg": 55,
+    "growth_5yr": 0.57,
+    "volatility": 0.17
+  },
+  "ch_00660": {
+    "last_12_month_avg": 42,
+    "growth_5yr": 0.34,
+    "volatility": 0.27
+  },
+  "ch_00661": {
+    "last_12_month_avg": 81,
+    "growth_5yr": 0.42,
+    "volatility": 0.27
+  },
+  "ch_00662": {
+    "last_12_month_avg": 86,
+    "growth_5yr": 0.66,
+    "volatility": 0.09
+  },
+  "ch_00663": {
+    "last_12_month_avg": 93,
+    "growth_5yr": 0.43,
+    "volatility": 0.15
+  },
+  "ch_00664": {
+    "last_12_month_avg": 85,
+    "growth_5yr": 0.61,
+    "volatility": 0.06
+  },
+  "ch_00665": {
+    "last_12_month_avg": 83,
+    "growth_5yr": 0.21,
+    "volatility": 0.23
+  },
+  "ch_00666": {
+    "last_12_month_avg": 78,
+    "growth_5yr": 0.22,
+    "volatility": 0.26
+  },
+  "ch_00667": {
+    "last_12_month_avg": 91,
+    "growth_5yr": 0.33,
+    "volatility": 0.11
+  },
+  "ch_00668": {
+    "last_12_month_avg": 76,
+    "growth_5yr": 0.65,
+    "volatility": 0.09
+  },
+  "ch_00669": {
+    "last_12_month_avg": 49,
+    "growth_5yr": 0.65,
+    "volatility": 0.15
+  },
+  "ch_00670": {
+    "last_12_month_avg": 42,
+    "growth_5yr": 0.15,
+    "volatility": 0.23
+  },
+  "ch_00671": {
+    "last_12_month_avg": 84,
+    "growth_5yr": 0.11,
+    "volatility": 0.18
+  },
+  "ch_00672": {
+    "last_12_month_avg": 71,
+    "growth_5yr": 0.15,
+    "volatility": 0.27
+  },
+  "ch_00673": {
+    "last_12_month_avg": 75,
+    "growth_5yr": 0.6,
+    "volatility": 0.17
+  },
+  "ch_00674": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.37,
+    "volatility": 0.29
+  },
+  "ch_00675": {
+    "last_12_month_avg": 71,
+    "growth_5yr": 0.69,
+    "volatility": 0.11
+  },
+  "ch_00676": {
+    "last_12_month_avg": 63,
+    "growth_5yr": 0.2,
+    "volatility": 0.17
+  },
+  "ch_00677": {
+    "last_12_month_avg": 76,
+    "growth_5yr": 0.22,
+    "volatility": 0.06
+  },
+  "ch_00678": {
+    "last_12_month_avg": 57,
+    "growth_5yr": 0.21,
+    "volatility": 0.18
+  },
+  "ch_00679": {
+    "last_12_month_avg": 91,
+    "growth_5yr": 0.39,
+    "volatility": 0.19
+  },
+  "ch_00680": {
+    "last_12_month_avg": 93,
+    "growth_5yr": 0.49,
+    "volatility": 0.3
+  },
+  "ch_00681": {
+    "last_12_month_avg": 91,
+    "growth_5yr": 0.36,
+    "volatility": 0.21
+  },
+  "ch_00682": {
+    "last_12_month_avg": 58,
+    "growth_5yr": 0.15,
+    "volatility": 0.23
+  },
+  "ch_00683": {
+    "last_12_month_avg": 69,
+    "growth_5yr": 0.19,
+    "volatility": 0.18
+  },
+  "ch_00684": {
+    "last_12_month_avg": 73,
+    "growth_5yr": 0.51,
+    "volatility": 0.18
+  },
+  "ch_00685": {
+    "last_12_month_avg": 40,
+    "growth_5yr": 0.41,
+    "volatility": 0.07
+  },
+  "ch_00686": {
+    "last_12_month_avg": 92,
+    "growth_5yr": 0.18,
+    "volatility": 0.29
+  },
+  "ch_00687": {
+    "last_12_month_avg": 70,
+    "growth_5yr": 0.68,
+    "volatility": 0.27
+  },
+  "ch_00688": {
+    "last_12_month_avg": 45,
+    "growth_5yr": 0.22,
+    "volatility": 0.25
+  },
+  "ch_00689": {
+    "last_12_month_avg": 47,
+    "growth_5yr": 0.45,
+    "volatility": 0.13
+  },
+  "ch_00690": {
+    "last_12_month_avg": 62,
+    "growth_5yr": 0.2,
+    "volatility": 0.08
+  },
+  "ch_00691": {
+    "last_12_month_avg": 54,
+    "growth_5yr": 0.29,
+    "volatility": 0.22
+  },
+  "ch_00692": {
+    "last_12_month_avg": 50,
+    "growth_5yr": 0.6,
+    "volatility": 0.17
+  },
+  "ch_00693": {
+    "last_12_month_avg": 83,
+    "growth_5yr": 0.53,
+    "volatility": 0.12
+  },
+  "ch_00694": {
+    "last_12_month_avg": 51,
+    "growth_5yr": 0.57,
+    "volatility": 0.05
+  },
+  "ch_00695": {
+    "last_12_month_avg": 40,
+    "growth_5yr": 0.44,
+    "volatility": 0.25
+  },
+  "ch_00696": {
+    "last_12_month_avg": 84,
+    "growth_5yr": 0.66,
+    "volatility": 0.1
+  },
+  "ch_00697": {
+    "last_12_month_avg": 89,
+    "growth_5yr": 0.12,
+    "volatility": 0.09
+  },
+  "ch_00698": {
+    "last_12_month_avg": 99,
+    "growth_5yr": 0.63,
+    "volatility": 0.15
+  },
+  "ch_00699": {
+    "last_12_month_avg": 62,
+    "growth_5yr": 0.66,
+    "volatility": 0.3
+  },
+  "ch_00700": {
+    "last_12_month_avg": 80,
+    "growth_5yr": 0.34,
+    "volatility": 0.28
+  },
+  "ch_00701": {
+    "last_12_month_avg": 77,
+    "growth_5yr": 0.6,
+    "volatility": 0.19
+  },
+  "ch_00702": {
+    "last_12_month_avg": 55,
+    "growth_5yr": 0.38,
+    "volatility": 0.19
+  },
+  "ch_00703": {
+    "last_12_month_avg": 66,
+    "growth_5yr": 0.2,
+    "volatility": 0.23
+  },
+  "ch_00704": {
+    "last_12_month_avg": 86,
+    "growth_5yr": 0.57,
+    "volatility": 0.1
+  },
+  "ch_00705": {
+    "last_12_month_avg": 61,
+    "growth_5yr": 0.2,
+    "volatility": 0.2
+  },
+  "ch_00706": {
+    "last_12_month_avg": 61,
+    "growth_5yr": 0.64,
+    "volatility": 0.25
+  },
+  "ch_00707": {
+    "last_12_month_avg": 72,
+    "growth_5yr": 0.69,
+    "volatility": 0.28
+  },
+  "ch_00708": {
+    "last_12_month_avg": 65,
+    "growth_5yr": 0.16,
+    "volatility": 0.21
+  },
+  "ch_00709": {
+    "last_12_month_avg": 61,
+    "growth_5yr": 0.28,
+    "volatility": 0.08
+  },
+  "ch_00710": {
+    "last_12_month_avg": 98,
+    "growth_5yr": 0.23,
+    "volatility": 0.25
+  },
+  "ch_00711": {
+    "last_12_month_avg": 41,
+    "growth_5yr": 0.19,
+    "volatility": 0.24
+  },
+  "ch_00712": {
+    "last_12_month_avg": 46,
+    "growth_5yr": 0.4,
+    "volatility": 0.28
+  },
+  "ch_00713": {
+    "last_12_month_avg": 88,
+    "growth_5yr": 0.42,
+    "volatility": 0.09
+  },
+  "ch_00714": {
+    "last_12_month_avg": 81,
+    "growth_5yr": 0.27,
+    "volatility": 0.29
+  },
+  "ch_00715": {
+    "last_12_month_avg": 60,
+    "growth_5yr": 0.54,
+    "volatility": 0.18
+  },
+  "ch_00716": {
+    "last_12_month_avg": 86,
+    "growth_5yr": 0.53,
+    "volatility": 0.28
+  },
+  "ch_00717": {
+    "last_12_month_avg": 90,
+    "growth_5yr": 0.36,
+    "volatility": 0.11
+  },
+  "ch_00718": {
+    "last_12_month_avg": 57,
+    "growth_5yr": 0.2,
+    "volatility": 0.13
+  },
+  "ch_00719": {
+    "last_12_month_avg": 59,
+    "growth_5yr": 0.28,
+    "volatility": 0.11
+  },
+  "ch_00720": {
+    "last_12_month_avg": 65,
+    "growth_5yr": 0.11,
+    "volatility": 0.1
+  },
+  "ch_00721": {
+    "last_12_month_avg": 80,
+    "growth_5yr": 0.44,
+    "volatility": 0.08
+  },
+  "ch_00722": {
+    "last_12_month_avg": 80,
+    "growth_5yr": 0.27,
+    "volatility": 0.12
+  },
+  "ch_00723": {
+    "last_12_month_avg": 66,
+    "growth_5yr": 0.43,
+    "volatility": 0.1
+  },
+  "ch_00724": {
+    "last_12_month_avg": 77,
+    "growth_5yr": 0.56,
+    "volatility": 0.21
+  },
+  "ch_00725": {
+    "last_12_month_avg": 78,
+    "growth_5yr": 0.31,
+    "volatility": 0.26
+  },
+  "ch_00726": {
+    "last_12_month_avg": 98,
+    "growth_5yr": 0.35,
+    "volatility": 0.07
+  },
+  "ch_00727": {
+    "last_12_month_avg": 64,
+    "growth_5yr": 0.43,
+    "volatility": 0.25
+  },
+  "ch_00728": {
+    "last_12_month_avg": 76,
+    "growth_5yr": 0.63,
+    "volatility": 0.19
+  },
+  "ch_00729": {
+    "last_12_month_avg": 52,
+    "growth_5yr": 0.48,
+    "volatility": 0.1
+  },
+  "ch_00730": {
+    "last_12_month_avg": 65,
+    "growth_5yr": 0.58,
+    "volatility": 0.24
+  },
+  "ch_00731": {
+    "last_12_month_avg": 99,
+    "growth_5yr": 0.47,
+    "volatility": 0.07
+  },
+  "ch_00732": {
+    "last_12_month_avg": 48,
+    "growth_5yr": 0.54,
+    "volatility": 0.17
+  },
+  "ch_00733": {
+    "last_12_month_avg": 65,
+    "growth_5yr": 0.69,
+    "volatility": 0.21
+  },
+  "ch_00734": {
+    "last_12_month_avg": 50,
+    "growth_5yr": 0.65,
+    "volatility": 0.2
+  },
+  "ch_00735": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.55,
+    "volatility": 0.22
+  },
+  "ch_00736": {
+    "last_12_month_avg": 70,
+    "growth_5yr": 0.6,
+    "volatility": 0.06
+  },
+  "ch_00737": {
+    "last_12_month_avg": 89,
+    "growth_5yr": 0.36,
+    "volatility": 0.07
+  },
+  "ch_00738": {
+    "last_12_month_avg": 52,
+    "growth_5yr": 0.34,
+    "volatility": 0.11
+  },
+  "ch_00739": {
+    "last_12_month_avg": 87,
+    "growth_5yr": 0.22,
+    "volatility": 0.16
+  },
+  "ch_00740": {
+    "last_12_month_avg": 75,
+    "growth_5yr": 0.68,
+    "volatility": 0.16
+  },
+  "ch_00741": {
+    "last_12_month_avg": 93,
+    "growth_5yr": 0.39,
+    "volatility": 0.16
+  },
+  "ch_00742": {
+    "last_12_month_avg": 91,
+    "growth_5yr": 0.17,
+    "volatility": 0.26
+  },
+  "ch_00743": {
+    "last_12_month_avg": 66,
+    "growth_5yr": 0.57,
+    "volatility": 0.2
+  },
+  "ch_00744": {
+    "last_12_month_avg": 59,
+    "growth_5yr": 0.65,
+    "volatility": 0.23
+  },
+  "ch_00745": {
+    "last_12_month_avg": 74,
+    "growth_5yr": 0.53,
+    "volatility": 0.09
+  },
+  "ch_00746": {
+    "last_12_month_avg": 55,
+    "growth_5yr": 0.41,
+    "volatility": 0.25
+  },
+  "ch_00747": {
+    "last_12_month_avg": 65,
+    "growth_5yr": 0.2,
+    "volatility": 0.12
+  },
+  "ch_00748": {
+    "last_12_month_avg": 46,
+    "growth_5yr": 0.64,
+    "volatility": 0.17
+  },
+  "ch_00749": {
+    "last_12_month_avg": 71,
+    "growth_5yr": 0.32,
+    "volatility": 0.17
+  },
+  "ch_00750": {
+    "last_12_month_avg": 98,
+    "growth_5yr": 0.66,
+    "volatility": 0.15
+  },
+  "ch_00751": {
+    "last_12_month_avg": 80,
+    "growth_5yr": 0.36,
+    "volatility": 0.19
+  },
+  "ch_00752": {
+    "last_12_month_avg": 92,
+    "growth_5yr": 0.57,
+    "volatility": 0.29
+  },
+  "ch_00753": {
+    "last_12_month_avg": 87,
+    "growth_5yr": 0.11,
+    "volatility": 0.23
+  },
+  "ch_00754": {
+    "last_12_month_avg": 99,
+    "growth_5yr": 0.24,
+    "volatility": 0.2
+  },
+  "ch_00755": {
+    "last_12_month_avg": 67,
+    "growth_5yr": 0.6,
+    "volatility": 0.12
+  },
+  "ch_00756": {
+    "last_12_month_avg": 95,
+    "growth_5yr": 0.39,
+    "volatility": 0.11
+  },
+  "ch_00757": {
+    "last_12_month_avg": 68,
+    "growth_5yr": 0.54,
+    "volatility": 0.12
+  },
+  "ch_00758": {
+    "last_12_month_avg": 47,
+    "growth_5yr": 0.62,
+    "volatility": 0.19
+  },
+  "ch_00759": {
+    "last_12_month_avg": 64,
+    "growth_5yr": 0.63,
+    "volatility": 0.08
+  },
+  "ch_00760": {
+    "last_12_month_avg": 57,
+    "growth_5yr": 0.22,
+    "volatility": 0.06
+  },
+  "ch_00761": {
+    "last_12_month_avg": 66,
+    "growth_5yr": 0.12,
+    "volatility": 0.09
+  },
+  "ch_00762": {
+    "last_12_month_avg": 75,
+    "growth_5yr": 0.15,
+    "volatility": 0.1
+  },
+  "ch_00763": {
+    "last_12_month_avg": 43,
+    "growth_5yr": 0.27,
+    "volatility": 0.12
+  },
+  "ch_00764": {
+    "last_12_month_avg": 47,
+    "growth_5yr": 0.64,
+    "volatility": 0.11
+  },
+  "ch_00765": {
+    "last_12_month_avg": 56,
+    "growth_5yr": 0.45,
+    "volatility": 0.13
+  },
+  "ch_00766": {
+    "last_12_month_avg": 81,
+    "growth_5yr": 0.67,
+    "volatility": 0.26
+  },
+  "ch_00767": {
+    "last_12_month_avg": 76,
+    "growth_5yr": 0.58,
+    "volatility": 0.25
+  },
+  "ch_00768": {
+    "last_12_month_avg": 60,
+    "growth_5yr": 0.59,
+    "volatility": 0.11
+  },
+  "ch_00769": {
+    "last_12_month_avg": 87,
+    "growth_5yr": 0.16,
+    "volatility": 0.16
+  },
+  "ch_00770": {
+    "last_12_month_avg": 65,
+    "growth_5yr": 0.41,
+    "volatility": 0.28
+  },
+  "ch_00771": {
+    "last_12_month_avg": 61,
+    "growth_5yr": 0.25,
+    "volatility": 0.1
+  },
+  "ch_00772": {
+    "last_12_month_avg": 52,
+    "growth_5yr": 0.17,
+    "volatility": 0.15
+  },
+  "ch_00773": {
+    "last_12_month_avg": 66,
+    "growth_5yr": 0.22,
+    "volatility": 0.12
+  },
+  "ch_00774": {
+    "last_12_month_avg": 61,
+    "growth_5yr": 0.42,
+    "volatility": 0.18
+  },
+  "ch_00775": {
+    "last_12_month_avg": 96,
+    "growth_5yr": 0.39,
+    "volatility": 0.21
+  },
+  "ch_00776": {
+    "last_12_month_avg": 78,
+    "growth_5yr": 0.21,
+    "volatility": 0.22
+  },
+  "ch_00777": {
+    "last_12_month_avg": 69,
+    "growth_5yr": 0.69,
+    "volatility": 0.1
+  },
+  "ch_00778": {
+    "last_12_month_avg": 85,
+    "growth_5yr": 0.19,
+    "volatility": 0.17
+  },
+  "ch_00779": {
+    "last_12_month_avg": 64,
+    "growth_5yr": 0.12,
+    "volatility": 0.07
+  },
+  "ch_00780": {
+    "last_12_month_avg": 47,
+    "growth_5yr": 0.19,
+    "volatility": 0.14
+  },
+  "ch_00781": {
+    "last_12_month_avg": 59,
+    "growth_5yr": 0.11,
+    "volatility": 0.1
+  },
+  "ch_00782": {
+    "last_12_month_avg": 73,
+    "growth_5yr": 0.33,
+    "volatility": 0.23
+  },
+  "ch_00783": {
+    "last_12_month_avg": 95,
+    "growth_5yr": 0.21,
+    "volatility": 0.21
+  },
+  "ch_00784": {
+    "last_12_month_avg": 44,
+    "growth_5yr": 0.36,
+    "volatility": 0.11
+  },
+  "ch_00785": {
+    "last_12_month_avg": 49,
+    "growth_5yr": 0.13,
+    "volatility": 0.21
+  },
+  "ch_00786": {
+    "last_12_month_avg": 79,
+    "growth_5yr": 0.35,
+    "volatility": 0.08
+  },
+  "ch_00787": {
+    "last_12_month_avg": 86,
+    "growth_5yr": 0.33,
+    "volatility": 0.13
+  },
+  "ch_00788": {
+    "last_12_month_avg": 67,
+    "growth_5yr": 0.18,
+    "volatility": 0.22
+  },
+  "ch_00789": {
+    "last_12_month_avg": 72,
+    "growth_5yr": 0.22,
+    "volatility": 0.22
+  },
+  "ch_00790": {
+    "last_12_month_avg": 98,
+    "growth_5yr": 0.24,
+    "volatility": 0.1
+  },
+  "ch_00791": {
+    "last_12_month_avg": 42,
+    "growth_5yr": 0.21,
+    "volatility": 0.08
+  },
+  "ch_00792": {
+    "last_12_month_avg": 79,
+    "growth_5yr": 0.56,
+    "volatility": 0.3
+  },
+  "ch_00793": {
+    "last_12_month_avg": 50,
+    "growth_5yr": 0.59,
+    "volatility": 0.21
+  },
+  "ch_00794": {
+    "last_12_month_avg": 91,
+    "growth_5yr": 0.42,
+    "volatility": 0.17
+  },
+  "ch_00795": {
+    "last_12_month_avg": 86,
+    "growth_5yr": 0.59,
+    "volatility": 0.12
+  },
+  "ch_00796": {
+    "last_12_month_avg": 83,
+    "growth_5yr": 0.67,
+    "volatility": 0.26
+  },
+  "ch_00797": {
+    "last_12_month_avg": 72,
+    "growth_5yr": 0.61,
+    "volatility": 0.26
+  },
+  "ch_00798": {
+    "last_12_month_avg": 96,
+    "growth_5yr": 0.48,
+    "volatility": 0.28
+  },
+  "ch_00799": {
+    "last_12_month_avg": 62,
+    "growth_5yr": 0.38,
+    "volatility": 0.1
+  },
+  "ch_00800": {
+    "last_12_month_avg": 74,
+    "growth_5yr": 0.34,
+    "volatility": 0.11
+  },
+  "ch_00801": {
+    "last_12_month_avg": 100,
+    "growth_5yr": 0.69,
+    "volatility": 0.17
+  },
+  "ch_00802": {
+    "last_12_month_avg": 52,
+    "growth_5yr": 0.16,
+    "volatility": 0.06
+  },
+  "ch_00803": {
+    "last_12_month_avg": 79,
+    "growth_5yr": 0.13,
+    "volatility": 0.25
+  },
+  "ch_00804": {
+    "last_12_month_avg": 73,
+    "growth_5yr": 0.6,
+    "volatility": 0.29
+  },
+  "ch_00805": {
+    "last_12_month_avg": 78,
+    "growth_5yr": 0.15,
+    "volatility": 0.09
+  },
+  "ch_00806": {
+    "last_12_month_avg": 63,
+    "growth_5yr": 0.27,
+    "volatility": 0.16
+  },
+  "ch_00807": {
+    "last_12_month_avg": 60,
+    "growth_5yr": 0.2,
+    "volatility": 0.18
+  },
+  "ch_00808": {
+    "last_12_month_avg": 63,
+    "growth_5yr": 0.64,
+    "volatility": 0.15
+  },
+  "ch_00809": {
+    "last_12_month_avg": 44,
+    "growth_5yr": 0.62,
+    "volatility": 0.16
+  },
+  "ch_00810": {
+    "last_12_month_avg": 69,
+    "growth_5yr": 0.17,
+    "volatility": 0.08
+  },
+  "ch_00811": {
+    "last_12_month_avg": 53,
+    "growth_5yr": 0.12,
+    "volatility": 0.23
+  },
+  "ch_00812": {
+    "last_12_month_avg": 99,
+    "growth_5yr": 0.53,
+    "volatility": 0.09
+  },
+  "ch_00813": {
+    "last_12_month_avg": 69,
+    "growth_5yr": 0.4,
+    "volatility": 0.15
+  },
+  "ch_00814": {
+    "last_12_month_avg": 67,
+    "growth_5yr": 0.32,
+    "volatility": 0.12
+  },
+  "ch_00815": {
+    "last_12_month_avg": 95,
+    "growth_5yr": 0.19,
+    "volatility": 0.27
+  },
+  "ch_00816": {
+    "last_12_month_avg": 64,
+    "growth_5yr": 0.49,
+    "volatility": 0.16
+  },
+  "ch_00817": {
+    "last_12_month_avg": 66,
+    "growth_5yr": 0.15,
+    "volatility": 0.18
+  },
+  "ch_00818": {
+    "last_12_month_avg": 61,
+    "growth_5yr": 0.34,
+    "volatility": 0.21
+  },
+  "ch_00819": {
+    "last_12_month_avg": 75,
+    "growth_5yr": 0.6,
+    "volatility": 0.2
+  },
+  "ch_00820": {
+    "last_12_month_avg": 83,
+    "growth_5yr": 0.4,
+    "volatility": 0.29
+  },
+  "ch_00821": {
+    "last_12_month_avg": 82,
+    "growth_5yr": 0.31,
+    "volatility": 0.1
+  },
+  "ch_00822": {
+    "last_12_month_avg": 89,
+    "growth_5yr": 0.43,
+    "volatility": 0.06
+  },
+  "ch_00823": {
+    "last_12_month_avg": 58,
+    "growth_5yr": 0.35,
+    "volatility": 0.12
+  },
+  "ch_00824": {
+    "last_12_month_avg": 41,
+    "growth_5yr": 0.13,
+    "volatility": 0.3
+  },
+  "ch_00825": {
+    "last_12_month_avg": 69,
+    "growth_5yr": 0.67,
+    "volatility": 0.29
+  },
+  "ch_00826": {
+    "last_12_month_avg": 99,
+    "growth_5yr": 0.42,
+    "volatility": 0.28
+  },
+  "ch_00827": {
+    "last_12_month_avg": 91,
+    "growth_5yr": 0.44,
+    "volatility": 0.27
+  },
+  "ch_00828": {
+    "last_12_month_avg": 80,
+    "growth_5yr": 0.19,
+    "volatility": 0.29
+  },
+  "ch_00829": {
+    "last_12_month_avg": 65,
+    "growth_5yr": 0.3,
+    "volatility": 0.21
+  },
+  "ch_00830": {
+    "last_12_month_avg": 61,
+    "growth_5yr": 0.66,
+    "volatility": 0.09
+  },
+  "ch_00831": {
+    "last_12_month_avg": 75,
+    "growth_5yr": 0.67,
+    "volatility": 0.26
+  },
+  "ch_00832": {
+    "last_12_month_avg": 42,
+    "growth_5yr": 0.11,
+    "volatility": 0.2
+  },
+  "ch_00833": {
+    "last_12_month_avg": 97,
+    "growth_5yr": 0.19,
+    "volatility": 0.18
+  },
+  "ch_00834": {
+    "last_12_month_avg": 50,
+    "growth_5yr": 0.12,
+    "volatility": 0.06
+  },
+  "ch_00835": {
+    "last_12_month_avg": 69,
+    "growth_5yr": 0.57,
+    "volatility": 0.25
+  },
+  "ch_00836": {
+    "last_12_month_avg": 60,
+    "growth_5yr": 0.65,
+    "volatility": 0.23
+  },
+  "ch_00837": {
+    "last_12_month_avg": 93,
+    "growth_5yr": 0.51,
+    "volatility": 0.14
+  },
+  "ch_00838": {
+    "last_12_month_avg": 58,
+    "growth_5yr": 0.19,
+    "volatility": 0.12
+  },
+  "ch_00839": {
+    "last_12_month_avg": 71,
+    "growth_5yr": 0.55,
+    "volatility": 0.07
+  },
+  "ch_00840": {
+    "last_12_month_avg": 89,
+    "growth_5yr": 0.65,
+    "volatility": 0.16
+  },
+  "ch_00841": {
+    "last_12_month_avg": 69,
+    "growth_5yr": 0.15,
+    "volatility": 0.24
+  },
+  "ch_00842": {
+    "last_12_month_avg": 57,
+    "growth_5yr": 0.2,
+    "volatility": 0.14
+  },
+  "ch_00843": {
+    "last_12_month_avg": 51,
+    "growth_5yr": 0.59,
+    "volatility": 0.06
+  },
+  "ch_00844": {
+    "last_12_month_avg": 61,
+    "growth_5yr": 0.12,
+    "volatility": 0.21
+  },
+  "ch_00845": {
+    "last_12_month_avg": 76,
+    "growth_5yr": 0.51,
+    "volatility": 0.05
+  },
+  "ch_00846": {
+    "last_12_month_avg": 63,
+    "growth_5yr": 0.38,
+    "volatility": 0.06
+  },
+  "ch_00847": {
+    "last_12_month_avg": 85,
+    "growth_5yr": 0.46,
+    "volatility": 0.05
+  },
+  "ch_00848": {
+    "last_12_month_avg": 42,
+    "growth_5yr": 0.52,
+    "volatility": 0.14
+  },
+  "ch_00849": {
+    "last_12_month_avg": 96,
+    "growth_5yr": 0.3,
+    "volatility": 0.18
+  },
+  "ch_00850": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.35,
+    "volatility": 0.15
+  },
+  "ch_00851": {
+    "last_12_month_avg": 87,
+    "growth_5yr": 0.43,
+    "volatility": 0.21
+  },
+  "ch_00852": {
+    "last_12_month_avg": 54,
+    "growth_5yr": 0.61,
+    "volatility": 0.25
+  },
+  "ch_00853": {
+    "last_12_month_avg": 65,
+    "growth_5yr": 0.23,
+    "volatility": 0.24
+  },
+  "ch_00854": {
+    "last_12_month_avg": 44,
+    "growth_5yr": 0.36,
+    "volatility": 0.26
+  },
+  "ch_00855": {
+    "last_12_month_avg": 52,
+    "growth_5yr": 0.5,
+    "volatility": 0.29
+  },
+  "ch_00856": {
+    "last_12_month_avg": 48,
+    "growth_5yr": 0.38,
+    "volatility": 0.16
+  },
+  "ch_00857": {
+    "last_12_month_avg": 65,
+    "growth_5yr": 0.48,
+    "volatility": 0.07
+  },
+  "ch_00858": {
+    "last_12_month_avg": 72,
+    "growth_5yr": 0.51,
+    "volatility": 0.23
+  },
+  "ch_00859": {
+    "last_12_month_avg": 53,
+    "growth_5yr": 0.15,
+    "volatility": 0.23
+  },
+  "ch_00860": {
+    "last_12_month_avg": 96,
+    "growth_5yr": 0.47,
+    "volatility": 0.15
+  },
+  "ch_00861": {
+    "last_12_month_avg": 56,
+    "growth_5yr": 0.67,
+    "volatility": 0.13
+  },
+  "ch_00862": {
+    "last_12_month_avg": 71,
+    "growth_5yr": 0.48,
+    "volatility": 0.28
+  },
+  "ch_00863": {
+    "last_12_month_avg": 98,
+    "growth_5yr": 0.18,
+    "volatility": 0.12
+  },
+  "ch_00864": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.3,
+    "volatility": 0.12
+  },
+  "ch_00865": {
+    "last_12_month_avg": 52,
+    "growth_5yr": 0.53,
+    "volatility": 0.25
+  },
+  "ch_00866": {
+    "last_12_month_avg": 50,
+    "growth_5yr": 0.43,
+    "volatility": 0.23
+  },
+  "ch_00867": {
+    "last_12_month_avg": 90,
+    "growth_5yr": 0.37,
+    "volatility": 0.07
+  },
+  "ch_00868": {
+    "last_12_month_avg": 50,
+    "growth_5yr": 0.3,
+    "volatility": 0.24
+  },
+  "ch_00869": {
+    "last_12_month_avg": 52,
+    "growth_5yr": 0.26,
+    "volatility": 0.08
+  },
+  "ch_00870": {
+    "last_12_month_avg": 93,
+    "growth_5yr": 0.31,
+    "volatility": 0.07
+  },
+  "ch_00871": {
+    "last_12_month_avg": 62,
+    "growth_5yr": 0.49,
+    "volatility": 0.13
+  },
+  "ch_00872": {
+    "last_12_month_avg": 100,
+    "growth_5yr": 0.26,
+    "volatility": 0.25
+  },
+  "ch_00873": {
+    "last_12_month_avg": 81,
+    "growth_5yr": 0.34,
+    "volatility": 0.08
+  },
+  "ch_00874": {
+    "last_12_month_avg": 97,
+    "growth_5yr": 0.46,
+    "volatility": 0.17
+  },
+  "ch_00875": {
+    "last_12_month_avg": 43,
+    "growth_5yr": 0.48,
+    "volatility": 0.23
+  },
+  "ch_00876": {
+    "last_12_month_avg": 52,
+    "growth_5yr": 0.68,
+    "volatility": 0.1
+  },
+  "ch_00877": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.12,
+    "volatility": 0.28
+  },
+  "ch_00878": {
+    "last_12_month_avg": 43,
+    "growth_5yr": 0.1,
+    "volatility": 0.21
+  },
+  "ch_00879": {
+    "last_12_month_avg": 65,
+    "growth_5yr": 0.23,
+    "volatility": 0.25
+  },
+  "ch_00880": {
+    "last_12_month_avg": 64,
+    "growth_5yr": 0.18,
+    "volatility": 0.14
+  },
+  "ch_00881": {
+    "last_12_month_avg": 40,
+    "growth_5yr": 0.41,
+    "volatility": 0.18
+  },
+  "ch_00882": {
+    "last_12_month_avg": 42,
+    "growth_5yr": 0.39,
+    "volatility": 0.25
+  },
+  "ch_00883": {
+    "last_12_month_avg": 67,
+    "growth_5yr": 0.62,
+    "volatility": 0.08
+  },
+  "ch_00884": {
+    "last_12_month_avg": 84,
+    "growth_5yr": 0.63,
+    "volatility": 0.07
+  },
+  "ch_00885": {
+    "last_12_month_avg": 44,
+    "growth_5yr": 0.65,
+    "volatility": 0.14
+  },
+  "ch_00886": {
+    "last_12_month_avg": 44,
+    "growth_5yr": 0.1,
+    "volatility": 0.06
+  },
+  "ch_00887": {
+    "last_12_month_avg": 96,
+    "growth_5yr": 0.53,
+    "volatility": 0.21
+  },
+  "ch_00888": {
+    "last_12_month_avg": 85,
+    "growth_5yr": 0.26,
+    "volatility": 0.17
+  },
+  "ch_00889": {
+    "last_12_month_avg": 78,
+    "growth_5yr": 0.35,
+    "volatility": 0.12
+  },
+  "ch_00890": {
+    "last_12_month_avg": 59,
+    "growth_5yr": 0.32,
+    "volatility": 0.17
+  },
+  "ch_00891": {
+    "last_12_month_avg": 55,
+    "growth_5yr": 0.44,
+    "volatility": 0.18
+  },
+  "ch_00892": {
+    "last_12_month_avg": 90,
+    "growth_5yr": 0.28,
+    "volatility": 0.24
+  },
+  "ch_00893": {
+    "last_12_month_avg": 47,
+    "growth_5yr": 0.61,
+    "volatility": 0.2
+  },
+  "ch_00894": {
+    "last_12_month_avg": 67,
+    "growth_5yr": 0.32,
+    "volatility": 0.14
+  },
+  "ch_00895": {
+    "last_12_month_avg": 40,
+    "growth_5yr": 0.4,
+    "volatility": 0.17
+  },
+  "ch_00896": {
+    "last_12_month_avg": 85,
+    "growth_5yr": 0.12,
+    "volatility": 0.24
+  },
+  "ch_00897": {
+    "last_12_month_avg": 63,
+    "growth_5yr": 0.65,
+    "volatility": 0.07
+  },
+  "ch_00898": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.41,
+    "volatility": 0.09
+  },
+  "ch_00899": {
+    "last_12_month_avg": 65,
+    "growth_5yr": 0.36,
+    "volatility": 0.2
+  },
+  "ch_00900": {
+    "last_12_month_avg": 53,
+    "growth_5yr": 0.53,
+    "volatility": 0.13
+  },
+  "ch_00901": {
+    "last_12_month_avg": 45,
+    "growth_5yr": 0.49,
+    "volatility": 0.16
+  },
+  "ch_00902": {
+    "last_12_month_avg": 71,
+    "growth_5yr": 0.33,
+    "volatility": 0.09
+  },
+  "ch_00903": {
+    "last_12_month_avg": 93,
+    "growth_5yr": 0.15,
+    "volatility": 0.15
+  },
+  "ch_00904": {
+    "last_12_month_avg": 57,
+    "growth_5yr": 0.48,
+    "volatility": 0.16
+  },
+  "ch_00905": {
+    "last_12_month_avg": 80,
+    "growth_5yr": 0.39,
+    "volatility": 0.13
+  },
+  "ch_00906": {
+    "last_12_month_avg": 58,
+    "growth_5yr": 0.15,
+    "volatility": 0.07
+  },
+  "ch_00907": {
+    "last_12_month_avg": 65,
+    "growth_5yr": 0.45,
+    "volatility": 0.12
+  },
+  "ch_00908": {
+    "last_12_month_avg": 98,
+    "growth_5yr": 0.7,
+    "volatility": 0.15
+  },
+  "ch_00909": {
+    "last_12_month_avg": 89,
+    "growth_5yr": 0.11,
+    "volatility": 0.29
+  },
+  "ch_00910": {
+    "last_12_month_avg": 50,
+    "growth_5yr": 0.4,
+    "volatility": 0.1
+  },
+  "ch_00911": {
+    "last_12_month_avg": 92,
+    "growth_5yr": 0.58,
+    "volatility": 0.23
+  },
+  "ch_00912": {
+    "last_12_month_avg": 86,
+    "growth_5yr": 0.52,
+    "volatility": 0.08
+  },
+  "ch_00913": {
+    "last_12_month_avg": 43,
+    "growth_5yr": 0.15,
+    "volatility": 0.21
+  },
+  "ch_00914": {
+    "last_12_month_avg": 53,
+    "growth_5yr": 0.21,
+    "volatility": 0.27
+  },
+  "ch_00915": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.55,
+    "volatility": 0.2
+  },
+  "ch_00916": {
+    "last_12_month_avg": 87,
+    "growth_5yr": 0.27,
+    "volatility": 0.07
+  },
+  "ch_00917": {
+    "last_12_month_avg": 77,
+    "growth_5yr": 0.69,
+    "volatility": 0.16
+  },
+  "ch_00918": {
+    "last_12_month_avg": 99,
+    "growth_5yr": 0.69,
+    "volatility": 0.07
+  },
+  "ch_00919": {
+    "last_12_month_avg": 60,
+    "growth_5yr": 0.54,
+    "volatility": 0.14
+  },
+  "ch_00920": {
+    "last_12_month_avg": 86,
+    "growth_5yr": 0.48,
+    "volatility": 0.22
+  },
+  "ch_00921": {
+    "last_12_month_avg": 71,
+    "growth_5yr": 0.56,
+    "volatility": 0.23
+  },
+  "ch_00922": {
+    "last_12_month_avg": 59,
+    "growth_5yr": 0.18,
+    "volatility": 0.25
+  },
+  "ch_00923": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.24,
+    "volatility": 0.07
+  },
+  "ch_00924": {
+    "last_12_month_avg": 53,
+    "growth_5yr": 0.14,
+    "volatility": 0.27
+  },
+  "ch_00925": {
+    "last_12_month_avg": 53,
+    "growth_5yr": 0.21,
+    "volatility": 0.05
+  },
+  "ch_00926": {
+    "last_12_month_avg": 68,
+    "growth_5yr": 0.69,
+    "volatility": 0.28
+  },
+  "ch_00927": {
+    "last_12_month_avg": 100,
+    "growth_5yr": 0.28,
+    "volatility": 0.26
+  },
+  "ch_00928": {
+    "last_12_month_avg": 50,
+    "growth_5yr": 0.49,
+    "volatility": 0.21
+  },
+  "ch_00929": {
+    "last_12_month_avg": 78,
+    "growth_5yr": 0.35,
+    "volatility": 0.22
+  },
+  "ch_00930": {
+    "last_12_month_avg": 85,
+    "growth_5yr": 0.3,
+    "volatility": 0.21
+  },
+  "ch_00931": {
+    "last_12_month_avg": 91,
+    "growth_5yr": 0.48,
+    "volatility": 0.13
+  },
+  "ch_00932": {
+    "last_12_month_avg": 99,
+    "growth_5yr": 0.64,
+    "volatility": 0.05
+  },
+  "ch_00933": {
+    "last_12_month_avg": 74,
+    "growth_5yr": 0.51,
+    "volatility": 0.16
+  },
+  "ch_00934": {
+    "last_12_month_avg": 62,
+    "growth_5yr": 0.31,
+    "volatility": 0.06
+  },
+  "ch_00935": {
+    "last_12_month_avg": 62,
+    "growth_5yr": 0.47,
+    "volatility": 0.15
+  },
+  "ch_00936": {
+    "last_12_month_avg": 63,
+    "growth_5yr": 0.58,
+    "volatility": 0.21
+  },
+  "ch_00937": {
+    "last_12_month_avg": 85,
+    "growth_5yr": 0.36,
+    "volatility": 0.06
+  },
+  "ch_00938": {
+    "last_12_month_avg": 76,
+    "growth_5yr": 0.41,
+    "volatility": 0.06
+  },
+  "ch_00939": {
+    "last_12_month_avg": 53,
+    "growth_5yr": 0.22,
+    "volatility": 0.22
+  },
+  "ch_00940": {
+    "last_12_month_avg": 46,
+    "growth_5yr": 0.2,
+    "volatility": 0.24
+  },
+  "ch_00941": {
+    "last_12_month_avg": 76,
+    "growth_5yr": 0.48,
+    "volatility": 0.2
+  },
+  "ch_00942": {
+    "last_12_month_avg": 58,
+    "growth_5yr": 0.58,
+    "volatility": 0.21
+  },
+  "ch_00943": {
+    "last_12_month_avg": 76,
+    "growth_5yr": 0.17,
+    "volatility": 0.17
+  },
+  "ch_00944": {
+    "last_12_month_avg": 87,
+    "growth_5yr": 0.3,
+    "volatility": 0.26
+  },
+  "ch_00945": {
+    "last_12_month_avg": 63,
+    "growth_5yr": 0.55,
+    "volatility": 0.13
+  },
+  "ch_00946": {
+    "last_12_month_avg": 47,
+    "growth_5yr": 0.6,
+    "volatility": 0.13
+  },
+  "ch_00947": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.43,
+    "volatility": 0.12
+  },
+  "ch_00948": {
+    "last_12_month_avg": 54,
+    "growth_5yr": 0.43,
+    "volatility": 0.19
+  },
+  "ch_00949": {
+    "last_12_month_avg": 90,
+    "growth_5yr": 0.11,
+    "volatility": 0.26
+  },
+  "ch_00950": {
+    "last_12_month_avg": 62,
+    "growth_5yr": 0.46,
+    "volatility": 0.12
+  },
+  "ch_00951": {
+    "last_12_month_avg": 81,
+    "growth_5yr": 0.11,
+    "volatility": 0.25
+  },
+  "ch_00952": {
+    "last_12_month_avg": 83,
+    "growth_5yr": 0.42,
+    "volatility": 0.08
+  },
+  "ch_00953": {
+    "last_12_month_avg": 41,
+    "growth_5yr": 0.48,
+    "volatility": 0.27
+  },
+  "ch_00954": {
+    "last_12_month_avg": 85,
+    "growth_5yr": 0.48,
+    "volatility": 0.1
+  },
+  "ch_00955": {
+    "last_12_month_avg": 42,
+    "growth_5yr": 0.15,
+    "volatility": 0.08
+  },
+  "ch_00956": {
+    "last_12_month_avg": 97,
+    "growth_5yr": 0.38,
+    "volatility": 0.11
+  },
+  "ch_00957": {
+    "last_12_month_avg": 74,
+    "growth_5yr": 0.23,
+    "volatility": 0.25
+  },
+  "ch_00958": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.62,
+    "volatility": 0.16
+  },
+  "ch_00959": {
+    "last_12_month_avg": 72,
+    "growth_5yr": 0.68,
+    "volatility": 0.05
+  },
+  "ch_00960": {
+    "last_12_month_avg": 86,
+    "growth_5yr": 0.2,
+    "volatility": 0.21
+  },
+  "ch_00961": {
+    "last_12_month_avg": 58,
+    "growth_5yr": 0.51,
+    "volatility": 0.11
+  },
+  "ch_00962": {
+    "last_12_month_avg": 67,
+    "growth_5yr": 0.33,
+    "volatility": 0.17
+  },
+  "ch_00963": {
+    "last_12_month_avg": 88,
+    "growth_5yr": 0.42,
+    "volatility": 0.29
+  },
+  "ch_00964": {
+    "last_12_month_avg": 48,
+    "growth_5yr": 0.19,
+    "volatility": 0.06
+  },
+  "ch_00965": {
+    "last_12_month_avg": 61,
+    "growth_5yr": 0.43,
+    "volatility": 0.17
+  },
+  "ch_00966": {
+    "last_12_month_avg": 79,
+    "growth_5yr": 0.18,
+    "volatility": 0.19
+  },
+  "ch_00967": {
+    "last_12_month_avg": 89,
+    "growth_5yr": 0.46,
+    "volatility": 0.23
+  },
+  "ch_00968": {
+    "last_12_month_avg": 76,
+    "growth_5yr": 0.32,
+    "volatility": 0.06
+  },
+  "ch_00969": {
+    "last_12_month_avg": 95,
+    "growth_5yr": 0.64,
+    "volatility": 0.19
+  },
+  "ch_00970": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.65,
+    "volatility": 0.29
+  },
+  "ch_00971": {
+    "last_12_month_avg": 94,
+    "growth_5yr": 0.23,
+    "volatility": 0.29
+  },
+  "ch_00972": {
+    "last_12_month_avg": 60,
+    "growth_5yr": 0.64,
+    "volatility": 0.28
+  },
+  "ch_00973": {
+    "last_12_month_avg": 51,
+    "growth_5yr": 0.68,
+    "volatility": 0.25
+  },
+  "ch_00974": {
+    "last_12_month_avg": 65,
+    "growth_5yr": 0.22,
+    "volatility": 0.15
+  },
+  "ch_00975": {
+    "last_12_month_avg": 47,
+    "growth_5yr": 0.53,
+    "volatility": 0.17
+  },
+  "ch_00976": {
+    "last_12_month_avg": 83,
+    "growth_5yr": 0.35,
+    "volatility": 0.17
+  },
+  "ch_00977": {
+    "last_12_month_avg": 80,
+    "growth_5yr": 0.34,
+    "volatility": 0.2
+  },
+  "ch_00978": {
+    "last_12_month_avg": 90,
+    "growth_5yr": 0.64,
+    "volatility": 0.19
+  },
+  "ch_00979": {
+    "last_12_month_avg": 52,
+    "growth_5yr": 0.12,
+    "volatility": 0.19
+  },
+  "ch_00980": {
+    "last_12_month_avg": 66,
+    "growth_5yr": 0.16,
+    "volatility": 0.14
+  },
+  "ch_00981": {
+    "last_12_month_avg": 72,
+    "growth_5yr": 0.6,
+    "volatility": 0.14
+  },
+  "ch_00982": {
+    "last_12_month_avg": 92,
+    "growth_5yr": 0.14,
+    "volatility": 0.22
+  },
+  "ch_00983": {
+    "last_12_month_avg": 99,
+    "growth_5yr": 0.65,
+    "volatility": 0.1
+  },
+  "ch_00984": {
+    "last_12_month_avg": 45,
+    "growth_5yr": 0.36,
+    "volatility": 0.28
+  },
+  "ch_00985": {
+    "last_12_month_avg": 68,
+    "growth_5yr": 0.67,
+    "volatility": 0.21
+  },
+  "ch_00986": {
+    "last_12_month_avg": 83,
+    "growth_5yr": 0.26,
+    "volatility": 0.21
+  },
+  "ch_00987": {
+    "last_12_month_avg": 52,
+    "growth_5yr": 0.16,
+    "volatility": 0.19
+  },
+  "ch_00988": {
+    "last_12_month_avg": 87,
+    "growth_5yr": 0.17,
+    "volatility": 0.27
+  },
+  "ch_00989": {
+    "last_12_month_avg": 82,
+    "growth_5yr": 0.5,
+    "volatility": 0.09
+  },
+  "ch_00990": {
+    "last_12_month_avg": 89,
+    "growth_5yr": 0.21,
+    "volatility": 0.11
+  },
+  "ch_00991": {
+    "last_12_month_avg": 87,
+    "growth_5yr": 0.57,
+    "volatility": 0.24
+  },
+  "ch_00992": {
+    "last_12_month_avg": 61,
+    "growth_5yr": 0.43,
+    "volatility": 0.25
+  },
+  "ch_00993": {
+    "last_12_month_avg": 80,
+    "growth_5yr": 0.41,
+    "volatility": 0.21
+  },
+  "ch_00994": {
+    "last_12_month_avg": 82,
+    "growth_5yr": 0.61,
+    "volatility": 0.12
+  },
+  "ch_00995": {
+    "last_12_month_avg": 76,
+    "growth_5yr": 0.59,
+    "volatility": 0.14
+  },
+  "ch_00996": {
+    "last_12_month_avg": 41,
+    "growth_5yr": 0.39,
+    "volatility": 0.22
+  },
+  "ch_00997": {
+    "last_12_month_avg": 85,
+    "growth_5yr": 0.55,
+    "volatility": 0.26
+  },
+  "ch_00998": {
+    "last_12_month_avg": 91,
+    "growth_5yr": 0.35,
+    "volatility": 0.09
+  },
+  "ch_00999": {
+    "last_12_month_avg": 74,
+    "growth_5yr": 0.15,
+    "volatility": 0.11
+  }
+}

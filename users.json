@@ -1,0 +1,82 @@
+[
+  {
+    "user_id": "user1",
+    "name": "Sanu",
+    "default_causes": ["health", "education and research"],
+    "tags": ["impact", "evidence-based"],
+    "default_regions": ["ontario"],
+    "strategy": "balanced"
+  },
+  {
+    "user_id": "user2",
+    "name": "Anita",
+    "default_causes": ["animals"],
+    "tags": ["rescue", "shelter"],
+    "default_regions": ["british columbia"],
+    "strategy": "community-focused"
+  },
+  {
+    "user_id": "user3",
+    "name": "Rahul",
+    "default_causes": ["environment", "climate"],
+    "tags": ["sustainability"],
+    "default_regions": ["alberta"],
+    "strategy": "balanced"
+  },
+  {
+    "user_id": "user4",
+    "name": "Meera",
+    "default_causes": ["youth/children", "education and research"],
+    "tags": ["schools", "equity"],
+    "default_regions": ["quebec"],
+    "strategy": "balanced"
+  },
+  {
+    "user_id": "user5",
+    "name": "David",
+    "default_causes": ["health"],
+    "tags": ["mental health", "wellbeing"],
+    "default_regions": ["quebec"],
+    "strategy": "balanced"
+  },
+  {
+    "user_id": "user6",
+    "name": "Fatima",
+    "default_causes": ["community development"],
+    "tags": ["poverty", "housing"],
+    "default_regions": ["ontario"],
+    "strategy": "community-focused"
+  },
+  {
+    "user_id": "user7",
+    "name": "Arjun",
+    "default_causes": ["sports", "youth/children"],
+    "tags": ["access", "inclusion"],
+    "default_regions": ["british columbia"],
+    "strategy": "balanced"
+  },
+  {
+    "user_id": "user8",
+    "name": "Laura",
+    "default_causes": ["arts and culture"],
+    "tags": ["creativity", "heritage"],
+    "default_regions": ["ontario"],
+    "strategy": "balanced"
+  },
+  {
+    "user_id": "user9",
+    "name": "Michael",
+    "default_causes": ["international", "human rights"],
+    "tags": ["aid", "equity"],
+    "default_regions": ["ontario"],
+    "strategy": "balanced"
+  },
+  {
+    "user_id": "user10",
+    "name": "Priya",
+    "default_causes": ["education and research", "environment"],
+    "tags": ["innovation", "future"],
+    "default_regions": ["alberta"],
+    "strategy": "balanced"
+  }
+]

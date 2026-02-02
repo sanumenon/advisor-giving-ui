@@ -1,0 +1,5002 @@
+{
+  "ch_00000": {
+    "last_12_month_total": 201812,
+    "unique_donors": 337,
+    "repeat_donor_rate": 0.28
+  },
+  "ch_00001": {
+    "last_12_month_total": 119709,
+    "unique_donors": 565,
+    "repeat_donor_rate": 0.22
+  },
+  "ch_00002": {
+    "last_12_month_total": 127257,
+    "unique_donors": 512,
+    "repeat_donor_rate": 0.67
+  },
+  "ch_00003": {
+    "last_12_month_total": 36988,
+    "unique_donors": 697,
+    "repeat_donor_rate": 0.71
+  },
+  "ch_00004": {
+    "last_12_month_total": 87763,
+    "unique_donors": 374,
+    "repeat_donor_rate": 0.2
+  },
+  "ch_00005": {
+    "last_12_month_total": 95768,
+    "unique_donors": 607,
+    "repeat_donor_rate": 0.57
+  },
+  "ch_00006": {
+    "last_12_month_total": 104401,
+    "unique_donors": 1190,
+    "repeat_donor_rate": 0.53
+  },
+  "ch_00007": {
+    "last_12_month_total": 31600,
+    "unique_donors": 654,
+    "repeat_donor_rate": 0.45
+  },
+  "ch_00008": {
+    "last_12_month_total": 51557,
+    "unique_donors": 468,
+    "repeat_donor_rate": 0.7
+  },
+  "ch_00009": {
+    "last_12_month_total": 231277,
+    "unique_donors": 169,
+    "repeat_donor_rate": 0.73
+  },
+  "ch_00010": {
+    "last_12_month_total": 178916,
+    "unique_donors": 1008,
+    "repeat_donor_rate": 0.45
+  },
+  "ch_00011": {
+    "last_12_month_total": 269275,
+    "unique_donors": 788,
+    "repeat_donor_rate": 0.62
+  },
+  "ch_00012": {
+    "last_12_month_total": 40084,
+    "unique_donors": 941,
+    "repeat_donor_rate": 0.52
+  },
+  "ch_00013": {
+    "last_12_month_total": 79537,
+    "unique_donors": 543,
+    "repeat_donor_rate": 0.65
+  },
+  "ch_00014": {
+    "last_12_month_total": 287894,
+    "unique_donors": 1071,
+    "repeat_donor_rate": 0.62
+  },
+  "ch_00015": {
+    "last_12_month_total": 257189,
+    "unique_donors": 293,
+    "repeat_donor_rate": 0.77
+  },
+  "ch_00016": {
+    "last_12_month_total": 269084,
+    "unique_donors": 818,
+    "repeat_donor_rate": 0.31
+  },
+  "ch_00017": {
+    "last_12_month_total": 246072,
+    "unique_donors": 881,
+    "repeat_donor_rate": 0.24
+  },
+  "ch_00018": {
+    "last_12_month_total": 199894,
+    "unique_donors": 1112,
+    "repeat_donor_rate": 0.44
+  },
+  "ch_00019": {
+    "last_12_month_total": 114499,
+    "unique_donors": 826,
+    "repeat_donor_rate": 0.54
+  },
+  "ch_00020": {
+    "last_12_month_total": 195728,
+    "unique_donors": 726,
+    "repeat_donor_rate": 0.79
+  },
+  "ch_00021": {
+    "last_12_month_total": 31950,
+    "unique_donors": 507,
+    "repeat_donor_rate": 0.71
+  },
+  "ch_00022": {
+    "last_12_month_total": 172304,
+    "unique_donors": 173,
+    "repeat_donor_rate": 0.4
+  },
+  "ch_00023": {
+    "last_12_month_total": 30904,
+    "unique_donors": 1130,
+    "repeat_donor_rate": 0.45
+  },
+  "ch_00024": {
+    "last_12_month_total": 234392,
+    "unique_donors": 1128,
+    "repeat_donor_rate": 0.59
+  },
+  "ch_00025": {
+    "last_12_month_total": 118210,
+    "unique_donors": 745,
+    "repeat_donor_rate": 0.22
+  },
+  "ch_00026": {
+    "last_12_month_total": 132346,
+    "unique_donors": 607,
+    "repeat_donor_rate": 0.61
+  },
+  "ch_00027": {
+    "last_12_month_total": 17936,
+    "unique_donors": 155,
+    "repeat_donor_rate": 0.44
+  },
+  "ch_00028": {
+    "last_12_month_total": 125425,
+    "unique_donors": 247,
+    "repeat_donor_rate": 0.78
+  },
+  "ch_00029": {
+    "last_12_month_total": 181904,
+    "unique_donors": 254,
+    "repeat_donor_rate": 0.52
+  },
+  "ch_00030": {
+    "last_12_month_total": 14999,
+    "unique_donors": 40,
+    "repeat_donor_rate": 0.74
+  },
+  "ch_00031": {
+    "last_12_month_total": 236479,
+    "unique_donors": 347,
+    "repeat_donor_rate": 0.22
+  },
+  "ch_00032": {
+    "last_12_month_total": 283293,
+    "unique_donors": 267,
+    "repeat_donor_rate": 0.46
+  },
+  "ch_00033": {
+    "last_12_month_total": 267774,
+    "unique_donors": 173,
+    "repeat_donor_rate": 0.73
+  },
+  "ch_00034": {
+    "last_12_month_total": 210454,
+    "unique_donors": 957,
+    "repeat_donor_rate": 0.6
+  },
+  "ch_00035": {
+    "last_12_month_total": 45744,
+    "unique_donors": 421,
+    "repeat_donor_rate": 0.31
+  },
+  "ch_00036": {
+    "last_12_month_total": 77137,
+    "unique_donors": 152,
+    "repeat_donor_rate": 0.26
+  },
+  "ch_00037": {
+    "last_12_month_total": 147223,
+    "unique_donors": 431,
+    "repeat_donor_rate": 0.66
+  },
+  "ch_00038": {
+    "last_12_month_total": 43796,
+    "unique_donors": 514,
+    "repeat_donor_rate": 0.68
+  },
+  "ch_00039": {
+    "last_12_month_total": 233483,
+    "unique_donors": 511,
+    "repeat_donor_rate": 0.58
+  },
+  "ch_00040": {
+    "last_12_month_total": 172625,
+    "unique_donors": 439,
+    "repeat_donor_rate": 0.58
+  },
+  "ch_00041": {
+    "last_12_month_total": 177647,
+    "unique_donors": 468,
+    "repeat_donor_rate": 0.76
+  },
+  "ch_00042": {
+    "last_12_month_total": 260624,
+    "unique_donors": 738,
+    "repeat_donor_rate": 0.5
+  },
+  "ch_00043": {
+    "last_12_month_total": 257522,
+    "unique_donors": 833,
+    "repeat_donor_rate": 0.39
+  },
+  "ch_00044": {
+    "last_12_month_total": 81006,
+    "unique_donors": 1030,
+    "repeat_donor_rate": 0.27
+  },
+  "ch_00045": {
+    "last_12_month_total": 200646,
+    "unique_donors": 543,
+    "repeat_donor_rate": 0.32
+  },
+  "ch_00046": {
+    "last_12_month_total": 293303,
+    "unique_donors": 959,
+    "repeat_donor_rate": 0.75
+  },
+  "ch_00047": {
+    "last_12_month_total": 64218,
+    "unique_donors": 637,
+    "repeat_donor_rate": 0.3
+  },
+  "ch_00048": {
+    "last_12_month_total": 56844,
+    "unique_donors": 782,
+    "repeat_donor_rate": 0.3
+  },
+  "ch_00049": {
+    "last_12_month_total": 89364,
+    "unique_donors": 391,
+    "repeat_donor_rate": 0.73
+  },
+  "ch_00050": {
+    "last_12_month_total": 256809,
+    "unique_donors": 1028,
+    "repeat_donor_rate": 0.73
+  },
+  "ch_00051": {
+    "last_12_month_total": 21964,
+    "unique_donors": 747,
+    "repeat_donor_rate": 0.76
+  },
+  "ch_00052": {
+    "last_12_month_total": 297966,
+    "unique_donors": 801,
+    "repeat_donor_rate": 0.49
+  },
+  "ch_00053": {
+    "last_12_month_total": 15169,
+    "unique_donors": 118,
+    "repeat_donor_rate": 0.43
+  },
+  "ch_00054": {
+    "last_12_month_total": 286141,
+    "unique_donors": 531,
+    "repeat_donor_rate": 0.8
+  },
+  "ch_00055": {
+    "last_12_month_total": 274323,
+    "unique_donors": 825,
+    "repeat_donor_rate": 0.66
+  },
+  "ch_00056": {
+    "last_12_month_total": 110125,
+    "unique_donors": 539,
+    "repeat_donor_rate": 0.59
+  },
+  "ch_00057": {
+    "last_12_month_total": 247374,
+    "unique_donors": 988,
+    "repeat_donor_rate": 0.61
+  },
+  "ch_00058": {
+    "last_12_month_total": 225945,
+    "unique_donors": 869,
+    "repeat_donor_rate": 0.47
+  },
+  "ch_00059": {
+    "last_12_month_total": 203382,
+    "unique_donors": 1160,
+    "repeat_donor_rate": 0.77
+  },
+  "ch_00060": {
+    "last_12_month_total": 159897,
+    "unique_donors": 805,
+    "repeat_donor_rate": 0.39
+  },
+  "ch_00061": {
+    "last_12_month_total": 19610,
+    "unique_donors": 660,
+    "repeat_donor_rate": 0.56
+  },
+  "ch_00062": {
+    "last_12_month_total": 223081,
+    "unique_donors": 264,
+    "repeat_donor_rate": 0.34
+  },
+  "ch_00063": {
+    "last_12_month_total": 243701,
+    "unique_donors": 465,
+    "repeat_donor_rate": 0.7
+  },
+  "ch_00064": {
+    "last_12_month_total": 262833,
+    "unique_donors": 788,
+    "repeat_donor_rate": 0.46
+  },
+  "ch_00065": {
+    "last_12_month_total": 194216,
+    "unique_donors": 712,
+    "repeat_donor_rate": 0.47
+  },
+  "ch_00066": {
+    "last_12_month_total": 17238,
+    "unique_donors": 1017,
+    "repeat_donor_rate": 0.43
+  },
+  "ch_00067": {
+    "last_12_month_total": 278658,
+    "unique_donors": 788,
+    "repeat_donor_rate": 0.43
+  },
+  "ch_00068": {
+    "last_12_month_total": 120206,
+    "unique_donors": 1195,
+    "repeat_donor_rate": 0.79
+  },
+  "ch_00069": {
+    "last_12_month_total": 36487,
+    "unique_donors": 664,
+    "repeat_donor_rate": 0.6
+  },
+  "ch_00070": {
+    "last_12_month_total": 47414,
+    "unique_donors": 1052,
+    "repeat_donor_rate": 0.3
+  },
+  "ch_00071": {
+    "last_12_month_total": 60361,
+    "unique_donors": 406,
+    "repeat_donor_rate": 0.25
+  },
+  "ch_00072": {
+    "last_12_month_total": 155306,
+    "unique_donors": 513,
+    "repeat_donor_rate": 0.41
+  },
+  "ch_00073": {
+    "last_12_month_total": 289983,
+    "unique_donors": 668,
+    "repeat_donor_rate": 0.54
+  },
+  "ch_00074": {
+    "last_12_month_total": 71735,
+    "unique_donors": 205,
+    "repeat_donor_rate": 0.77
+  },
+  "ch_00075": {
+    "last_12_month_total": 135981,
+    "unique_donors": 966,
+    "repeat_donor_rate": 0.59
+  },
+  "ch_00076": {
+    "last_12_month_total": 100138,
+    "unique_donors": 894,
+    "repeat_donor_rate": 0.75
+  },
+  "ch_00077": {
+    "last_12_month_total": 186055,
+    "unique_donors": 101,
+    "repeat_donor_rate": 0.44
+  },
+  "ch_00078": {
+    "last_12_month_total": 12783,
+    "unique_donors": 1001,
+    "repeat_donor_rate": 0.51
+  },
+  "ch_00079": {
+    "last_12_month_total": 281415,
+    "unique_donors": 386,
+    "repeat_donor_rate": 0.69
+  },
+  "ch_00080": {
+    "last_12_month_total": 288565,
+    "unique_donors": 693,
+    "repeat_donor_rate": 0.5
+  },
+  "ch_00081": {
+    "last_12_month_total": 260357,
+    "unique_donors": 599,
+    "repeat_donor_rate": 0.21
+  },
+  "ch_00082": {
+    "last_12_month_total": 204273,
+    "unique_donors": 975,
+    "repeat_donor_rate": 0.61
+  },
+  "ch_00083": {
+    "last_12_month_total": 213485,
+    "unique_donors": 175,
+    "repeat_donor_rate": 0.62
+  },
+  "ch_00084": {
+    "last_12_month_total": 90466,
+    "unique_donors": 1043,
+    "repeat_donor_rate": 0.76
+  },
+  "ch_00085": {
+    "last_12_month_total": 52988,
+    "unique_donors": 508,
+    "repeat_donor_rate": 0.71
+  },
+  "ch_00086": {
+    "last_12_month_total": 252367,
+    "unique_donors": 1054,
+    "repeat_donor_rate": 0.61
+  },
+  "ch_00087": {
+    "last_12_month_total": 296874,
+    "unique_donors": 124,
+    "repeat_donor_rate": 0.33
+  },
+  "ch_00088": {
+    "last_12_month_total": 218228,
+    "unique_donors": 219,
+    "repeat_donor_rate": 0.33
+  },
+  "ch_00089": {
+    "last_12_month_total": 127212,
+    "unique_donors": 1173,
+    "repeat_donor_rate": 0.52
+  },
+  "ch_00090": {
+    "last_12_month_total": 281424,
+    "unique_donors": 1174,
+    "repeat_donor_rate": 0.63
+  },
+  "ch_00091": {
+    "last_12_month_total": 162216,
+    "unique_donors": 169,
+    "repeat_donor_rate": 0.26
+  },
+  "ch_00092": {
+    "last_12_month_total": 171271,
+    "unique_donors": 422,
+    "repeat_donor_rate": 0.39
+  },
+  "ch_00093": {
+    "last_12_month_total": 246086,
+    "unique_donors": 891,
+    "repeat_donor_rate": 0.25
+  },
+  "ch_00094": {
+    "last_12_month_total": 185463,
+    "unique_donors": 600,
+    "repeat_donor_rate": 0.23
+  },
+  "ch_00095": {
+    "last_12_month_total": 155415,
+    "unique_donors": 308,
+    "repeat_donor_rate": 0.53
+  },
+  "ch_00096": {
+    "last_12_month_total": 261680,
+    "unique_donors": 205,
+    "repeat_donor_rate": 0.6
+  },
+  "ch_00097": {
+    "last_12_month_total": 129949,
+    "unique_donors": 796,
+    "repeat_donor_rate": 0.53
+  },
+  "ch_00098": {
+    "last_12_month_total": 268011,
+    "unique_donors": 269,
+    "repeat_donor_rate": 0.6
+  },
+  "ch_00099": {
+    "last_12_month_total": 203727,
+    "unique_donors": 220,
+    "repeat_donor_rate": 0.77
+  },
+  "ch_00100": {
+    "last_12_month_total": 127971,
+    "unique_donors": 1104,
+    "repeat_donor_rate": 0.36
+  },
+  "ch_00101": {
+    "last_12_month_total": 151817,
+    "unique_donors": 1187,
+    "repeat_donor_rate": 0.34
+  },
+  "ch_00102": {
+    "last_12_month_total": 286611,
+    "unique_donors": 599,
+    "repeat_donor_rate": 0.64
+  },
+  "ch_00103": {
+    "last_12_month_total": 121742,
+    "unique_donors": 1098,
+    "repeat_donor_rate": 0.48
+  },
+  "ch_00104": {
+    "last_12_month_total": 88551,
+    "unique_donors": 974,
+    "repeat_donor_rate": 0.34
+  },
+  "ch_00105": {
+    "last_12_month_total": 235289,
+    "unique_donors": 90,
+    "repeat_donor_rate": 0.64
+  },
+  "ch_00106": {
+    "last_12_month_total": 15107,
+    "unique_donors": 368,
+    "repeat_donor_rate": 0.26
+  },
+  "ch_00107": {
+    "last_12_month_total": 166677,
+    "unique_donors": 1043,
+    "repeat_donor_rate": 0.56
+  },
+  "ch_00108": {
+    "last_12_month_total": 83340,
+    "unique_donors": 919,
+    "repeat_donor_rate": 0.72
+  },
+  "ch_00109": {
+    "last_12_month_total": 242246,
+    "unique_donors": 39,
+    "repeat_donor_rate": 0.59
+  },
+  "ch_00110": {
+    "last_12_month_total": 69280,
+    "unique_donors": 359,
+    "repeat_donor_rate": 0.28
+  },
+  "ch_00111": {
+    "last_12_month_total": 193583,
+    "unique_donors": 35,
+    "repeat_donor_rate": 0.46
+  },
+  "ch_00112": {
+    "last_12_month_total": 28426,
+    "unique_donors": 1075,
+    "repeat_donor_rate": 0.45
+  },
+  "ch_00113": {
+    "last_12_month_total": 96032,
+    "unique_donors": 890,
+    "repeat_donor_rate": 0.68
+  },
+  "ch_00114": {
+    "last_12_month_total": 141536,
+    "unique_donors": 56,
+    "repeat_donor_rate": 0.73
+  },
+  "ch_00115": {
+    "last_12_month_total": 56663,
+    "unique_donors": 814,
+    "repeat_donor_rate": 0.23
+  },
+  "ch_00116": {
+    "last_12_month_total": 109313,
+    "unique_donors": 583,
+    "repeat_donor_rate": 0.71
+  },
+  "ch_00117": {
+    "last_12_month_total": 39129,
+    "unique_donors": 717,
+    "repeat_donor_rate": 0.63
+  },
+  "ch_00118": {
+    "last_12_month_total": 218968,
+    "unique_donors": 362,
+    "repeat_donor_rate": 0.58
+  },
+  "ch_00119": {
+    "last_12_month_total": 233157,
+    "unique_donors": 1017,
+    "repeat_donor_rate": 0.54
+  },
+  "ch_00120": {
+    "last_12_month_total": 113281,
+    "unique_donors": 994,
+    "repeat_donor_rate": 0.72
+  },
+  "ch_00121": {
+    "last_12_month_total": 279914,
+    "unique_donors": 120,
+    "repeat_donor_rate": 0.38
+  },
+  "ch_00122": {
+    "last_12_month_total": 223619,
+    "unique_donors": 228,
+    "repeat_donor_rate": 0.23
+  },
+  "ch_00123": {
+    "last_12_month_total": 166483,
+    "unique_donors": 367,
+    "repeat_donor_rate": 0.53
+  },
+  "ch_00124": {
+    "last_12_month_total": 174633,
+    "unique_donors": 90,
+    "repeat_donor_rate": 0.74
+  },
+  "ch_00125": {
+    "last_12_month_total": 285046,
+    "unique_donors": 545,
+    "repeat_donor_rate": 0.34
+  },
+  "ch_00126": {
+    "last_12_month_total": 166013,
+    "unique_donors": 1091,
+    "repeat_donor_rate": 0.69
+  },
+  "ch_00127": {
+    "last_12_month_total": 227171,
+    "unique_donors": 753,
+    "repeat_donor_rate": 0.25
+  },
+  "ch_00128": {
+    "last_12_month_total": 171544,
+    "unique_donors": 373,
+    "repeat_donor_rate": 0.76
+  },
+  "ch_00129": {
+    "last_12_month_total": 14038,
+    "unique_donors": 36,
+    "repeat_donor_rate": 0.7
+  },
+  "ch_00130": {
+    "last_12_month_total": 223808,
+    "unique_donors": 57,
+    "repeat_donor_rate": 0.22
+  },
+  "ch_00131": {
+    "last_12_month_total": 111154,
+    "unique_donors": 672,
+    "repeat_donor_rate": 0.58
+  },
+  "ch_00132": {
+    "last_12_month_total": 107950,
+    "unique_donors": 1195,
+    "repeat_donor_rate": 0.46
+  },
+  "ch_00133": {
+    "last_12_month_total": 92492,
+    "unique_donors": 849,
+    "repeat_donor_rate": 0.52
+  },
+  "ch_00134": {
+    "last_12_month_total": 11408,
+    "unique_donors": 927,
+    "repeat_donor_rate": 0.71
+  },
+  "ch_00135": {
+    "last_12_month_total": 128246,
+    "unique_donors": 504,
+    "repeat_donor_rate": 0.29
+  },
+  "ch_00136": {
+    "last_12_month_total": 110850,
+    "unique_donors": 224,
+    "repeat_donor_rate": 0.39
+  },
+  "ch_00137": {
+    "last_12_month_total": 53311,
+    "unique_donors": 409,
+    "repeat_donor_rate": 0.63
+  },
+  "ch_00138": {
+    "last_12_month_total": 188804,
+    "unique_donors": 723,
+    "repeat_donor_rate": 0.75
+  },
+  "ch_00139": {
+    "last_12_month_total": 266211,
+    "unique_donors": 59,
+    "repeat_donor_rate": 0.32
+  },
+  "ch_00140": {
+    "last_12_month_total": 292198,
+    "unique_donors": 22,
+    "repeat_donor_rate": 0.5
+  },
+  "ch_00141": {
+    "last_12_month_total": 86779,
+    "unique_donors": 545,
+    "repeat_donor_rate": 0.42
+  },
+  "ch_00142": {
+    "last_12_month_total": 131666,
+    "unique_donors": 1140,
+    "repeat_donor_rate": 0.57
+  },
+  "ch_00143": {
+    "last_12_month_total": 263690,
+    "unique_donors": 1075,
+    "repeat_donor_rate": 0.52
+  },
+  "ch_00144": {
+    "last_12_month_total": 33702,
+    "unique_donors": 371,
+    "repeat_donor_rate": 0.51
+  },
+  "ch_00145": {
+    "last_12_month_total": 279711,
+    "unique_donors": 650,
+    "repeat_donor_rate": 0.23
+  },
+  "ch_00146": {
+    "last_12_month_total": 254708,
+    "unique_donors": 723,
+    "repeat_donor_rate": 0.46
+  },
+  "ch_00147": {
+    "last_12_month_total": 79145,
+    "unique_donors": 1028,
+    "repeat_donor_rate": 0.68
+  },
+  "ch_00148": {
+    "last_12_month_total": 265103,
+    "unique_donors": 1006,
+    "repeat_donor_rate": 0.7
+  },
+  "ch_00149": {
+    "last_12_month_total": 143254,
+    "unique_donors": 901,
+    "repeat_donor_rate": 0.7
+  },
+  "ch_00150": {
+    "last_12_month_total": 118297,
+    "unique_donors": 685,
+    "repeat_donor_rate": 0.74
+  },
+  "ch_00151": {
+    "last_12_month_total": 271936,
+    "unique_donors": 665,
+    "repeat_donor_rate": 0.3
+  },
+  "ch_00152": {
+    "last_12_month_total": 227406,
+    "unique_donors": 314,
+    "repeat_donor_rate": 0.54
+  },
+  "ch_00153": {
+    "last_12_month_total": 138563,
+    "unique_donors": 391,
+    "repeat_donor_rate": 0.6
+  },
+  "ch_00154": {
+    "last_12_month_total": 135326,
+    "unique_donors": 539,
+    "repeat_donor_rate": 0.37
+  },
+  "ch_00155": {
+    "last_12_month_total": 91027,
+    "unique_donors": 348,
+    "repeat_donor_rate": 0.23
+  },
+  "ch_00156": {
+    "last_12_month_total": 277014,
+    "unique_donors": 533,
+    "repeat_donor_rate": 0.67
+  },
+  "ch_00157": {
+    "last_12_month_total": 143960,
+    "unique_donors": 816,
+    "repeat_donor_rate": 0.36
+  },
+  "ch_00158": {
+    "last_12_month_total": 185239,
+    "unique_donors": 505,
+    "repeat_donor_rate": 0.3
+  },
+  "ch_00159": {
+    "last_12_month_total": 109419,
+    "unique_donors": 138,
+    "repeat_donor_rate": 0.45
+  },
+  "ch_00160": {
+    "last_12_month_total": 92347,
+    "unique_donors": 158,
+    "repeat_donor_rate": 0.52
+  },
+  "ch_00161": {
+    "last_12_month_total": 249130,
+    "unique_donors": 63,
+    "repeat_donor_rate": 0.6
+  },
+  "ch_00162": {
+    "last_12_month_total": 184131,
+    "unique_donors": 211,
+    "repeat_donor_rate": 0.46
+  },
+  "ch_00163": {
+    "last_12_month_total": 33861,
+    "unique_donors": 362,
+    "repeat_donor_rate": 0.27
+  },
+  "ch_00164": {
+    "last_12_month_total": 189865,
+    "unique_donors": 182,
+    "repeat_donor_rate": 0.45
+  },
+  "ch_00165": {
+    "last_12_month_total": 163843,
+    "unique_donors": 598,
+    "repeat_donor_rate": 0.44
+  },
+  "ch_00166": {
+    "last_12_month_total": 201859,
+    "unique_donors": 210,
+    "repeat_donor_rate": 0.62
+  },
+  "ch_00167": {
+    "last_12_month_total": 252733,
+    "unique_donors": 27,
+    "repeat_donor_rate": 0.62
+  },
+  "ch_00168": {
+    "last_12_month_total": 13354,
+    "unique_donors": 71,
+    "repeat_donor_rate": 0.8
+  },
+  "ch_00169": {
+    "last_12_month_total": 267426,
+    "unique_donors": 474,
+    "repeat_donor_rate": 0.27
+  },
+  "ch_00170": {
+    "last_12_month_total": 210489,
+    "unique_donors": 28,
+    "repeat_donor_rate": 0.71
+  },
+  "ch_00171": {
+    "last_12_month_total": 20046,
+    "unique_donors": 119,
+    "repeat_donor_rate": 0.53
+  },
+  "ch_00172": {
+    "last_12_month_total": 144475,
+    "unique_donors": 1010,
+    "repeat_donor_rate": 0.2
+  },
+  "ch_00173": {
+    "last_12_month_total": 60442,
+    "unique_donors": 75,
+    "repeat_donor_rate": 0.28
+  },
+  "ch_00174": {
+    "last_12_month_total": 266324,
+    "unique_donors": 157,
+    "repeat_donor_rate": 0.72
+  },
+  "ch_00175": {
+    "last_12_month_total": 124988,
+    "unique_donors": 1040,
+    "repeat_donor_rate": 0.7
+  },
+  "ch_00176": {
+    "last_12_month_total": 149665,
+    "unique_donors": 77,
+    "repeat_donor_rate": 0.58
+  },
+  "ch_00177": {
+    "last_12_month_total": 99140,
+    "unique_donors": 873,
+    "repeat_donor_rate": 0.57
+  },
+  "ch_00178": {
+    "last_12_month_total": 148378,
+    "unique_donors": 930,
+    "repeat_donor_rate": 0.33
+  },
+  "ch_00179": {
+    "last_12_month_total": 76346,
+    "unique_donors": 351,
+    "repeat_donor_rate": 0.22
+  },
+  "ch_00180": {
+    "last_12_month_total": 191986,
+    "unique_donors": 163,
+    "repeat_donor_rate": 0.44
+  },
+  "ch_00181": {
+    "last_12_month_total": 27073,
+    "unique_donors": 819,
+    "repeat_donor_rate": 0.35
+  },
+  "ch_00182": {
+    "last_12_month_total": 66051,
+    "unique_donors": 1051,
+    "repeat_donor_rate": 0.36
+  },
+  "ch_00183": {
+    "last_12_month_total": 280850,
+    "unique_donors": 276,
+    "repeat_donor_rate": 0.6
+  },
+  "ch_00184": {
+    "last_12_month_total": 271531,
+    "unique_donors": 485,
+    "repeat_donor_rate": 0.52
+  },
+  "ch_00185": {
+    "last_12_month_total": 202373,
+    "unique_donors": 45,
+    "repeat_donor_rate": 0.7
+  },
+  "ch_00186": {
+    "last_12_month_total": 96827,
+    "unique_donors": 538,
+    "repeat_donor_rate": 0.57
+  },
+  "ch_00187": {
+    "last_12_month_total": 68692,
+    "unique_donors": 827,
+    "repeat_donor_rate": 0.7
+  },
+  "ch_00188": {
+    "last_12_month_total": 11645,
+    "unique_donors": 168,
+    "repeat_donor_rate": 0.43
+  },
+  "ch_00189": {
+    "last_12_month_total": 231443,
+    "unique_donors": 861,
+    "repeat_donor_rate": 0.68
+  },
+  "ch_00190": {
+    "last_12_month_total": 212949,
+    "unique_donors": 1182,
+    "repeat_donor_rate": 0.64
+  },
+  "ch_00191": {
+    "last_12_month_total": 188014,
+    "unique_donors": 153,
+    "repeat_donor_rate": 0.46
+  },
+  "ch_00192": {
+    "last_12_month_total": 97707,
+    "unique_donors": 548,
+    "repeat_donor_rate": 0.32
+  },
+  "ch_00193": {
+    "last_12_month_total": 156455,
+    "unique_donors": 625,
+    "repeat_donor_rate": 0.49
+  },
+  "ch_00194": {
+    "last_12_month_total": 139817,
+    "unique_donors": 859,
+    "repeat_donor_rate": 0.58
+  },
+  "ch_00195": {
+    "last_12_month_total": 128796,
+    "unique_donors": 1002,
+    "repeat_donor_rate": 0.25
+  },
+  "ch_00196": {
+    "last_12_month_total": 35474,
+    "unique_donors": 774,
+    "repeat_donor_rate": 0.23
+  },
+  "ch_00197": {
+    "last_12_month_total": 127768,
+    "unique_donors": 171,
+    "repeat_donor_rate": 0.48
+  },
+  "ch_00198": {
+    "last_12_month_total": 234892,
+    "unique_donors": 322,
+    "repeat_donor_rate": 0.27
+  },
+  "ch_00199": {
+    "last_12_month_total": 194934,
+    "unique_donors": 875,
+    "repeat_donor_rate": 0.33
+  },
+  "ch_00200": {
+    "last_12_month_total": 44936,
+    "unique_donors": 226,
+    "repeat_donor_rate": 0.78
+  },
+  "ch_00201": {
+    "last_12_month_total": 118701,
+    "unique_donors": 840,
+    "repeat_donor_rate": 0.56
+  },
+  "ch_00202": {
+    "last_12_month_total": 299415,
+    "unique_donors": 804,
+    "repeat_donor_rate": 0.37
+  },
+  "ch_00203": {
+    "last_12_month_total": 261795,
+    "unique_donors": 1076,
+    "repeat_donor_rate": 0.68
+  },
+  "ch_00204": {
+    "last_12_month_total": 47145,
+    "unique_donors": 495,
+    "repeat_donor_rate": 0.46
+  },
+  "ch_00205": {
+    "last_12_month_total": 52429,
+    "unique_donors": 603,
+    "repeat_donor_rate": 0.73
+  },
+  "ch_00206": {
+    "last_12_month_total": 119045,
+    "unique_donors": 928,
+    "repeat_donor_rate": 0.67
+  },
+  "ch_00207": {
+    "last_12_month_total": 40479,
+    "unique_donors": 280,
+    "repeat_donor_rate": 0.78
+  },
+  "ch_00208": {
+    "last_12_month_total": 63900,
+    "unique_donors": 726,
+    "repeat_donor_rate": 0.21
+  },
+  "ch_00209": {
+    "last_12_month_total": 12115,
+    "unique_donors": 1005,
+    "repeat_donor_rate": 0.34
+  },
+  "ch_00210": {
+    "last_12_month_total": 163979,
+    "unique_donors": 1056,
+    "repeat_donor_rate": 0.56
+  },
+  "ch_00211": {
+    "last_12_month_total": 282596,
+    "unique_donors": 754,
+    "repeat_donor_rate": 0.63
+  },
+  "ch_00212": {
+    "last_12_month_total": 211580,
+    "unique_donors": 366,
+    "repeat_donor_rate": 0.33
+  },
+  "ch_00213": {
+    "last_12_month_total": 132160,
+    "unique_donors": 211,
+    "repeat_donor_rate": 0.25
+  },
+  "ch_00214": {
+    "last_12_month_total": 182949,
+    "unique_donors": 609,
+    "repeat_donor_rate": 0.26
+  },
+  "ch_00215": {
+    "last_12_month_total": 43584,
+    "unique_donors": 225,
+    "repeat_donor_rate": 0.73
+  },
+  "ch_00216": {
+    "last_12_month_total": 279200,
+    "unique_donors": 1036,
+    "repeat_donor_rate": 0.74
+  },
+  "ch_00217": {
+    "last_12_month_total": 246880,
+    "unique_donors": 418,
+    "repeat_donor_rate": 0.6
+  },
+  "ch_00218": {
+    "last_12_month_total": 30711,
+    "unique_donors": 99,
+    "repeat_donor_rate": 0.49
+  },
+  "ch_00219": {
+    "last_12_month_total": 117721,
+    "unique_donors": 102,
+    "repeat_donor_rate": 0.67
+  },
+  "ch_00220": {
+    "last_12_month_total": 93968,
+    "unique_donors": 248,
+    "repeat_donor_rate": 0.33
+  },
+  "ch_00221": {
+    "last_12_month_total": 55676,
+    "unique_donors": 680,
+    "repeat_donor_rate": 0.7
+  },
+  "ch_00222": {
+    "last_12_month_total": 91324,
+    "unique_donors": 866,
+    "repeat_donor_rate": 0.53
+  },
+  "ch_00223": {
+    "last_12_month_total": 130743,
+    "unique_donors": 841,
+    "repeat_donor_rate": 0.3
+  },
+  "ch_00224": {
+    "last_12_month_total": 251079,
+    "unique_donors": 519,
+    "repeat_donor_rate": 0.68
+  },
+  "ch_00225": {
+    "last_12_month_total": 173781,
+    "unique_donors": 944,
+    "repeat_donor_rate": 0.65
+  },
+  "ch_00226": {
+    "last_12_month_total": 181022,
+    "unique_donors": 502,
+    "repeat_donor_rate": 0.5
+  },
+  "ch_00227": {
+    "last_12_month_total": 17811,
+    "unique_donors": 86,
+    "repeat_donor_rate": 0.37
+  },
+  "ch_00228": {
+    "last_12_month_total": 102064,
+    "unique_donors": 1189,
+    "repeat_donor_rate": 0.38
+  },
+  "ch_00229": {
+    "last_12_month_total": 171535,
+    "unique_donors": 128,
+    "repeat_donor_rate": 0.56
+  },
+  "ch_00230": {
+    "last_12_month_total": 220156,
+    "unique_donors": 206,
+    "repeat_donor_rate": 0.71
+  },
+  "ch_00231": {
+    "last_12_month_total": 49043,
+    "unique_donors": 1008,
+    "repeat_donor_rate": 0.75
+  },
+  "ch_00232": {
+    "last_12_month_total": 134280,
+    "unique_donors": 89,
+    "repeat_donor_rate": 0.62
+  },
+  "ch_00233": {
+    "last_12_month_total": 219856,
+    "unique_donors": 945,
+    "repeat_donor_rate": 0.44
+  },
+  "ch_00234": {
+    "last_12_month_total": 175704,
+    "unique_donors": 397,
+    "repeat_donor_rate": 0.72
+  },
+  "ch_00235": {
+    "last_12_month_total": 141672,
+    "unique_donors": 265,
+    "repeat_donor_rate": 0.63
+  },
+  "ch_00236": {
+    "last_12_month_total": 170602,
+    "unique_donors": 793,
+    "repeat_donor_rate": 0.36
+  },
+  "ch_00237": {
+    "last_12_month_total": 229545,
+    "unique_donors": 889,
+    "repeat_donor_rate": 0.37
+  },
+  "ch_00238": {
+    "last_12_month_total": 266560,
+    "unique_donors": 1023,
+    "repeat_donor_rate": 0.78
+  },
+  "ch_00239": {
+    "last_12_month_total": 188540,
+    "unique_donors": 649,
+    "repeat_donor_rate": 0.65
+  },
+  "ch_00240": {
+    "last_12_month_total": 160979,
+    "unique_donors": 732,
+    "repeat_donor_rate": 0.47
+  },
+  "ch_00241": {
+    "last_12_month_total": 285964,
+    "unique_donors": 687,
+    "repeat_donor_rate": 0.53
+  },
+  "ch_00242": {
+    "last_12_month_total": 221205,
+    "unique_donors": 715,
+    "repeat_donor_rate": 0.52
+  },
+  "ch_00243": {
+    "last_12_month_total": 105775,
+    "unique_donors": 187,
+    "repeat_donor_rate": 0.57
+  },
+  "ch_00244": {
+    "last_12_month_total": 91749,
+    "unique_donors": 427,
+    "repeat_donor_rate": 0.68
+  },
+  "ch_00245": {
+    "last_12_month_total": 43887,
+    "unique_donors": 319,
+    "repeat_donor_rate": 0.51
+  },
+  "ch_00246": {
+    "last_12_month_total": 84196,
+    "unique_donors": 986,
+    "repeat_donor_rate": 0.35
+  },
+  "ch_00247": {
+    "last_12_month_total": 131998,
+    "unique_donors": 369,
+    "repeat_donor_rate": 0.43
+  },
+  "ch_00248": {
+    "last_12_month_total": 255576,
+    "unique_donors": 196,
+    "repeat_donor_rate": 0.28
+  },
+  "ch_00249": {
+    "last_12_month_total": 23920,
+    "unique_donors": 831,
+    "repeat_donor_rate": 0.77
+  },
+  "ch_00250": {
+    "last_12_month_total": 181590,
+    "unique_donors": 457,
+    "repeat_donor_rate": 0.22
+  },
+  "ch_00251": {
+    "last_12_month_total": 71081,
+    "unique_donors": 810,
+    "repeat_donor_rate": 0.22
+  },
+  "ch_00252": {
+    "last_12_month_total": 179987,
+    "unique_donors": 964,
+    "repeat_donor_rate": 0.44
+  },
+  "ch_00253": {
+    "last_12_month_total": 52530,
+    "unique_donors": 686,
+    "repeat_donor_rate": 0.6
+  },
+  "ch_00254": {
+    "last_12_month_total": 171080,
+    "unique_donors": 331,
+    "repeat_donor_rate": 0.42
+  },
+  "ch_00255": {
+    "last_12_month_total": 229821,
+    "unique_donors": 644,
+    "repeat_donor_rate": 0.56
+  },
+  "ch_00256": {
+    "last_12_month_total": 183204,
+    "unique_donors": 297,
+    "repeat_donor_rate": 0.49
+  },
+  "ch_00257": {
+    "last_12_month_total": 56667,
+    "unique_donors": 801,
+    "repeat_donor_rate": 0.78
+  },
+  "ch_00258": {
+    "last_12_month_total": 69838,
+    "unique_donors": 527,
+    "repeat_donor_rate": 0.2
+  },
+  "ch_00259": {
+    "last_12_month_total": 11320,
+    "unique_donors": 586,
+    "repeat_donor_rate": 0.77
+  },
+  "ch_00260": {
+    "last_12_month_total": 299479,
+    "unique_donors": 128,
+    "repeat_donor_rate": 0.52
+  },
+  "ch_00261": {
+    "last_12_month_total": 72877,
+    "unique_donors": 689,
+    "repeat_donor_rate": 0.39
+  },
+  "ch_00262": {
+    "last_12_month_total": 33996,
+    "unique_donors": 757,
+    "repeat_donor_rate": 0.78
+  },
+  "ch_00263": {
+    "last_12_month_total": 142390,
+    "unique_donors": 1136,
+    "repeat_donor_rate": 0.62
+  },
+  "ch_00264": {
+    "last_12_month_total": 91054,
+    "unique_donors": 1031,
+    "repeat_donor_rate": 0.22
+  },
+  "ch_00265": {
+    "last_12_month_total": 68553,
+    "unique_donors": 1064,
+    "repeat_donor_rate": 0.28
+  },
+  "ch_00266": {
+    "last_12_month_total": 274896,
+    "unique_donors": 334,
+    "repeat_donor_rate": 0.38
+  },
+  "ch_00267": {
+    "last_12_month_total": 54861,
+    "unique_donors": 448,
+    "repeat_donor_rate": 0.22
+  },
+  "ch_00268": {
+    "last_12_month_total": 215556,
+    "unique_donors": 256,
+    "repeat_donor_rate": 0.7
+  },
+  "ch_00269": {
+    "last_12_month_total": 234635,
+    "unique_donors": 920,
+    "repeat_donor_rate": 0.39
+  },
+  "ch_00270": {
+    "last_12_month_total": 278962,
+    "unique_donors": 240,
+    "repeat_donor_rate": 0.54
+  },
+  "ch_00271": {
+    "last_12_month_total": 48847,
+    "unique_donors": 603,
+    "repeat_donor_rate": 0.55
+  },
+  "ch_00272": {
+    "last_12_month_total": 181321,
+    "unique_donors": 372,
+    "repeat_donor_rate": 0.32
+  },
+  "ch_00273": {
+    "last_12_month_total": 229150,
+    "unique_donors": 67,
+    "repeat_donor_rate": 0.59
+  },
+  "ch_00274": {
+    "last_12_month_total": 14748,
+    "unique_donors": 89,
+    "repeat_donor_rate": 0.31
+  },
+  "ch_00275": {
+    "last_12_month_total": 166812,
+    "unique_donors": 323,
+    "repeat_donor_rate": 0.67
+  },
+  "ch_00276": {
+    "last_12_month_total": 222760,
+    "unique_donors": 822,
+    "repeat_donor_rate": 0.34
+  },
+  "ch_00277": {
+    "last_12_month_total": 186640,
+    "unique_donors": 1169,
+    "repeat_donor_rate": 0.21
+  },
+  "ch_00278": {
+    "last_12_month_total": 71490,
+    "unique_donors": 269,
+    "repeat_donor_rate": 0.73
+  },
+  "ch_00279": {
+    "last_12_month_total": 180446,
+    "unique_donors": 355,
+    "repeat_donor_rate": 0.68
+  },
+  "ch_00280": {
+    "last_12_month_total": 31163,
+    "unique_donors": 64,
+    "repeat_donor_rate": 0.22
+  },
+  "ch_00281": {
+    "last_12_month_total": 46733,
+    "unique_donors": 473,
+    "repeat_donor_rate": 0.55
+  },
+  "ch_00282": {
+    "last_12_month_total": 90123,
+    "unique_donors": 167,
+    "repeat_donor_rate": 0.78
+  },
+  "ch_00283": {
+    "last_12_month_total": 124633,
+    "unique_donors": 1183,
+    "repeat_donor_rate": 0.71
+  },
+  "ch_00284": {
+    "last_12_month_total": 228451,
+    "unique_donors": 217,
+    "repeat_donor_rate": 0.4
+  },
+  "ch_00285": {
+    "last_12_month_total": 74459,
+    "unique_donors": 865,
+    "repeat_donor_rate": 0.59
+  },
+  "ch_00286": {
+    "last_12_month_total": 167094,
+    "unique_donors": 612,
+    "repeat_donor_rate": 0.5
+  },
+  "ch_00287": {
+    "last_12_month_total": 219284,
+    "unique_donors": 922,
+    "repeat_donor_rate": 0.37
+  },
+  "ch_00288": {
+    "last_12_month_total": 79842,
+    "unique_donors": 1039,
+    "repeat_donor_rate": 0.72
+  },
+  "ch_00289": {
+    "last_12_month_total": 237557,
+    "unique_donors": 718,
+    "repeat_donor_rate": 0.48
+  },
+  "ch_00290": {
+    "last_12_month_total": 150963,
+    "unique_donors": 519,
+    "repeat_donor_rate": 0.33
+  },
+  "ch_00291": {
+    "last_12_month_total": 150665,
+    "unique_donors": 463,
+    "repeat_donor_rate": 0.8
+  },
+  "ch_00292": {
+    "last_12_month_total": 250728,
+    "unique_donors": 1007,
+    "repeat_donor_rate": 0.31
+  },
+  "ch_00293": {
+    "last_12_month_total": 65320,
+    "unique_donors": 1054,
+    "repeat_donor_rate": 0.8
+  },
+  "ch_00294": {
+    "last_12_month_total": 229476,
+    "unique_donors": 403,
+    "repeat_donor_rate": 0.59
+  },
+  "ch_00295": {
+    "last_12_month_total": 170049,
+    "unique_donors": 717,
+    "repeat_donor_rate": 0.79
+  },
+  "ch_00296": {
+    "last_12_month_total": 174231,
+    "unique_donors": 950,
+    "repeat_donor_rate": 0.23
+  },
+  "ch_00297": {
+    "last_12_month_total": 98266,
+    "unique_donors": 540,
+    "repeat_donor_rate": 0.62
+  },
+  "ch_00298": {
+    "last_12_month_total": 162738,
+    "unique_donors": 725,
+    "repeat_donor_rate": 0.7
+  },
+  "ch_00299": {
+    "last_12_month_total": 50461,
+    "unique_donors": 1110,
+    "repeat_donor_rate": 0.23
+  },
+  "ch_00300": {
+    "last_12_month_total": 155515,
+    "unique_donors": 774,
+    "repeat_donor_rate": 0.6
+  },
+  "ch_00301": {
+    "last_12_month_total": 288296,
+    "unique_donors": 385,
+    "repeat_donor_rate": 0.29
+  },
+  "ch_00302": {
+    "last_12_month_total": 213070,
+    "unique_donors": 235,
+    "repeat_donor_rate": 0.42
+  },
+  "ch_00303": {
+    "last_12_month_total": 155560,
+    "unique_donors": 555,
+    "repeat_donor_rate": 0.59
+  },
+  "ch_00304": {
+    "last_12_month_total": 55636,
+    "unique_donors": 1042,
+    "repeat_donor_rate": 0.75
+  },
+  "ch_00305": {
+    "last_12_month_total": 47893,
+    "unique_donors": 1086,
+    "repeat_donor_rate": 0.41
+  },
+  "ch_00306": {
+    "last_12_month_total": 158929,
+    "unique_donors": 800,
+    "repeat_donor_rate": 0.28
+  },
+  "ch_00307": {
+    "last_12_month_total": 124021,
+    "unique_donors": 831,
+    "repeat_donor_rate": 0.22
+  },
+  "ch_00308": {
+    "last_12_month_total": 279642,
+    "unique_donors": 342,
+    "repeat_donor_rate": 0.53
+  },
+  "ch_00309": {
+    "last_12_month_total": 71719,
+    "unique_donors": 753,
+    "repeat_donor_rate": 0.5
+  },
+  "ch_00310": {
+    "last_12_month_total": 182945,
+    "unique_donors": 100,
+    "repeat_donor_rate": 0.72
+  },
+  "ch_00311": {
+    "last_12_month_total": 269869,
+    "unique_donors": 768,
+    "repeat_donor_rate": 0.65
+  },
+  "ch_00312": {
+    "last_12_month_total": 151379,
+    "unique_donors": 1126,
+    "repeat_donor_rate": 0.66
+  },
+  "ch_00313": {
+    "last_12_month_total": 200937,
+    "unique_donors": 420,
+    "repeat_donor_rate": 0.36
+  },
+  "ch_00314": {
+    "last_12_month_total": 142051,
+    "unique_donors": 625,
+    "repeat_donor_rate": 0.45
+  },
+  "ch_00315": {
+    "last_12_month_total": 71999,
+    "unique_donors": 526,
+    "repeat_donor_rate": 0.63
+  },
+  "ch_00316": {
+    "last_12_month_total": 90769,
+    "unique_donors": 598,
+    "repeat_donor_rate": 0.51
+  },
+  "ch_00317": {
+    "last_12_month_total": 187561,
+    "unique_donors": 195,
+    "repeat_donor_rate": 0.46
+  },
+  "ch_00318": {
+    "last_12_month_total": 220098,
+    "unique_donors": 338,
+    "repeat_donor_rate": 0.47
+  },
+  "ch_00319": {
+    "last_12_month_total": 264499,
+    "unique_donors": 625,
+    "repeat_donor_rate": 0.79
+  },
+  "ch_00320": {
+    "last_12_month_total": 100385,
+    "unique_donors": 445,
+    "repeat_donor_rate": 0.76
+  },
+  "ch_00321": {
+    "last_12_month_total": 242129,
+    "unique_donors": 1166,
+    "repeat_donor_rate": 0.62
+  },
+  "ch_00322": {
+    "last_12_month_total": 131737,
+    "unique_donors": 1050,
+    "repeat_donor_rate": 0.63
+  },
+  "ch_00323": {
+    "last_12_month_total": 13808,
+    "unique_donors": 153,
+    "repeat_donor_rate": 0.75
+  },
+  "ch_00324": {
+    "last_12_month_total": 167677,
+    "unique_donors": 1072,
+    "repeat_donor_rate": 0.74
+  },
+  "ch_00325": {
+    "last_12_month_total": 91547,
+    "unique_donors": 408,
+    "repeat_donor_rate": 0.69
+  },
+  "ch_00326": {
+    "last_12_month_total": 83372,
+    "unique_donors": 930,
+    "repeat_donor_rate": 0.28
+  },
+  "ch_00327": {
+    "last_12_month_total": 102679,
+    "unique_donors": 651,
+    "repeat_donor_rate": 0.37
+  },
+  "ch_00328": {
+    "last_12_month_total": 120371,
+    "unique_donors": 86,
+    "repeat_donor_rate": 0.71
+  },
+  "ch_00329": {
+    "last_12_month_total": 268479,
+    "unique_donors": 655,
+    "repeat_donor_rate": 0.54
+  },
+  "ch_00330": {
+    "last_12_month_total": 292051,
+    "unique_donors": 229,
+    "repeat_donor_rate": 0.71
+  },
+  "ch_00331": {
+    "last_12_month_total": 159250,
+    "unique_donors": 173,
+    "repeat_donor_rate": 0.64
+  },
+  "ch_00332": {
+    "last_12_month_total": 54395,
+    "unique_donors": 1119,
+    "repeat_donor_rate": 0.66
+  },
+  "ch_00333": {
+    "last_12_month_total": 89062,
+    "unique_donors": 1039,
+    "repeat_donor_rate": 0.43
+  },
+  "ch_00334": {
+    "last_12_month_total": 195764,
+    "unique_donors": 822,
+    "repeat_donor_rate": 0.34
+  },
+  "ch_00335": {
+    "last_12_month_total": 174399,
+    "unique_donors": 120,
+    "repeat_donor_rate": 0.59
+  },
+  "ch_00336": {
+    "last_12_month_total": 142526,
+    "unique_donors": 515,
+    "repeat_donor_rate": 0.65
+  },
+  "ch_00337": {
+    "last_12_month_total": 121045,
+    "unique_donors": 427,
+    "repeat_donor_rate": 0.35
+  },
+  "ch_00338": {
+    "last_12_month_total": 66328,
+    "unique_donors": 693,
+    "repeat_donor_rate": 0.44
+  },
+  "ch_00339": {
+    "last_12_month_total": 253546,
+    "unique_donors": 246,
+    "repeat_donor_rate": 0.43
+  },
+  "ch_00340": {
+    "last_12_month_total": 172665,
+    "unique_donors": 872,
+    "repeat_donor_rate": 0.28
+  },
+  "ch_00341": {
+    "last_12_month_total": 98779,
+    "unique_donors": 365,
+    "repeat_donor_rate": 0.73
+  },
+  "ch_00342": {
+    "last_12_month_total": 90189,
+    "unique_donors": 125,
+    "repeat_donor_rate": 0.5
+  },
+  "ch_00343": {
+    "last_12_month_total": 268205,
+    "unique_donors": 1101,
+    "repeat_donor_rate": 0.5
+  },
+  "ch_00344": {
+    "last_12_month_total": 167318,
+    "unique_donors": 193,
+    "repeat_donor_rate": 0.76
+  },
+  "ch_00345": {
+    "last_12_month_total": 64690,
+    "unique_donors": 969,
+    "repeat_donor_rate": 0.68
+  },
+  "ch_00346": {
+    "last_12_month_total": 120394,
+    "unique_donors": 384,
+    "repeat_donor_rate": 0.71
+  },
+  "ch_00347": {
+    "last_12_month_total": 234301,
+    "unique_donors": 542,
+    "repeat_donor_rate": 0.51
+  },
+  "ch_00348": {
+    "last_12_month_total": 90367,
+    "unique_donors": 1129,
+    "repeat_donor_rate": 0.57
+  },
+  "ch_00349": {
+    "last_12_month_total": 66347,
+    "unique_donors": 888,
+    "repeat_donor_rate": 0.4
+  },
+  "ch_00350": {
+    "last_12_month_total": 266227,
+    "unique_donors": 933,
+    "repeat_donor_rate": 0.74
+  },
+  "ch_00351": {
+    "last_12_month_total": 45840,
+    "unique_donors": 77,
+    "repeat_donor_rate": 0.31
+  },
+  "ch_00352": {
+    "last_12_month_total": 226386,
+    "unique_donors": 844,
+    "repeat_donor_rate": 0.43
+  },
+  "ch_00353": {
+    "last_12_month_total": 283864,
+    "unique_donors": 571,
+    "repeat_donor_rate": 0.26
+  },
+  "ch_00354": {
+    "last_12_month_total": 110784,
+    "unique_donors": 1077,
+    "repeat_donor_rate": 0.24
+  },
+  "ch_00355": {
+    "last_12_month_total": 117264,
+    "unique_donors": 579,
+    "repeat_donor_rate": 0.28
+  },
+  "ch_00356": {
+    "last_12_month_total": 241432,
+    "unique_donors": 624,
+    "repeat_donor_rate": 0.3
+  },
+  "ch_00357": {
+    "last_12_month_total": 205303,
+    "unique_donors": 289,
+    "repeat_donor_rate": 0.79
+  },
+  "ch_00358": {
+    "last_12_month_total": 147570,
+    "unique_donors": 981,
+    "repeat_donor_rate": 0.75
+  },
+  "ch_00359": {
+    "last_12_month_total": 44889,
+    "unique_donors": 294,
+    "repeat_donor_rate": 0.5
+  },
+  "ch_00360": {
+    "last_12_month_total": 85353,
+    "unique_donors": 139,
+    "repeat_donor_rate": 0.69
+  },
+  "ch_00361": {
+    "last_12_month_total": 146767,
+    "unique_donors": 565,
+    "repeat_donor_rate": 0.33
+  },
+  "ch_00362": {
+    "last_12_month_total": 184550,
+    "unique_donors": 1147,
+    "repeat_donor_rate": 0.38
+  },
+  "ch_00363": {
+    "last_12_month_total": 51005,
+    "unique_donors": 940,
+    "repeat_donor_rate": 0.29
+  },
+  "ch_00364": {
+    "last_12_month_total": 17150,
+    "unique_donors": 903,
+    "repeat_donor_rate": 0.77
+  },
+  "ch_00365": {
+    "last_12_month_total": 150209,
+    "unique_donors": 319,
+    "repeat_donor_rate": 0.69
+  },
+  "ch_00366": {
+    "last_12_month_total": 262306,
+    "unique_donors": 389,
+    "repeat_donor_rate": 0.75
+  },
+  "ch_00367": {
+    "last_12_month_total": 89527,
+    "unique_donors": 584,
+    "repeat_donor_rate": 0.56
+  },
+  "ch_00368": {
+    "last_12_month_total": 196772,
+    "unique_donors": 1034,
+    "repeat_donor_rate": 0.75
+  },
+  "ch_00369": {
+    "last_12_month_total": 130264,
+    "unique_donors": 1057,
+    "repeat_donor_rate": 0.54
+  },
+  "ch_00370": {
+    "last_12_month_total": 92013,
+    "unique_donors": 859,
+    "repeat_donor_rate": 0.48
+  },
+  "ch_00371": {
+    "last_12_month_total": 252710,
+    "unique_donors": 149,
+    "repeat_donor_rate": 0.67
+  },
+  "ch_00372": {
+    "last_12_month_total": 240944,
+    "unique_donors": 227,
+    "repeat_donor_rate": 0.58
+  },
+  "ch_00373": {
+    "last_12_month_total": 83913,
+    "unique_donors": 361,
+    "repeat_donor_rate": 0.33
+  },
+  "ch_00374": {
+    "last_12_month_total": 135044,
+    "unique_donors": 780,
+    "repeat_donor_rate": 0.48
+  },
+  "ch_00375": {
+    "last_12_month_total": 207414,
+    "unique_donors": 940,
+    "repeat_donor_rate": 0.28
+  },
+  "ch_00376": {
+    "last_12_month_total": 274792,
+    "unique_donors": 197,
+    "repeat_donor_rate": 0.78
+  },
+  "ch_00377": {
+    "last_12_month_total": 120228,
+    "unique_donors": 281,
+    "repeat_donor_rate": 0.43
+  },
+  "ch_00378": {
+    "last_12_month_total": 120421,
+    "unique_donors": 1021,
+    "repeat_donor_rate": 0.57
+  },
+  "ch_00379": {
+    "last_12_month_total": 292214,
+    "unique_donors": 52,
+    "repeat_donor_rate": 0.55
+  },
+  "ch_00380": {
+    "last_12_month_total": 149724,
+    "unique_donors": 481,
+    "repeat_donor_rate": 0.68
+  },
+  "ch_00381": {
+    "last_12_month_total": 37073,
+    "unique_donors": 606,
+    "repeat_donor_rate": 0.54
+  },
+  "ch_00382": {
+    "last_12_month_total": 232975,
+    "unique_donors": 929,
+    "repeat_donor_rate": 0.66
+  },
+  "ch_00383": {
+    "last_12_month_total": 237672,
+    "unique_donors": 340,
+    "repeat_donor_rate": 0.24
+  },
+  "ch_00384": {
+    "last_12_month_total": 221244,
+    "unique_donors": 94,
+    "repeat_donor_rate": 0.38
+  },
+  "ch_00385": {
+    "last_12_month_total": 39281,
+    "unique_donors": 174,
+    "repeat_donor_rate": 0.77
+  },
+  "ch_00386": {
+    "last_12_month_total": 31662,
+    "unique_donors": 1176,
+    "repeat_donor_rate": 0.47
+  },
+  "ch_00387": {
+    "last_12_month_total": 256659,
+    "unique_donors": 549,
+    "repeat_donor_rate": 0.48
+  },
+  "ch_00388": {
+    "last_12_month_total": 294751,
+    "unique_donors": 726,
+    "repeat_donor_rate": 0.42
+  },
+  "ch_00389": {
+    "last_12_month_total": 290930,
+    "unique_donors": 731,
+    "repeat_donor_rate": 0.71
+  },
+  "ch_00390": {
+    "last_12_month_total": 253011,
+    "unique_donors": 719,
+    "repeat_donor_rate": 0.33
+  },
+  "ch_00391": {
+    "last_12_month_total": 199964,
+    "unique_donors": 102,
+    "repeat_donor_rate": 0.21
+  },
+  "ch_00392": {
+    "last_12_month_total": 117974,
+    "unique_donors": 419,
+    "repeat_donor_rate": 0.37
+  },
+  "ch_00393": {
+    "last_12_month_total": 192819,
+    "unique_donors": 768,
+    "repeat_donor_rate": 0.33
+  },
+  "ch_00394": {
+    "last_12_month_total": 57290,
+    "unique_donors": 758,
+    "repeat_donor_rate": 0.24
+  },
+  "ch_00395": {
+    "last_12_month_total": 146628,
+    "unique_donors": 1181,
+    "repeat_donor_rate": 0.41
+  },
+  "ch_00396": {
+    "last_12_month_total": 141956,
+    "unique_donors": 902,
+    "repeat_donor_rate": 0.23
+  },
+  "ch_00397": {
+    "last_12_month_total": 179743,
+    "unique_donors": 926,
+    "repeat_donor_rate": 0.58
+  },
+  "ch_00398": {
+    "last_12_month_total": 132874,
+    "unique_donors": 1047,
+    "repeat_donor_rate": 0.54
+  },
+  "ch_00399": {
+    "last_12_month_total": 97288,
+    "unique_donors": 1190,
+    "repeat_donor_rate": 0.73
+  },
+  "ch_00400": {
+    "last_12_month_total": 279074,
+    "unique_donors": 1121,
+    "repeat_donor_rate": 0.65
+  },
+  "ch_00401": {
+    "last_12_month_total": 35069,
+    "unique_donors": 1130,
+    "repeat_donor_rate": 0.74
+  },
+  "ch_00402": {
+    "last_12_month_total": 202618,
+    "unique_donors": 58,
+    "repeat_donor_rate": 0.26
+  },
+  "ch_00403": {
+    "last_12_month_total": 276992,
+    "unique_donors": 688,
+    "repeat_donor_rate": 0.58
+  },
+  "ch_00404": {
+    "last_12_month_total": 118975,
+    "unique_donors": 77,
+    "repeat_donor_rate": 0.27
+  },
+  "ch_00405": {
+    "last_12_month_total": 37652,
+    "unique_donors": 239,
+    "repeat_donor_rate": 0.21
+  },
+  "ch_00406": {
+    "last_12_month_total": 23150,
+    "unique_donors": 708,
+    "repeat_donor_rate": 0.5
+  },
+  "ch_00407": {
+    "last_12_month_total": 137228,
+    "unique_donors": 768,
+    "repeat_donor_rate": 0.72
+  },
+  "ch_00408": {
+    "last_12_month_total": 143428,
+    "unique_donors": 839,
+    "repeat_donor_rate": 0.66
+  },
+  "ch_00409": {
+    "last_12_month_total": 129008,
+    "unique_donors": 1193,
+    "repeat_donor_rate": 0.31
+  },
+  "ch_00410": {
+    "last_12_month_total": 157362,
+    "unique_donors": 923,
+    "repeat_donor_rate": 0.41
+  },
+  "ch_00411": {
+    "last_12_month_total": 215040,
+    "unique_donors": 615,
+    "repeat_donor_rate": 0.29
+  },
+  "ch_00412": {
+    "last_12_month_total": 64385,
+    "unique_donors": 687,
+    "repeat_donor_rate": 0.4
+  },
+  "ch_00413": {
+    "last_12_month_total": 35506,
+    "unique_donors": 468,
+    "repeat_donor_rate": 0.27
+  },
+  "ch_00414": {
+    "last_12_month_total": 155957,
+    "unique_donors": 1096,
+    "repeat_donor_rate": 0.59
+  },
+  "ch_00415": {
+    "last_12_month_total": 212492,
+    "unique_donors": 551,
+    "repeat_donor_rate": 0.64
+  },
+  "ch_00416": {
+    "last_12_month_total": 107700,
+    "unique_donors": 1170,
+    "repeat_donor_rate": 0.59
+  },
+  "ch_00417": {
+    "last_12_month_total": 213691,
+    "unique_donors": 749,
+    "repeat_donor_rate": 0.76
+  },
+  "ch_00418": {
+    "last_12_month_total": 17247,
+    "unique_donors": 176,
+    "repeat_donor_rate": 0.29
+  },
+  "ch_00419": {
+    "last_12_month_total": 85163,
+    "unique_donors": 690,
+    "repeat_donor_rate": 0.55
+  },
+  "ch_00420": {
+    "last_12_month_total": 144818,
+    "unique_donors": 546,
+    "repeat_donor_rate": 0.21
+  },
+  "ch_00421": {
+    "last_12_month_total": 130737,
+    "unique_donors": 344,
+    "repeat_donor_rate": 0.22
+  },
+  "ch_00422": {
+    "last_12_month_total": 199743,
+    "unique_donors": 413,
+    "repeat_donor_rate": 0.59
+  },
+  "ch_00423": {
+    "last_12_month_total": 213251,
+    "unique_donors": 164,
+    "repeat_donor_rate": 0.71
+  },
+  "ch_00424": {
+    "last_12_month_total": 101107,
+    "unique_donors": 143,
+    "repeat_donor_rate": 0.36
+  },
+  "ch_00425": {
+    "last_12_month_total": 248045,
+    "unique_donors": 1004,
+    "repeat_donor_rate": 0.23
+  },
+  "ch_00426": {
+    "last_12_month_total": 291167,
+    "unique_donors": 221,
+    "repeat_donor_rate": 0.71
+  },
+  "ch_00427": {
+    "last_12_month_total": 188268,
+    "unique_donors": 641,
+    "repeat_donor_rate": 0.79
+  },
+  "ch_00428": {
+    "last_12_month_total": 26579,
+    "unique_donors": 52,
+    "repeat_donor_rate": 0.48
+  },
+  "ch_00429": {
+    "last_12_month_total": 48161,
+    "unique_donors": 1120,
+    "repeat_donor_rate": 0.71
+  },
+  "ch_00430": {
+    "last_12_month_total": 130131,
+    "unique_donors": 828,
+    "repeat_donor_rate": 0.42
+  },
+  "ch_00431": {
+    "last_12_month_total": 152641,
+    "unique_donors": 194,
+    "repeat_donor_rate": 0.25
+  },
+  "ch_00432": {
+    "last_12_month_total": 85127,
+    "unique_donors": 501,
+    "repeat_donor_rate": 0.53
+  },
+  "ch_00433": {
+    "last_12_month_total": 52730,
+    "unique_donors": 280,
+    "repeat_donor_rate": 0.7
+  },
+  "ch_00434": {
+    "last_12_month_total": 108431,
+    "unique_donors": 459,
+    "repeat_donor_rate": 0.77
+  },
+  "ch_00435": {
+    "last_12_month_total": 65084,
+    "unique_donors": 420,
+    "repeat_donor_rate": 0.21
+  },
+  "ch_00436": {
+    "last_12_month_total": 168331,
+    "unique_donors": 1026,
+    "repeat_donor_rate": 0.42
+  },
+  "ch_00437": {
+    "last_12_month_total": 201337,
+    "unique_donors": 373,
+    "repeat_donor_rate": 0.34
+  },
+  "ch_00438": {
+    "last_12_month_total": 24013,
+    "unique_donors": 1150,
+    "repeat_donor_rate": 0.61
+  },
+  "ch_00439": {
+    "last_12_month_total": 59191,
+    "unique_donors": 196,
+    "repeat_donor_rate": 0.26
+  },
+  "ch_00440": {
+    "last_12_month_total": 49240,
+    "unique_donors": 46,
+    "repeat_donor_rate": 0.66
+  },
+  "ch_00441": {
+    "last_12_month_total": 237214,
+    "unique_donors": 123,
+    "repeat_donor_rate": 0.45
+  },
+  "ch_00442": {
+    "last_12_month_total": 168634,
+    "unique_donors": 1035,
+    "repeat_donor_rate": 0.36
+  },
+  "ch_00443": {
+    "last_12_month_total": 191754,
+    "unique_donors": 434,
+    "repeat_donor_rate": 0.65
+  },
+  "ch_00444": {
+    "last_12_month_total": 298972,
+    "unique_donors": 785,
+    "repeat_donor_rate": 0.71
+  },
+  "ch_00445": {
+    "last_12_month_total": 235684,
+    "unique_donors": 851,
+    "repeat_donor_rate": 0.66
+  },
+  "ch_00446": {
+    "last_12_month_total": 191290,
+    "unique_donors": 1110,
+    "repeat_donor_rate": 0.67
+  },
+  "ch_00447": {
+    "last_12_month_total": 265818,
+    "unique_donors": 164,
+    "repeat_donor_rate": 0.66
+  },
+  "ch_00448": {
+    "last_12_month_total": 248642,
+    "unique_donors": 911,
+    "repeat_donor_rate": 0.56
+  },
+  "ch_00449": {
+    "last_12_month_total": 83064,
+    "unique_donors": 771,
+    "repeat_donor_rate": 0.51
+  },
+  "ch_00450": {
+    "last_12_month_total": 117018,
+    "unique_donors": 885,
+    "repeat_donor_rate": 0.51
+  },
+  "ch_00451": {
+    "last_12_month_total": 86421,
+    "unique_donors": 247,
+    "repeat_donor_rate": 0.77
+  },
+  "ch_00452": {
+    "last_12_month_total": 57725,
+    "unique_donors": 1090,
+    "repeat_donor_rate": 0.51
+  },
+  "ch_00453": {
+    "last_12_month_total": 258482,
+    "unique_donors": 144,
+    "repeat_donor_rate": 0.71
+  },
+  "ch_00454": {
+    "last_12_month_total": 41399,
+    "unique_donors": 1145,
+    "repeat_donor_rate": 0.39
+  },
+  "ch_00455": {
+    "last_12_month_total": 123707,
+    "unique_donors": 256,
+    "repeat_donor_rate": 0.3
+  },
+  "ch_00456": {
+    "last_12_month_total": 125676,
+    "unique_donors": 1118,
+    "repeat_donor_rate": 0.41
+  },
+  "ch_00457": {
+    "last_12_month_total": 14631,
+    "unique_donors": 312,
+    "repeat_donor_rate": 0.36
+  },
+  "ch_00458": {
+    "last_12_month_total": 133443,
+    "unique_donors": 1031,
+    "repeat_donor_rate": 0.38
+  },
+  "ch_00459": {
+    "last_12_month_total": 112321,
+    "unique_donors": 606,
+    "repeat_donor_rate": 0.42
+  },
+  "ch_00460": {
+    "last_12_month_total": 297236,
+    "unique_donors": 235,
+    "repeat_donor_rate": 0.46
+  },
+  "ch_00461": {
+    "last_12_month_total": 186113,
+    "unique_donors": 43,
+    "repeat_donor_rate": 0.76
+  },
+  "ch_00462": {
+    "last_12_month_total": 198789,
+    "unique_donors": 811,
+    "repeat_donor_rate": 0.59
+  },
+  "ch_00463": {
+    "last_12_month_total": 138508,
+    "unique_donors": 887,
+    "repeat_donor_rate": 0.21
+  },
+  "ch_00464": {
+    "last_12_month_total": 278769,
+    "unique_donors": 609,
+    "repeat_donor_rate": 0.4
+  },
+  "ch_00465": {
+    "last_12_month_total": 248597,
+    "unique_donors": 469,
+    "repeat_donor_rate": 0.41
+  },
+  "ch_00466": {
+    "last_12_month_total": 223413,
+    "unique_donors": 787,
+    "repeat_donor_rate": 0.79
+  },
+  "ch_00467": {
+    "last_12_month_total": 153133,
+    "unique_donors": 1031,
+    "repeat_donor_rate": 0.28
+  },
+  "ch_00468": {
+    "last_12_month_total": 232521,
+    "unique_donors": 1070,
+    "repeat_donor_rate": 0.78
+  },
+  "ch_00469": {
+    "last_12_month_total": 24552,
+    "unique_donors": 347,
+    "repeat_donor_rate": 0.4
+  },
+  "ch_00470": {
+    "last_12_month_total": 162393,
+    "unique_donors": 263,
+    "repeat_donor_rate": 0.63
+  },
+  "ch_00471": {
+    "last_12_month_total": 161573,
+    "unique_donors": 206,
+    "repeat_donor_rate": 0.24
+  },
+  "ch_00472": {
+    "last_12_month_total": 23489,
+    "unique_donors": 1116,
+    "repeat_donor_rate": 0.58
+  },
+  "ch_00473": {
+    "last_12_month_total": 295516,
+    "unique_donors": 295,
+    "repeat_donor_rate": 0.63
+  },
+  "ch_00474": {
+    "last_12_month_total": 137554,
+    "unique_donors": 150,
+    "repeat_donor_rate": 0.31
+  },
+  "ch_00475": {
+    "last_12_month_total": 252609,
+    "unique_donors": 865,
+    "repeat_donor_rate": 0.37
+  },
+  "ch_00476": {
+    "last_12_month_total": 152297,
+    "unique_donors": 612,
+    "repeat_donor_rate": 0.52
+  },
+  "ch_00477": {
+    "last_12_month_total": 224474,
+    "unique_donors": 1006,
+    "repeat_donor_rate": 0.59
+  },
+  "ch_00478": {
+    "last_12_month_total": 291833,
+    "unique_donors": 574,
+    "repeat_donor_rate": 0.44
+  },
+  "ch_00479": {
+    "last_12_month_total": 47799,
+    "unique_donors": 823,
+    "repeat_donor_rate": 0.28
+  },
+  "ch_00480": {
+    "last_12_month_total": 193007,
+    "unique_donors": 204,
+    "repeat_donor_rate": 0.52
+  },
+  "ch_00481": {
+    "last_12_month_total": 97131,
+    "unique_donors": 796,
+    "repeat_donor_rate": 0.42
+  },
+  "ch_00482": {
+    "last_12_month_total": 58058,
+    "unique_donors": 320,
+    "repeat_donor_rate": 0.28
+  },
+  "ch_00483": {
+    "last_12_month_total": 207015,
+    "unique_donors": 483,
+    "repeat_donor_rate": 0.33
+  },
+  "ch_00484": {
+    "last_12_month_total": 205574,
+    "unique_donors": 929,
+    "repeat_donor_rate": 0.49
+  },
+  "ch_00485": {
+    "last_12_month_total": 215054,
+    "unique_donors": 855,
+    "repeat_donor_rate": 0.24
+  },
+  "ch_00486": {
+    "last_12_month_total": 38158,
+    "unique_donors": 919,
+    "repeat_donor_rate": 0.51
+  },
+  "ch_00487": {
+    "last_12_month_total": 236107,
+    "unique_donors": 474,
+    "repeat_donor_rate": 0.44
+  },
+  "ch_00488": {
+    "last_12_month_total": 140368,
+    "unique_donors": 714,
+    "repeat_donor_rate": 0.75
+  },
+  "ch_00489": {
+    "last_12_month_total": 245244,
+    "unique_donors": 384,
+    "repeat_donor_rate": 0.61
+  },
+  "ch_00490": {
+    "last_12_month_total": 210212,
+    "unique_donors": 835,
+    "repeat_donor_rate": 0.75
+  },
+  "ch_00491": {
+    "last_12_month_total": 291458,
+    "unique_donors": 1047,
+    "repeat_donor_rate": 0.54
+  },
+  "ch_00492": {
+    "last_12_month_total": 23096,
+    "unique_donors": 416,
+    "repeat_donor_rate": 0.5
+  },
+  "ch_00493": {
+    "last_12_month_total": 168483,
+    "unique_donors": 907,
+    "repeat_donor_rate": 0.74
+  },
+  "ch_00494": {
+    "last_12_month_total": 100651,
+    "unique_donors": 931,
+    "repeat_donor_rate": 0.73
+  },
+  "ch_00495": {
+    "last_12_month_total": 64936,
+    "unique_donors": 764,
+    "repeat_donor_rate": 0.66
+  },
+  "ch_00496": {
+    "last_12_month_total": 111134,
+    "unique_donors": 812,
+    "repeat_donor_rate": 0.67
+  },
+  "ch_00497": {
+    "last_12_month_total": 92794,
+    "unique_donors": 688,
+    "repeat_donor_rate": 0.64
+  },
+  "ch_00498": {
+    "last_12_month_total": 29113,
+    "unique_donors": 511,
+    "repeat_donor_rate": 0.29
+  },
+  "ch_00499": {
+    "last_12_month_total": 11250,
+    "unique_donors": 563,
+    "repeat_donor_rate": 0.34
+  },
+  "ch_00500": {
+    "last_12_month_total": 102666,
+    "unique_donors": 626,
+    "repeat_donor_rate": 0.45
+  },
+  "ch_00501": {
+    "last_12_month_total": 269532,
+    "unique_donors": 1073,
+    "repeat_donor_rate": 0.77
+  },
+  "ch_00502": {
+    "last_12_month_total": 220713,
+    "unique_donors": 682,
+    "repeat_donor_rate": 0.44
+  },
+  "ch_00503": {
+    "last_12_month_total": 188673,
+    "unique_donors": 493,
+    "repeat_donor_rate": 0.56
+  },
+  "ch_00504": {
+    "last_12_month_total": 297728,
+    "unique_donors": 541,
+    "repeat_donor_rate": 0.34
+  },
+  "ch_00505": {
+    "last_12_month_total": 125363,
+    "unique_donors": 1074,
+    "repeat_donor_rate": 0.75
+  },
+  "ch_00506": {
+    "last_12_month_total": 130607,
+    "unique_donors": 364,
+    "repeat_donor_rate": 0.5
+  },
+  "ch_00507": {
+    "last_12_month_total": 57135,
+    "unique_donors": 181,
+    "repeat_donor_rate": 0.31
+  },
+  "ch_00508": {
+    "last_12_month_total": 168097,
+    "unique_donors": 676,
+    "repeat_donor_rate": 0.31
+  },
+  "ch_00509": {
+    "last_12_month_total": 15293,
+    "unique_donors": 1158,
+    "repeat_donor_rate": 0.44
+  },
+  "ch_00510": {
+    "last_12_month_total": 289033,
+    "unique_donors": 857,
+    "repeat_donor_rate": 0.23
+  },
+  "ch_00511": {
+    "last_12_month_total": 135567,
+    "unique_donors": 151,
+    "repeat_donor_rate": 0.75
+  },
+  "ch_00512": {
+    "last_12_month_total": 171279,
+    "unique_donors": 1120,
+    "repeat_donor_rate": 0.55
+  },
+  "ch_00513": {
+    "last_12_month_total": 224870,
+    "unique_donors": 440,
+    "repeat_donor_rate": 0.61
+  },
+  "ch_00514": {
+    "last_12_month_total": 114505,
+    "unique_donors": 952,
+    "repeat_donor_rate": 0.65
+  },
+  "ch_00515": {
+    "last_12_month_total": 221432,
+    "unique_donors": 330,
+    "repeat_donor_rate": 0.51
+  },
+  "ch_00516": {
+    "last_12_month_total": 289758,
+    "unique_donors": 396,
+    "repeat_donor_rate": 0.78
+  },
+  "ch_00517": {
+    "last_12_month_total": 188741,
+    "unique_donors": 210,
+    "repeat_donor_rate": 0.67
+  },
+  "ch_00518": {
+    "last_12_month_total": 150066,
+    "unique_donors": 1109,
+    "repeat_donor_rate": 0.52
+  },
+  "ch_00519": {
+    "last_12_month_total": 222336,
+    "unique_donors": 1196,
+    "repeat_donor_rate": 0.59
+  },
+  "ch_00520": {
+    "last_12_month_total": 183093,
+    "unique_donors": 83,
+    "repeat_donor_rate": 0.65
+  },
+  "ch_00521": {
+    "last_12_month_total": 217080,
+    "unique_donors": 543,
+    "repeat_donor_rate": 0.26
+  },
+  "ch_00522": {
+    "last_12_month_total": 206763,
+    "unique_donors": 684,
+    "repeat_donor_rate": 0.67
+  },
+  "ch_00523": {
+    "last_12_month_total": 29016,
+    "unique_donors": 670,
+    "repeat_donor_rate": 0.59
+  },
+  "ch_00524": {
+    "last_12_month_total": 62670,
+    "unique_donors": 1174,
+    "repeat_donor_rate": 0.28
+  },
+  "ch_00525": {
+    "last_12_month_total": 20480,
+    "unique_donors": 217,
+    "repeat_donor_rate": 0.64
+  },
+  "ch_00526": {
+    "last_12_month_total": 255469,
+    "unique_donors": 800,
+    "repeat_donor_rate": 0.42
+  },
+  "ch_00527": {
+    "last_12_month_total": 129319,
+    "unique_donors": 738,
+    "repeat_donor_rate": 0.29
+  },
+  "ch_00528": {
+    "last_12_month_total": 107483,
+    "unique_donors": 429,
+    "repeat_donor_rate": 0.29
+  },
+  "ch_00529": {
+    "last_12_month_total": 192815,
+    "unique_donors": 160,
+    "repeat_donor_rate": 0.76
+  },
+  "ch_00530": {
+    "last_12_month_total": 88910,
+    "unique_donors": 998,
+    "repeat_donor_rate": 0.68
+  },
+  "ch_00531": {
+    "last_12_month_total": 249577,
+    "unique_donors": 68,
+    "repeat_donor_rate": 0.23
+  },
+  "ch_00532": {
+    "last_12_month_total": 95695,
+    "unique_donors": 1118,
+    "repeat_donor_rate": 0.5
+  },
+  "ch_00533": {
+    "last_12_month_total": 262147,
+    "unique_donors": 953,
+    "repeat_donor_rate": 0.52
+  },
+  "ch_00534": {
+    "last_12_month_total": 288853,
+    "unique_donors": 713,
+    "repeat_donor_rate": 0.45
+  },
+  "ch_00535": {
+    "last_12_month_total": 211074,
+    "unique_donors": 1046,
+    "repeat_donor_rate": 0.7
+  },
+  "ch_00536": {
+    "last_12_month_total": 287808,
+    "unique_donors": 157,
+    "repeat_donor_rate": 0.53
+  },
+  "ch_00537": {
+    "last_12_month_total": 80361,
+    "unique_donors": 836,
+    "repeat_donor_rate": 0.32
+  },
+  "ch_00538": {
+    "last_12_month_total": 112216,
+    "unique_donors": 1183,
+    "repeat_donor_rate": 0.61
+  },
+  "ch_00539": {
+    "last_12_month_total": 36007,
+    "unique_donors": 593,
+    "repeat_donor_rate": 0.67
+  },
+  "ch_00540": {
+    "last_12_month_total": 70130,
+    "unique_donors": 531,
+    "repeat_donor_rate": 0.32
+  },
+  "ch_00541": {
+    "last_12_month_total": 289152,
+    "unique_donors": 890,
+    "repeat_donor_rate": 0.38
+  },
+  "ch_00542": {
+    "last_12_month_total": 96468,
+    "unique_donors": 523,
+    "repeat_donor_rate": 0.29
+  },
+  "ch_00543": {
+    "last_12_month_total": 102036,
+    "unique_donors": 1131,
+    "repeat_donor_rate": 0.34
+  },
+  "ch_00544": {
+    "last_12_month_total": 234072,
+    "unique_donors": 314,
+    "repeat_donor_rate": 0.4
+  },
+  "ch_00545": {
+    "last_12_month_total": 17988,
+    "unique_donors": 508,
+    "repeat_donor_rate": 0.31
+  },
+  "ch_00546": {
+    "last_12_month_total": 23731,
+    "unique_donors": 649,
+    "repeat_donor_rate": 0.69
+  },
+  "ch_00547": {
+    "last_12_month_total": 170314,
+    "unique_donors": 861,
+    "repeat_donor_rate": 0.77
+  },
+  "ch_00548": {
+    "last_12_month_total": 209148,
+    "unique_donors": 252,
+    "repeat_donor_rate": 0.45
+  },
+  "ch_00549": {
+    "last_12_month_total": 209314,
+    "unique_donors": 1078,
+    "repeat_donor_rate": 0.45
+  },
+  "ch_00550": {
+    "last_12_month_total": 99404,
+    "unique_donors": 344,
+    "repeat_donor_rate": 0.64
+  },
+  "ch_00551": {
+    "last_12_month_total": 111100,
+    "unique_donors": 1042,
+    "repeat_donor_rate": 0.39
+  },
+  "ch_00552": {
+    "last_12_month_total": 53254,
+    "unique_donors": 408,
+    "repeat_donor_rate": 0.35
+  },
+  "ch_00553": {
+    "last_12_month_total": 48828,
+    "unique_donors": 678,
+    "repeat_donor_rate": 0.7
+  },
+  "ch_00554": {
+    "last_12_month_total": 213099,
+    "unique_donors": 295,
+    "repeat_donor_rate": 0.26
+  },
+  "ch_00555": {
+    "last_12_month_total": 257250,
+    "unique_donors": 415,
+    "repeat_donor_rate": 0.61
+  },
+  "ch_00556": {
+    "last_12_month_total": 268575,
+    "unique_donors": 656,
+    "repeat_donor_rate": 0.33
+  },
+  "ch_00557": {
+    "last_12_month_total": 280704,
+    "unique_donors": 627,
+    "repeat_donor_rate": 0.57
+  },
+  "ch_00558": {
+    "last_12_month_total": 243222,
+    "unique_donors": 353,
+    "repeat_donor_rate": 0.46
+  },
+  "ch_00559": {
+    "last_12_month_total": 197860,
+    "unique_donors": 24,
+    "repeat_donor_rate": 0.32
+  },
+  "ch_00560": {
+    "last_12_month_total": 56820,
+    "unique_donors": 85,
+    "repeat_donor_rate": 0.74
+  },
+  "ch_00561": {
+    "last_12_month_total": 123374,
+    "unique_donors": 325,
+    "repeat_donor_rate": 0.51
+  },
+  "ch_00562": {
+    "last_12_month_total": 18117,
+    "unique_donors": 224,
+    "repeat_donor_rate": 0.59
+  },
+  "ch_00563": {
+    "last_12_month_total": 43544,
+    "unique_donors": 557,
+    "repeat_donor_rate": 0.24
+  },
+  "ch_00564": {
+    "last_12_month_total": 100886,
+    "unique_donors": 393,
+    "repeat_donor_rate": 0.57
+  },
+  "ch_00565": {
+    "last_12_month_total": 230354,
+    "unique_donors": 256,
+    "repeat_donor_rate": 0.23
+  },
+  "ch_00566": {
+    "last_12_month_total": 67360,
+    "unique_donors": 764,
+    "repeat_donor_rate": 0.28
+  },
+  "ch_00567": {
+    "last_12_month_total": 179459,
+    "unique_donors": 128,
+    "repeat_donor_rate": 0.21
+  },
+  "ch_00568": {
+    "last_12_month_total": 121419,
+    "unique_donors": 418,
+    "repeat_donor_rate": 0.63
+  },
+  "ch_00569": {
+    "last_12_month_total": 258942,
+    "unique_donors": 612,
+    "repeat_donor_rate": 0.47
+  },
+  "ch_00570": {
+    "last_12_month_total": 252355,
+    "unique_donors": 1145,
+    "repeat_donor_rate": 0.34
+  },
+  "ch_00571": {
+    "last_12_month_total": 14772,
+    "unique_donors": 227,
+    "repeat_donor_rate": 0.79
+  },
+  "ch_00572": {
+    "last_12_month_total": 252097,
+    "unique_donors": 959,
+    "repeat_donor_rate": 0.27
+  },
+  "ch_00573": {
+    "last_12_month_total": 166838,
+    "unique_donors": 699,
+    "repeat_donor_rate": 0.52
+  },
+  "ch_00574": {
+    "last_12_month_total": 218908,
+    "unique_donors": 330,
+    "repeat_donor_rate": 0.61
+  },
+  "ch_00575": {
+    "last_12_month_total": 89571,
+    "unique_donors": 485,
+    "repeat_donor_rate": 0.36
+  },
+  "ch_00576": {
+    "last_12_month_total": 20944,
+    "unique_donors": 937,
+    "repeat_donor_rate": 0.62
+  },
+  "ch_00577": {
+    "last_12_month_total": 170774,
+    "unique_donors": 87,
+    "repeat_donor_rate": 0.65
+  },
+  "ch_00578": {
+    "last_12_month_total": 266255,
+    "unique_donors": 81,
+    "repeat_donor_rate": 0.69
+  },
+  "ch_00579": {
+    "last_12_month_total": 66763,
+    "unique_donors": 88,
+    "repeat_donor_rate": 0.52
+  },
+  "ch_00580": {
+    "last_12_month_total": 40540,
+    "unique_donors": 964,
+    "repeat_donor_rate": 0.57
+  },
+  "ch_00581": {
+    "last_12_month_total": 193537,
+    "unique_donors": 229,
+    "repeat_donor_rate": 0.77
+  },
+  "ch_00582": {
+    "last_12_month_total": 263661,
+    "unique_donors": 1108,
+    "repeat_donor_rate": 0.48
+  },
+  "ch_00583": {
+    "last_12_month_total": 252981,
+    "unique_donors": 1083,
+    "repeat_donor_rate": 0.57
+  },
+  "ch_00584": {
+    "last_12_month_total": 101681,
+    "unique_donors": 330,
+    "repeat_donor_rate": 0.38
+  },
+  "ch_00585": {
+    "last_12_month_total": 276274,
+    "unique_donors": 1092,
+    "repeat_donor_rate": 0.57
+  },
+  "ch_00586": {
+    "last_12_month_total": 30779,
+    "unique_donors": 349,
+    "repeat_donor_rate": 0.29
+  },
+  "ch_00587": {
+    "last_12_month_total": 17865,
+    "unique_donors": 313,
+    "repeat_donor_rate": 0.32
+  },
+  "ch_00588": {
+    "last_12_month_total": 253541,
+    "unique_donors": 316,
+    "repeat_donor_rate": 0.78
+  },
+  "ch_00589": {
+    "last_12_month_total": 164136,
+    "unique_donors": 825,
+    "repeat_donor_rate": 0.64
+  },
+  "ch_00590": {
+    "last_12_month_total": 18429,
+    "unique_donors": 404,
+    "repeat_donor_rate": 0.62
+  },
+  "ch_00591": {
+    "last_12_month_total": 151853,
+    "unique_donors": 782,
+    "repeat_donor_rate": 0.47
+  },
+  "ch_00592": {
+    "last_12_month_total": 181064,
+    "unique_donors": 1123,
+    "repeat_donor_rate": 0.5
+  },
+  "ch_00593": {
+    "last_12_month_total": 101649,
+    "unique_donors": 835,
+    "repeat_donor_rate": 0.38
+  },
+  "ch_00594": {
+    "last_12_month_total": 205374,
+    "unique_donors": 288,
+    "repeat_donor_rate": 0.37
+  },
+  "ch_00595": {
+    "last_12_month_total": 153233,
+    "unique_donors": 167,
+    "repeat_donor_rate": 0.52
+  },
+  "ch_00596": {
+    "last_12_month_total": 241801,
+    "unique_donors": 555,
+    "repeat_donor_rate": 0.52
+  },
+  "ch_00597": {
+    "last_12_month_total": 79926,
+    "unique_donors": 660,
+    "repeat_donor_rate": 0.52
+  },
+  "ch_00598": {
+    "last_12_month_total": 76937,
+    "unique_donors": 1133,
+    "repeat_donor_rate": 0.45
+  },
+  "ch_00599": {
+    "last_12_month_total": 251129,
+    "unique_donors": 317,
+    "repeat_donor_rate": 0.53
+  },
+  "ch_00600": {
+    "last_12_month_total": 247699,
+    "unique_donors": 539,
+    "repeat_donor_rate": 0.57
+  },
+  "ch_00601": {
+    "last_12_month_total": 136729,
+    "unique_donors": 907,
+    "repeat_donor_rate": 0.71
+  },
+  "ch_00602": {
+    "last_12_month_total": 271914,
+    "unique_donors": 657,
+    "repeat_donor_rate": 0.56
+  },
+  "ch_00603": {
+    "last_12_month_total": 167317,
+    "unique_donors": 309,
+    "repeat_donor_rate": 0.59
+  },
+  "ch_00604": {
+    "last_12_month_total": 54373,
+    "unique_donors": 499,
+    "repeat_donor_rate": 0.6
+  },
+  "ch_00605": {
+    "last_12_month_total": 19975,
+    "unique_donors": 323,
+    "repeat_donor_rate": 0.57
+  },
+  "ch_00606": {
+    "last_12_month_total": 66051,
+    "unique_donors": 233,
+    "repeat_donor_rate": 0.54
+  },
+  "ch_00607": {
+    "last_12_month_total": 171301,
+    "unique_donors": 92,
+    "repeat_donor_rate": 0.71
+  },
+  "ch_00608": {
+    "last_12_month_total": 171081,
+    "unique_donors": 1042,
+    "repeat_donor_rate": 0.5
+  },
+  "ch_00609": {
+    "last_12_month_total": 55234,
+    "unique_donors": 649,
+    "repeat_donor_rate": 0.67
+  },
+  "ch_00610": {
+    "last_12_month_total": 151002,
+    "unique_donors": 601,
+    "repeat_donor_rate": 0.65
+  },
+  "ch_00611": {
+    "last_12_month_total": 263371,
+    "unique_donors": 48,
+    "repeat_donor_rate": 0.5
+  },
+  "ch_00612": {
+    "last_12_month_total": 117203,
+    "unique_donors": 945,
+    "repeat_donor_rate": 0.34
+  },
+  "ch_00613": {
+    "last_12_month_total": 61979,
+    "unique_donors": 960,
+    "repeat_donor_rate": 0.29
+  },
+  "ch_00614": {
+    "last_12_month_total": 59858,
+    "unique_donors": 305,
+    "repeat_donor_rate": 0.76
+  },
+  "ch_00615": {
+    "last_12_month_total": 168405,
+    "unique_donors": 111,
+    "repeat_donor_rate": 0.3
+  },
+  "ch_00616": {
+    "last_12_month_total": 269238,
+    "unique_donors": 62,
+    "repeat_donor_rate": 0.53
+  },
+  "ch_00617": {
+    "last_12_month_total": 264925,
+    "unique_donors": 273,
+    "repeat_donor_rate": 0.55
+  },
+  "ch_00618": {
+    "last_12_month_total": 218407,
+    "unique_donors": 362,
+    "repeat_donor_rate": 0.7
+  },
+  "ch_00619": {
+    "last_12_month_total": 213989,
+    "unique_donors": 1028,
+    "repeat_donor_rate": 0.26
+  },
+  "ch_00620": {
+    "last_12_month_total": 142386,
+    "unique_donors": 509,
+    "repeat_donor_rate": 0.62
+  },
+  "ch_00621": {
+    "last_12_month_total": 235280,
+    "unique_donors": 349,
+    "repeat_donor_rate": 0.2
+  },
+  "ch_00622": {
+    "last_12_month_total": 173981,
+    "unique_donors": 1091,
+    "repeat_donor_rate": 0.78
+  },
+  "ch_00623": {
+    "last_12_month_total": 252617,
+    "unique_donors": 680,
+    "repeat_donor_rate": 0.7
+  },
+  "ch_00624": {
+    "last_12_month_total": 212779,
+    "unique_donors": 448,
+    "repeat_donor_rate": 0.25
+  },
+  "ch_00625": {
+    "last_12_month_total": 40945,
+    "unique_donors": 680,
+    "repeat_donor_rate": 0.32
+  },
+  "ch_00626": {
+    "last_12_month_total": 180206,
+    "unique_donors": 335,
+    "repeat_donor_rate": 0.23
+  },
+  "ch_00627": {
+    "last_12_month_total": 48551,
+    "unique_donors": 677,
+    "repeat_donor_rate": 0.47
+  },
+  "ch_00628": {
+    "last_12_month_total": 274051,
+    "unique_donors": 1190,
+    "repeat_donor_rate": 0.43
+  },
+  "ch_00629": {
+    "last_12_month_total": 14370,
+    "unique_donors": 559,
+    "repeat_donor_rate": 0.54
+  },
+  "ch_00630": {
+    "last_12_month_total": 93505,
+    "unique_donors": 421,
+    "repeat_donor_rate": 0.72
+  },
+  "ch_00631": {
+    "last_12_month_total": 231083,
+    "unique_donors": 400,
+    "repeat_donor_rate": 0.41
+  },
+  "ch_00632": {
+    "last_12_month_total": 213671,
+    "unique_donors": 385,
+    "repeat_donor_rate": 0.28
+  },
+  "ch_00633": {
+    "last_12_month_total": 109259,
+    "unique_donors": 100,
+    "repeat_donor_rate": 0.77
+  },
+  "ch_00634": {
+    "last_12_month_total": 162137,
+    "unique_donors": 999,
+    "repeat_donor_rate": 0.39
+  },
+  "ch_00635": {
+    "last_12_month_total": 226930,
+    "unique_donors": 58,
+    "repeat_donor_rate": 0.4
+  },
+  "ch_00636": {
+    "last_12_month_total": 184544,
+    "unique_donors": 374,
+    "repeat_donor_rate": 0.24
+  },
+  "ch_00637": {
+    "last_12_month_total": 235902,
+    "unique_donors": 522,
+    "repeat_donor_rate": 0.59
+  },
+  "ch_00638": {
+    "last_12_month_total": 94640,
+    "unique_donors": 205,
+    "repeat_donor_rate": 0.71
+  },
+  "ch_00639": {
+    "last_12_month_total": 104139,
+    "unique_donors": 378,
+    "repeat_donor_rate": 0.43
+  },
+  "ch_00640": {
+    "last_12_month_total": 281664,
+    "unique_donors": 855,
+    "repeat_donor_rate": 0.57
+  },
+  "ch_00641": {
+    "last_12_month_total": 93879,
+    "unique_donors": 235,
+    "repeat_donor_rate": 0.67
+  },
+  "ch_00642": {
+    "last_12_month_total": 163150,
+    "unique_donors": 266,
+    "repeat_donor_rate": 0.75
+  },
+  "ch_00643": {
+    "last_12_month_total": 121185,
+    "unique_donors": 539,
+    "repeat_donor_rate": 0.33
+  },
+  "ch_00644": {
+    "last_12_month_total": 243547,
+    "unique_donors": 547,
+    "repeat_donor_rate": 0.68
+  },
+  "ch_00645": {
+    "last_12_month_total": 186987,
+    "unique_donors": 355,
+    "repeat_donor_rate": 0.31
+  },
+  "ch_00646": {
+    "last_12_month_total": 196336,
+    "unique_donors": 703,
+    "repeat_donor_rate": 0.74
+  },
+  "ch_00647": {
+    "last_12_month_total": 151406,
+    "unique_donors": 960,
+    "repeat_donor_rate": 0.24
+  },
+  "ch_00648": {
+    "last_12_month_total": 130395,
+    "unique_donors": 883,
+    "repeat_donor_rate": 0.65
+  },
+  "ch_00649": {
+    "last_12_month_total": 239396,
+    "unique_donors": 422,
+    "repeat_donor_rate": 0.68
+  },
+  "ch_00650": {
+    "last_12_month_total": 88251,
+    "unique_donors": 483,
+    "repeat_donor_rate": 0.61
+  },
+  "ch_00651": {
+    "last_12_month_total": 129242,
+    "unique_donors": 894,
+    "repeat_donor_rate": 0.49
+  },
+  "ch_00652": {
+    "last_12_month_total": 75881,
+    "unique_donors": 621,
+    "repeat_donor_rate": 0.75
+  },
+  "ch_00653": {
+    "last_12_month_total": 87652,
+    "unique_donors": 308,
+    "repeat_donor_rate": 0.43
+  },
+  "ch_00654": {
+    "last_12_month_total": 10456,
+    "unique_donors": 868,
+    "repeat_donor_rate": 0.4
+  },
+  "ch_00655": {
+    "last_12_month_total": 46484,
+    "unique_donors": 1010,
+    "repeat_donor_rate": 0.55
+  },
+  "ch_00656": {
+    "last_12_month_total": 180110,
+    "unique_donors": 219,
+    "repeat_donor_rate": 0.5
+  },
+  "ch_00657": {
+    "last_12_month_total": 198341,
+    "unique_donors": 473,
+    "repeat_donor_rate": 0.34
+  },
+  "ch_00658": {
+    "last_12_month_total": 64240,
+    "unique_donors": 614,
+    "repeat_donor_rate": 0.63
+  },
+  "ch_00659": {
+    "last_12_month_total": 271736,
+    "unique_donors": 1040,
+    "repeat_donor_rate": 0.63
+  },
+  "ch_00660": {
+    "last_12_month_total": 23040,
+    "unique_donors": 384,
+    "repeat_donor_rate": 0.3
+  },
+  "ch_00661": {
+    "last_12_month_total": 65383,
+    "unique_donors": 990,
+    "repeat_donor_rate": 0.49
+  },
+  "ch_00662": {
+    "last_12_month_total": 126255,
+    "unique_donors": 445,
+    "repeat_donor_rate": 0.71
+  },
+  "ch_00663": {
+    "last_12_month_total": 74424,
+    "unique_donors": 1026,
+    "repeat_donor_rate": 0.79
+  },
+  "ch_00664": {
+    "last_12_month_total": 34196,
+    "unique_donors": 991,
+    "repeat_donor_rate": 0.66
+  },
+  "ch_00665": {
+    "last_12_month_total": 50429,
+    "unique_donors": 781,
+    "repeat_donor_rate": 0.65
+  },
+  "ch_00666": {
+    "last_12_month_total": 243512,
+    "unique_donors": 971,
+    "repeat_donor_rate": 0.77
+  },
+  "ch_00667": {
+    "last_12_month_total": 138907,
+    "unique_donors": 394,
+    "repeat_donor_rate": 0.72
+  },
+  "ch_00668": {
+    "last_12_month_total": 281995,
+    "unique_donors": 319,
+    "repeat_donor_rate": 0.59
+  },
+  "ch_00669": {
+    "last_12_month_total": 20541,
+    "unique_donors": 533,
+    "repeat_donor_rate": 0.76
+  },
+  "ch_00670": {
+    "last_12_month_total": 76237,
+    "unique_donors": 741,
+    "repeat_donor_rate": 0.21
+  },
+  "ch_00671": {
+    "last_12_month_total": 150804,
+    "unique_donors": 906,
+    "repeat_donor_rate": 0.51
+  },
+  "ch_00672": {
+    "last_12_month_total": 263161,
+    "unique_donors": 510,
+    "repeat_donor_rate": 0.32
+  },
+  "ch_00673": {
+    "last_12_month_total": 295814,
+    "unique_donors": 264,
+    "repeat_donor_rate": 0.22
+  },
+  "ch_00674": {
+    "last_12_month_total": 99390,
+    "unique_donors": 147,
+    "repeat_donor_rate": 0.67
+  },
+  "ch_00675": {
+    "last_12_month_total": 201238,
+    "unique_donors": 472,
+    "repeat_donor_rate": 0.67
+  },
+  "ch_00676": {
+    "last_12_month_total": 49097,
+    "unique_donors": 1186,
+    "repeat_donor_rate": 0.65
+  },
+  "ch_00677": {
+    "last_12_month_total": 163159,
+    "unique_donors": 26,
+    "repeat_donor_rate": 0.24
+  },
+  "ch_00678": {
+    "last_12_month_total": 242701,
+    "unique_donors": 1105,
+    "repeat_donor_rate": 0.47
+  },
+  "ch_00679": {
+    "last_12_month_total": 282402,
+    "unique_donors": 899,
+    "repeat_donor_rate": 0.77
+  },
+  "ch_00680": {
+    "last_12_month_total": 157898,
+    "unique_donors": 958,
+    "repeat_donor_rate": 0.36
+  },
+  "ch_00681": {
+    "last_12_month_total": 50329,
+    "unique_donors": 276,
+    "repeat_donor_rate": 0.45
+  },
+  "ch_00682": {
+    "last_12_month_total": 110654,
+    "unique_donors": 508,
+    "repeat_donor_rate": 0.62
+  },
+  "ch_00683": {
+    "last_12_month_total": 258107,
+    "unique_donors": 1023,
+    "repeat_donor_rate": 0.56
+  },
+  "ch_00684": {
+    "last_12_month_total": 207569,
+    "unique_donors": 481,
+    "repeat_donor_rate": 0.64
+  },
+  "ch_00685": {
+    "last_12_month_total": 187474,
+    "unique_donors": 946,
+    "repeat_donor_rate": 0.52
+  },
+  "ch_00686": {
+    "last_12_month_total": 266069,
+    "unique_donors": 582,
+    "repeat_donor_rate": 0.31
+  },
+  "ch_00687": {
+    "last_12_month_total": 118749,
+    "unique_donors": 197,
+    "repeat_donor_rate": 0.63
+  },
+  "ch_00688": {
+    "last_12_month_total": 285750,
+    "unique_donors": 814,
+    "repeat_donor_rate": 0.4
+  },
+  "ch_00689": {
+    "last_12_month_total": 132292,
+    "unique_donors": 1198,
+    "repeat_donor_rate": 0.27
+  },
+  "ch_00690": {
+    "last_12_month_total": 183831,
+    "unique_donors": 285,
+    "repeat_donor_rate": 0.28
+  },
+  "ch_00691": {
+    "last_12_month_total": 172192,
+    "unique_donors": 793,
+    "repeat_donor_rate": 0.53
+  },
+  "ch_00692": {
+    "last_12_month_total": 209601,
+    "unique_donors": 334,
+    "repeat_donor_rate": 0.39
+  },
+  "ch_00693": {
+    "last_12_month_total": 216813,
+    "unique_donors": 189,
+    "repeat_donor_rate": 0.36
+  },
+  "ch_00694": {
+    "last_12_month_total": 107408,
+    "unique_donors": 97,
+    "repeat_donor_rate": 0.65
+  },
+  "ch_00695": {
+    "last_12_month_total": 257352,
+    "unique_donors": 109,
+    "repeat_donor_rate": 0.7
+  },
+  "ch_00696": {
+    "last_12_month_total": 81615,
+    "unique_donors": 480,
+    "repeat_donor_rate": 0.5
+  },
+  "ch_00697": {
+    "last_12_month_total": 178985,
+    "unique_donors": 437,
+    "repeat_donor_rate": 0.67
+  },
+  "ch_00698": {
+    "last_12_month_total": 297020,
+    "unique_donors": 335,
+    "repeat_donor_rate": 0.71
+  },
+  "ch_00699": {
+    "last_12_month_total": 217745,
+    "unique_donors": 1163,
+    "repeat_donor_rate": 0.74
+  },
+  "ch_00700": {
+    "last_12_month_total": 145883,
+    "unique_donors": 240,
+    "repeat_donor_rate": 0.27
+  },
+  "ch_00701": {
+    "last_12_month_total": 28193,
+    "unique_donors": 76,
+    "repeat_donor_rate": 0.38
+  },
+  "ch_00702": {
+    "last_12_month_total": 236396,
+    "unique_donors": 1189,
+    "repeat_donor_rate": 0.72
+  },
+  "ch_00703": {
+    "last_12_month_total": 22730,
+    "unique_donors": 528,
+    "repeat_donor_rate": 0.71
+  },
+  "ch_00704": {
+    "last_12_month_total": 287495,
+    "unique_donors": 926,
+    "repeat_donor_rate": 0.22
+  },
+  "ch_00705": {
+    "last_12_month_total": 124675,
+    "unique_donors": 901,
+    "repeat_donor_rate": 0.63
+  },
+  "ch_00706": {
+    "last_12_month_total": 191367,
+    "unique_donors": 660,
+    "repeat_donor_rate": 0.63
+  },
+  "ch_00707": {
+    "last_12_month_total": 233925,
+    "unique_donors": 904,
+    "repeat_donor_rate": 0.38
+  },
+  "ch_00708": {
+    "last_12_month_total": 25432,
+    "unique_donors": 1029,
+    "repeat_donor_rate": 0.53
+  },
+  "ch_00709": {
+    "last_12_month_total": 52430,
+    "unique_donors": 949,
+    "repeat_donor_rate": 0.66
+  },
+  "ch_00710": {
+    "last_12_month_total": 266743,
+    "unique_donors": 335,
+    "repeat_donor_rate": 0.58
+  },
+  "ch_00711": {
+    "last_12_month_total": 221263,
+    "unique_donors": 981,
+    "repeat_donor_rate": 0.64
+  },
+  "ch_00712": {
+    "last_12_month_total": 138549,
+    "unique_donors": 419,
+    "repeat_donor_rate": 0.47
+  },
+  "ch_00713": {
+    "last_12_month_total": 142306,
+    "unique_donors": 641,
+    "repeat_donor_rate": 0.24
+  },
+  "ch_00714": {
+    "last_12_month_total": 281433,
+    "unique_donors": 918,
+    "repeat_donor_rate": 0.77
+  },
+  "ch_00715": {
+    "last_12_month_total": 257170,
+    "unique_donors": 371,
+    "repeat_donor_rate": 0.49
+  },
+  "ch_00716": {
+    "last_12_month_total": 140261,
+    "unique_donors": 996,
+    "repeat_donor_rate": 0.23
+  },
+  "ch_00717": {
+    "last_12_month_total": 215156,
+    "unique_donors": 1138,
+    "repeat_donor_rate": 0.58
+  },
+  "ch_00718": {
+    "last_12_month_total": 225279,
+    "unique_donors": 644,
+    "repeat_donor_rate": 0.68
+  },
+  "ch_00719": {
+    "last_12_month_total": 170032,
+    "unique_donors": 727,
+    "repeat_donor_rate": 0.29
+  },
+  "ch_00720": {
+    "last_12_month_total": 152844,
+    "unique_donors": 628,
+    "repeat_donor_rate": 0.3
+  },
+  "ch_00721": {
+    "last_12_month_total": 136511,
+    "unique_donors": 443,
+    "repeat_donor_rate": 0.72
+  },
+  "ch_00722": {
+    "last_12_month_total": 192003,
+    "unique_donors": 578,
+    "repeat_donor_rate": 0.45
+  },
+  "ch_00723": {
+    "last_12_month_total": 223294,
+    "unique_donors": 611,
+    "repeat_donor_rate": 0.53
+  },
+  "ch_00724": {
+    "last_12_month_total": 28014,
+    "unique_donors": 439,
+    "repeat_donor_rate": 0.64
+  },
+  "ch_00725": {
+    "last_12_month_total": 122711,
+    "unique_donors": 429,
+    "repeat_donor_rate": 0.22
+  },
+  "ch_00726": {
+    "last_12_month_total": 202409,
+    "unique_donors": 277,
+    "repeat_donor_rate": 0.67
+  },
+  "ch_00727": {
+    "last_12_month_total": 76511,
+    "unique_donors": 944,
+    "repeat_donor_rate": 0.41
+  },
+  "ch_00728": {
+    "last_12_month_total": 162501,
+    "unique_donors": 1150,
+    "repeat_donor_rate": 0.65
+  },
+  "ch_00729": {
+    "last_12_month_total": 101792,
+    "unique_donors": 188,
+    "repeat_donor_rate": 0.46
+  },
+  "ch_00730": {
+    "last_12_month_total": 66550,
+    "unique_donors": 1080,
+    "repeat_donor_rate": 0.3
+  },
+  "ch_00731": {
+    "last_12_month_total": 110635,
+    "unique_donors": 944,
+    "repeat_donor_rate": 0.77
+  },
+  "ch_00732": {
+    "last_12_month_total": 125817,
+    "unique_donors": 1069,
+    "repeat_donor_rate": 0.42
+  },
+  "ch_00733": {
+    "last_12_month_total": 171545,
+    "unique_donors": 369,
+    "repeat_donor_rate": 0.4
+  },
+  "ch_00734": {
+    "last_12_month_total": 69211,
+    "unique_donors": 739,
+    "repeat_donor_rate": 0.69
+  },
+  "ch_00735": {
+    "last_12_month_total": 40056,
+    "unique_donors": 32,
+    "repeat_donor_rate": 0.53
+  },
+  "ch_00736": {
+    "last_12_month_total": 260033,
+    "unique_donors": 1034,
+    "repeat_donor_rate": 0.32
+  },
+  "ch_00737": {
+    "last_12_month_total": 241543,
+    "unique_donors": 306,
+    "repeat_donor_rate": 0.44
+  },
+  "ch_00738": {
+    "last_12_month_total": 35385,
+    "unique_donors": 693,
+    "repeat_donor_rate": 0.3
+  },
+  "ch_00739": {
+    "last_12_month_total": 24717,
+    "unique_donors": 191,
+    "repeat_donor_rate": 0.77
+  },
+  "ch_00740": {
+    "last_12_month_total": 186265,
+    "unique_donors": 456,
+    "repeat_donor_rate": 0.69
+  },
+  "ch_00741": {
+    "last_12_month_total": 212874,
+    "unique_donors": 776,
+    "repeat_donor_rate": 0.75
+  },
+  "ch_00742": {
+    "last_12_month_total": 173204,
+    "unique_donors": 532,
+    "repeat_donor_rate": 0.54
+  },
+  "ch_00743": {
+    "last_12_month_total": 282685,
+    "unique_donors": 399,
+    "repeat_donor_rate": 0.26
+  },
+  "ch_00744": {
+    "last_12_month_total": 190553,
+    "unique_donors": 141,
+    "repeat_donor_rate": 0.6
+  },
+  "ch_00745": {
+    "last_12_month_total": 195190,
+    "unique_donors": 464,
+    "repeat_donor_rate": 0.24
+  },
+  "ch_00746": {
+    "last_12_month_total": 82842,
+    "unique_donors": 232,
+    "repeat_donor_rate": 0.46
+  },
+  "ch_00747": {
+    "last_12_month_total": 88055,
+    "unique_donors": 989,
+    "repeat_donor_rate": 0.67
+  },
+  "ch_00748": {
+    "last_12_month_total": 249899,
+    "unique_donors": 899,
+    "repeat_donor_rate": 0.67
+  },
+  "ch_00749": {
+    "last_12_month_total": 165571,
+    "unique_donors": 980,
+    "repeat_donor_rate": 0.46
+  },
+  "ch_00750": {
+    "last_12_month_total": 24804,
+    "unique_donors": 840,
+    "repeat_donor_rate": 0.24
+  },
+  "ch_00751": {
+    "last_12_month_total": 133385,
+    "unique_donors": 42,
+    "repeat_donor_rate": 0.77
+  },
+  "ch_00752": {
+    "last_12_month_total": 250091,
+    "unique_donors": 298,
+    "repeat_donor_rate": 0.25
+  },
+  "ch_00753": {
+    "last_12_month_total": 135749,
+    "unique_donors": 991,
+    "repeat_donor_rate": 0.8
+  },
+  "ch_00754": {
+    "last_12_month_total": 144097,
+    "unique_donors": 133,
+    "repeat_donor_rate": 0.38
+  },
+  "ch_00755": {
+    "last_12_month_total": 200770,
+    "unique_donors": 1191,
+    "repeat_donor_rate": 0.4
+  },
+  "ch_00756": {
+    "last_12_month_total": 106774,
+    "unique_donors": 193,
+    "repeat_donor_rate": 0.77
+  },
+  "ch_00757": {
+    "last_12_month_total": 41066,
+    "unique_donors": 1182,
+    "repeat_donor_rate": 0.69
+  },
+  "ch_00758": {
+    "last_12_month_total": 114656,
+    "unique_donors": 748,
+    "repeat_donor_rate": 0.56
+  },
+  "ch_00759": {
+    "last_12_month_total": 156747,
+    "unique_donors": 994,
+    "repeat_donor_rate": 0.67
+  },
+  "ch_00760": {
+    "last_12_month_total": 137468,
+    "unique_donors": 925,
+    "repeat_donor_rate": 0.5
+  },
+  "ch_00761": {
+    "last_12_month_total": 34499,
+    "unique_donors": 117,
+    "repeat_donor_rate": 0.31
+  },
+  "ch_00762": {
+    "last_12_month_total": 104932,
+    "unique_donors": 607,
+    "repeat_donor_rate": 0.73
+  },
+  "ch_00763": {
+    "last_12_month_total": 132006,
+    "unique_donors": 553,
+    "repeat_donor_rate": 0.42
+  },
+  "ch_00764": {
+    "last_12_month_total": 223102,
+    "unique_donors": 981,
+    "repeat_donor_rate": 0.26
+  },
+  "ch_00765": {
+    "last_12_month_total": 74841,
+    "unique_donors": 760,
+    "repeat_donor_rate": 0.57
+  },
+  "ch_00766": {
+    "last_12_month_total": 197839,
+    "unique_donors": 985,
+    "repeat_donor_rate": 0.65
+  },
+  "ch_00767": {
+    "last_12_month_total": 16969,
+    "unique_donors": 1053,
+    "repeat_donor_rate": 0.7
+  },
+  "ch_00768": {
+    "last_12_month_total": 176858,
+    "unique_donors": 425,
+    "repeat_donor_rate": 0.31
+  },
+  "ch_00769": {
+    "last_12_month_total": 144158,
+    "unique_donors": 475,
+    "repeat_donor_rate": 0.21
+  },
+  "ch_00770": {
+    "last_12_month_total": 232133,
+    "unique_donors": 968,
+    "repeat_donor_rate": 0.38
+  },
+  "ch_00771": {
+    "last_12_month_total": 69178,
+    "unique_donors": 472,
+    "repeat_donor_rate": 0.39
+  },
+  "ch_00772": {
+    "last_12_month_total": 279656,
+    "unique_donors": 1029,
+    "repeat_donor_rate": 0.48
+  },
+  "ch_00773": {
+    "last_12_month_total": 288072,
+    "unique_donors": 978,
+    "repeat_donor_rate": 0.69
+  },
+  "ch_00774": {
+    "last_12_month_total": 81427,
+    "unique_donors": 24,
+    "repeat_donor_rate": 0.59
+  },
+  "ch_00775": {
+    "last_12_month_total": 222136,
+    "unique_donors": 235,
+    "repeat_donor_rate": 0.3
+  },
+  "ch_00776": {
+    "last_12_month_total": 290910,
+    "unique_donors": 410,
+    "repeat_donor_rate": 0.69
+  },
+  "ch_00777": {
+    "last_12_month_total": 232426,
+    "unique_donors": 780,
+    "repeat_donor_rate": 0.74
+  },
+  "ch_00778": {
+    "last_12_month_total": 166209,
+    "unique_donors": 95,
+    "repeat_donor_rate": 0.48
+  },
+  "ch_00779": {
+    "last_12_month_total": 233591,
+    "unique_donors": 691,
+    "repeat_donor_rate": 0.58
+  },
+  "ch_00780": {
+    "last_12_month_total": 111075,
+    "unique_donors": 1020,
+    "repeat_donor_rate": 0.41
+  },
+  "ch_00781": {
+    "last_12_month_total": 193067,
+    "unique_donors": 117,
+    "repeat_donor_rate": 0.21
+  },
+  "ch_00782": {
+    "last_12_month_total": 118236,
+    "unique_donors": 938,
+    "repeat_donor_rate": 0.34
+  },
+  "ch_00783": {
+    "last_12_month_total": 31282,
+    "unique_donors": 578,
+    "repeat_donor_rate": 0.47
+  },
+  "ch_00784": {
+    "last_12_month_total": 220781,
+    "unique_donors": 929,
+    "repeat_donor_rate": 0.41
+  },
+  "ch_00785": {
+    "last_12_month_total": 160167,
+    "unique_donors": 864,
+    "repeat_donor_rate": 0.53
+  },
+  "ch_00786": {
+    "last_12_month_total": 80959,
+    "unique_donors": 928,
+    "repeat_donor_rate": 0.34
+  },
+  "ch_00787": {
+    "last_12_month_total": 293662,
+    "unique_donors": 980,
+    "repeat_donor_rate": 0.57
+  },
+  "ch_00788": {
+    "last_12_month_total": 183831,
+    "unique_donors": 877,
+    "repeat_donor_rate": 0.75
+  },
+  "ch_00789": {
+    "last_12_month_total": 183613,
+    "unique_donors": 194,
+    "repeat_donor_rate": 0.33
+  },
+  "ch_00790": {
+    "last_12_month_total": 130825,
+    "unique_donors": 508,
+    "repeat_donor_rate": 0.64
+  },
+  "ch_00791": {
+    "last_12_month_total": 200860,
+    "unique_donors": 1136,
+    "repeat_donor_rate": 0.22
+  },
+  "ch_00792": {
+    "last_12_month_total": 259828,
+    "unique_donors": 997,
+    "repeat_donor_rate": 0.41
+  },
+  "ch_00793": {
+    "last_12_month_total": 122120,
+    "unique_donors": 891,
+    "repeat_donor_rate": 0.76
+  },
+  "ch_00794": {
+    "last_12_month_total": 227106,
+    "unique_donors": 176,
+    "repeat_donor_rate": 0.37
+  },
+  "ch_00795": {
+    "last_12_month_total": 56232,
+    "unique_donors": 1054,
+    "repeat_donor_rate": 0.28
+  },
+  "ch_00796": {
+    "last_12_month_total": 290705,
+    "unique_donors": 418,
+    "repeat_donor_rate": 0.8
+  },
+  "ch_00797": {
+    "last_12_month_total": 68700,
+    "unique_donors": 152,
+    "repeat_donor_rate": 0.39
+  },
+  "ch_00798": {
+    "last_12_month_total": 220725,
+    "unique_donors": 84,
+    "repeat_donor_rate": 0.57
+  },
+  "ch_00799": {
+    "last_12_month_total": 208118,
+    "unique_donors": 1051,
+    "repeat_donor_rate": 0.72
+  },
+  "ch_00800": {
+    "last_12_month_total": 122125,
+    "unique_donors": 909,
+    "repeat_donor_rate": 0.43
+  },
+  "ch_00801": {
+    "last_12_month_total": 271290,
+    "unique_donors": 841,
+    "repeat_donor_rate": 0.31
+  },
+  "ch_00802": {
+    "last_12_month_total": 141339,
+    "unique_donors": 466,
+    "repeat_donor_rate": 0.58
+  },
+  "ch_00803": {
+    "last_12_month_total": 299478,
+    "unique_donors": 551,
+    "repeat_donor_rate": 0.4
+  },
+  "ch_00804": {
+    "last_12_month_total": 139364,
+    "unique_donors": 229,
+    "repeat_donor_rate": 0.78
+  },
+  "ch_00805": {
+    "last_12_month_total": 144482,
+    "unique_donors": 235,
+    "repeat_donor_rate": 0.63
+  },
+  "ch_00806": {
+    "last_12_month_total": 46978,
+    "unique_donors": 47,
+    "repeat_donor_rate": 0.53
+  },
+  "ch_00807": {
+    "last_12_month_total": 294777,
+    "unique_donors": 647,
+    "repeat_donor_rate": 0.56
+  },
+  "ch_00808": {
+    "last_12_month_total": 236996,
+    "unique_donors": 305,
+    "repeat_donor_rate": 0.78
+  },
+  "ch_00809": {
+    "last_12_month_total": 297291,
+    "unique_donors": 711,
+    "repeat_donor_rate": 0.32
+  },
+  "ch_00810": {
+    "last_12_month_total": 237835,
+    "unique_donors": 484,
+    "repeat_donor_rate": 0.28
+  },
+  "ch_00811": {
+    "last_12_month_total": 77813,
+    "unique_donors": 725,
+    "repeat_donor_rate": 0.53
+  },
+  "ch_00812": {
+    "last_12_month_total": 141943,
+    "unique_donors": 249,
+    "repeat_donor_rate": 0.72
+  },
+  "ch_00813": {
+    "last_12_month_total": 262425,
+    "unique_donors": 978,
+    "repeat_donor_rate": 0.54
+  },
+  "ch_00814": {
+    "last_12_month_total": 15503,
+    "unique_donors": 331,
+    "repeat_donor_rate": 0.64
+  },
+  "ch_00815": {
+    "last_12_month_total": 283889,
+    "unique_donors": 654,
+    "repeat_donor_rate": 0.25
+  },
+  "ch_00816": {
+    "last_12_month_total": 192498,
+    "unique_donors": 216,
+    "repeat_donor_rate": 0.24
+  },
+  "ch_00817": {
+    "last_12_month_total": 93542,
+    "unique_donors": 1030,
+    "repeat_donor_rate": 0.61
+  },
+  "ch_00818": {
+    "last_12_month_total": 55082,
+    "unique_donors": 709,
+    "repeat_donor_rate": 0.67
+  },
+  "ch_00819": {
+    "last_12_month_total": 248490,
+    "unique_donors": 1136,
+    "repeat_donor_rate": 0.49
+  },
+  "ch_00820": {
+    "last_12_month_total": 114076,
+    "unique_donors": 83,
+    "repeat_donor_rate": 0.77
+  },
+  "ch_00821": {
+    "last_12_month_total": 299745,
+    "unique_donors": 503,
+    "repeat_donor_rate": 0.54
+  },
+  "ch_00822": {
+    "last_12_month_total": 211081,
+    "unique_donors": 668,
+    "repeat_donor_rate": 0.44
+  },
+  "ch_00823": {
+    "last_12_month_total": 293969,
+    "unique_donors": 989,
+    "repeat_donor_rate": 0.21
+  },
+  "ch_00824": {
+    "last_12_month_total": 242866,
+    "unique_donors": 1168,
+    "repeat_donor_rate": 0.25
+  },
+  "ch_00825": {
+    "last_12_month_total": 98152,
+    "unique_donors": 1187,
+    "repeat_donor_rate": 0.59
+  },
+  "ch_00826": {
+    "last_12_month_total": 221149,
+    "unique_donors": 313,
+    "repeat_donor_rate": 0.27
+  },
+  "ch_00827": {
+    "last_12_month_total": 299606,
+    "unique_donors": 440,
+    "repeat_donor_rate": 0.7
+  },
+  "ch_00828": {
+    "last_12_month_total": 194861,
+    "unique_donors": 1169,
+    "repeat_donor_rate": 0.34
+  },
+  "ch_00829": {
+    "last_12_month_total": 248441,
+    "unique_donors": 746,
+    "repeat_donor_rate": 0.63
+  },
+  "ch_00830": {
+    "last_12_month_total": 109520,
+    "unique_donors": 641,
+    "repeat_donor_rate": 0.36
+  },
+  "ch_00831": {
+    "last_12_month_total": 99450,
+    "unique_donors": 607,
+    "repeat_donor_rate": 0.75
+  },
+  "ch_00832": {
+    "last_12_month_total": 145833,
+    "unique_donors": 621,
+    "repeat_donor_rate": 0.47
+  },
+  "ch_00833": {
+    "last_12_month_total": 33364,
+    "unique_donors": 110,
+    "repeat_donor_rate": 0.24
+  },
+  "ch_00834": {
+    "last_12_month_total": 230329,
+    "unique_donors": 964,
+    "repeat_donor_rate": 0.52
+  },
+  "ch_00835": {
+    "last_12_month_total": 246847,
+    "unique_donors": 361,
+    "repeat_donor_rate": 0.34
+  },
+  "ch_00836": {
+    "last_12_month_total": 128874,
+    "unique_donors": 614,
+    "repeat_donor_rate": 0.36
+  },
+  "ch_00837": {
+    "last_12_month_total": 114615,
+    "unique_donors": 605,
+    "repeat_donor_rate": 0.31
+  },
+  "ch_00838": {
+    "last_12_month_total": 251145,
+    "unique_donors": 27,
+    "repeat_donor_rate": 0.35
+  },
+  "ch_00839": {
+    "last_12_month_total": 142869,
+    "unique_donors": 1164,
+    "repeat_donor_rate": 0.44
+  },
+  "ch_00840": {
+    "last_12_month_total": 148097,
+    "unique_donors": 614,
+    "repeat_donor_rate": 0.73
+  },
+  "ch_00841": {
+    "last_12_month_total": 28593,
+    "unique_donors": 176,
+    "repeat_donor_rate": 0.54
+  },
+  "ch_00842": {
+    "last_12_month_total": 188879,
+    "unique_donors": 37,
+    "repeat_donor_rate": 0.3
+  },
+  "ch_00843": {
+    "last_12_month_total": 213510,
+    "unique_donors": 921,
+    "repeat_donor_rate": 0.62
+  },
+  "ch_00844": {
+    "last_12_month_total": 140395,
+    "unique_donors": 268,
+    "repeat_donor_rate": 0.22
+  },
+  "ch_00845": {
+    "last_12_month_total": 249693,
+    "unique_donors": 793,
+    "repeat_donor_rate": 0.4
+  },
+  "ch_00846": {
+    "last_12_month_total": 70963,
+    "unique_donors": 815,
+    "repeat_donor_rate": 0.66
+  },
+  "ch_00847": {
+    "last_12_month_total": 220057,
+    "unique_donors": 475,
+    "repeat_donor_rate": 0.75
+  },
+  "ch_00848": {
+    "last_12_month_total": 219092,
+    "unique_donors": 82,
+    "repeat_donor_rate": 0.42
+  },
+  "ch_00849": {
+    "last_12_month_total": 139811,
+    "unique_donors": 802,
+    "repeat_donor_rate": 0.45
+  },
+  "ch_00850": {
+    "last_12_month_total": 173358,
+    "unique_donors": 454,
+    "repeat_donor_rate": 0.25
+  },
+  "ch_00851": {
+    "last_12_month_total": 56453,
+    "unique_donors": 944,
+    "repeat_donor_rate": 0.36
+  },
+  "ch_00852": {
+    "last_12_month_total": 211749,
+    "unique_donors": 310,
+    "repeat_donor_rate": 0.66
+  },
+  "ch_00853": {
+    "last_12_month_total": 87708,
+    "unique_donors": 203,
+    "repeat_donor_rate": 0.43
+  },
+  "ch_00854": {
+    "last_12_month_total": 192611,
+    "unique_donors": 87,
+    "repeat_donor_rate": 0.35
+  },
+  "ch_00855": {
+    "last_12_month_total": 118897,
+    "unique_donors": 776,
+    "repeat_donor_rate": 0.59
+  },
+  "ch_00856": {
+    "last_12_month_total": 177744,
+    "unique_donors": 1028,
+    "repeat_donor_rate": 0.77
+  },
+  "ch_00857": {
+    "last_12_month_total": 71845,
+    "unique_donors": 215,
+    "repeat_donor_rate": 0.66
+  },
+  "ch_00858": {
+    "last_12_month_total": 10773,
+    "unique_donors": 1088,
+    "repeat_donor_rate": 0.51
+  },
+  "ch_00859": {
+    "last_12_month_total": 181425,
+    "unique_donors": 984,
+    "repeat_donor_rate": 0.7
+  },
+  "ch_00860": {
+    "last_12_month_total": 39819,
+    "unique_donors": 68,
+    "repeat_donor_rate": 0.37
+  },
+  "ch_00861": {
+    "last_12_month_total": 223192,
+    "unique_donors": 702,
+    "repeat_donor_rate": 0.4
+  },
+  "ch_00862": {
+    "last_12_month_total": 71358,
+    "unique_donors": 442,
+    "repeat_donor_rate": 0.76
+  },
+  "ch_00863": {
+    "last_12_month_total": 221550,
+    "unique_donors": 547,
+    "repeat_donor_rate": 0.4
+  },
+  "ch_00864": {
+    "last_12_month_total": 36218,
+    "unique_donors": 511,
+    "repeat_donor_rate": 0.3
+  },
+  "ch_00865": {
+    "last_12_month_total": 71204,
+    "unique_donors": 832,
+    "repeat_donor_rate": 0.74
+  },
+  "ch_00866": {
+    "last_12_month_total": 32265,
+    "unique_donors": 974,
+    "repeat_donor_rate": 0.65
+  },
+  "ch_00867": {
+    "last_12_month_total": 196699,
+    "unique_donors": 1176,
+    "repeat_donor_rate": 0.77
+  },
+  "ch_00868": {
+    "last_12_month_total": 129441,
+    "unique_donors": 169,
+    "repeat_donor_rate": 0.51
+  },
+  "ch_00869": {
+    "last_12_month_total": 64677,
+    "unique_donors": 126,
+    "repeat_donor_rate": 0.25
+  },
+  "ch_00870": {
+    "last_12_month_total": 40750,
+    "unique_donors": 601,
+    "repeat_donor_rate": 0.46
+  },
+  "ch_00871": {
+    "last_12_month_total": 132350,
+    "unique_donors": 781,
+    "repeat_donor_rate": 0.51
+  },
+  "ch_00872": {
+    "last_12_month_total": 51255,
+    "unique_donors": 349,
+    "repeat_donor_rate": 0.29
+  },
+  "ch_00873": {
+    "last_12_month_total": 35115,
+    "unique_donors": 916,
+    "repeat_donor_rate": 0.65
+  },
+  "ch_00874": {
+    "last_12_month_total": 89934,
+    "unique_donors": 195,
+    "repeat_donor_rate": 0.23
+  },
+  "ch_00875": {
+    "last_12_month_total": 40579,
+    "unique_donors": 755,
+    "repeat_donor_rate": 0.28
+  },
+  "ch_00876": {
+    "last_12_month_total": 138156,
+    "unique_donors": 186,
+    "repeat_donor_rate": 0.73
+  },
+  "ch_00877": {
+    "last_12_month_total": 29286,
+    "unique_donors": 719,
+    "repeat_donor_rate": 0.21
+  },
+  "ch_00878": {
+    "last_12_month_total": 77629,
+    "unique_donors": 1189,
+    "repeat_donor_rate": 0.36
+  },
+  "ch_00879": {
+    "last_12_month_total": 153974,
+    "unique_donors": 482,
+    "repeat_donor_rate": 0.76
+  },
+  "ch_00880": {
+    "last_12_month_total": 131927,
+    "unique_donors": 639,
+    "repeat_donor_rate": 0.48
+  },
+  "ch_00881": {
+    "last_12_month_total": 252783,
+    "unique_donors": 100,
+    "repeat_donor_rate": 0.75
+  },
+  "ch_00882": {
+    "last_12_month_total": 134168,
+    "unique_donors": 138,
+    "repeat_donor_rate": 0.37
+  },
+  "ch_00883": {
+    "last_12_month_total": 41432,
+    "unique_donors": 564,
+    "repeat_donor_rate": 0.61
+  },
+  "ch_00884": {
+    "last_12_month_total": 117927,
+    "unique_donors": 1085,
+    "repeat_donor_rate": 0.48
+  },
+  "ch_00885": {
+    "last_12_month_total": 274189,
+    "unique_donors": 909,
+    "repeat_donor_rate": 0.55
+  },
+  "ch_00886": {
+    "last_12_month_total": 171793,
+    "unique_donors": 1181,
+    "repeat_donor_rate": 0.71
+  },
+  "ch_00887": {
+    "last_12_month_total": 93663,
+    "unique_donors": 544,
+    "repeat_donor_rate": 0.56
+  },
+  "ch_00888": {
+    "last_12_month_total": 25230,
+    "unique_donors": 1028,
+    "repeat_donor_rate": 0.51
+  },
+  "ch_00889": {
+    "last_12_month_total": 32252,
+    "unique_donors": 440,
+    "repeat_donor_rate": 0.35
+  },
+  "ch_00890": {
+    "last_12_month_total": 176118,
+    "unique_donors": 796,
+    "repeat_donor_rate": 0.37
+  },
+  "ch_00891": {
+    "last_12_month_total": 90751,
+    "unique_donors": 441,
+    "repeat_donor_rate": 0.32
+  },
+  "ch_00892": {
+    "last_12_month_total": 230009,
+    "unique_donors": 87,
+    "repeat_donor_rate": 0.35
+  },
+  "ch_00893": {
+    "last_12_month_total": 191797,
+    "unique_donors": 650,
+    "repeat_donor_rate": 0.25
+  },
+  "ch_00894": {
+    "last_12_month_total": 256170,
+    "unique_donors": 179,
+    "repeat_donor_rate": 0.28
+  },
+  "ch_00895": {
+    "last_12_month_total": 50004,
+    "unique_donors": 175,
+    "repeat_donor_rate": 0.63
+  },
+  "ch_00896": {
+    "last_12_month_total": 98919,
+    "unique_donors": 342,
+    "repeat_donor_rate": 0.47
+  },
+  "ch_00897": {
+    "last_12_month_total": 298837,
+    "unique_donors": 1099,
+    "repeat_donor_rate": 0.33
+  },
+  "ch_00898": {
+    "last_12_month_total": 247893,
+    "unique_donors": 598,
+    "repeat_donor_rate": 0.75
+  },
+  "ch_00899": {
+    "last_12_month_total": 140582,
+    "unique_donors": 730,
+    "repeat_donor_rate": 0.71
+  },
+  "ch_00900": {
+    "last_12_month_total": 220931,
+    "unique_donors": 1156,
+    "repeat_donor_rate": 0.48
+  },
+  "ch_00901": {
+    "last_12_month_total": 37467,
+    "unique_donors": 167,
+    "repeat_donor_rate": 0.62
+  },
+  "ch_00902": {
+    "last_12_month_total": 54511,
+    "unique_donors": 984,
+    "repeat_donor_rate": 0.5
+  },
+  "ch_00903": {
+    "last_12_month_total": 128306,
+    "unique_donors": 1026,
+    "repeat_donor_rate": 0.24
+  },
+  "ch_00904": {
+    "last_12_month_total": 255018,
+    "unique_donors": 772,
+    "repeat_donor_rate": 0.67
+  },
+  "ch_00905": {
+    "last_12_month_total": 119709,
+    "unique_donors": 1099,
+    "repeat_donor_rate": 0.22
+  },
+  "ch_00906": {
+    "last_12_month_total": 98409,
+    "unique_donors": 406,
+    "repeat_donor_rate": 0.37
+  },
+  "ch_00907": {
+    "last_12_month_total": 51329,
+    "unique_donors": 47,
+    "repeat_donor_rate": 0.71
+  },
+  "ch_00908": {
+    "last_12_month_total": 263380,
+    "unique_donors": 864,
+    "repeat_donor_rate": 0.5
+  },
+  "ch_00909": {
+    "last_12_month_total": 48489,
+    "unique_donors": 936,
+    "repeat_donor_rate": 0.8
+  },
+  "ch_00910": {
+    "last_12_month_total": 67892,
+    "unique_donors": 78,
+    "repeat_donor_rate": 0.25
+  },
+  "ch_00911": {
+    "last_12_month_total": 209412,
+    "unique_donors": 780,
+    "repeat_donor_rate": 0.58
+  },
+  "ch_00912": {
+    "last_12_month_total": 166626,
+    "unique_donors": 1088,
+    "repeat_donor_rate": 0.65
+  },
+  "ch_00913": {
+    "last_12_month_total": 269208,
+    "unique_donors": 158,
+    "repeat_donor_rate": 0.22
+  },
+  "ch_00914": {
+    "last_12_month_total": 110102,
+    "unique_donors": 301,
+    "repeat_donor_rate": 0.72
+  },
+  "ch_00915": {
+    "last_12_month_total": 236585,
+    "unique_donors": 57,
+    "repeat_donor_rate": 0.79
+  },
+  "ch_00916": {
+    "last_12_month_total": 211560,
+    "unique_donors": 610,
+    "repeat_donor_rate": 0.3
+  },
+  "ch_00917": {
+    "last_12_month_total": 256992,
+    "unique_donors": 592,
+    "repeat_donor_rate": 0.41
+  },
+  "ch_00918": {
+    "last_12_month_total": 51685,
+    "unique_donors": 203,
+    "repeat_donor_rate": 0.51
+  },
+  "ch_00919": {
+    "last_12_month_total": 219389,
+    "unique_donors": 787,
+    "repeat_donor_rate": 0.73
+  },
+  "ch_00920": {
+    "last_12_month_total": 84616,
+    "unique_donors": 872,
+    "repeat_donor_rate": 0.75
+  },
+  "ch_00921": {
+    "last_12_month_total": 129068,
+    "unique_donors": 850,
+    "repeat_donor_rate": 0.62
+  },
+  "ch_00922": {
+    "last_12_month_total": 299330,
+    "unique_donors": 255,
+    "repeat_donor_rate": 0.8
+  },
+  "ch_00923": {
+    "last_12_month_total": 76483,
+    "unique_donors": 1049,
+    "repeat_donor_rate": 0.36
+  },
+  "ch_00924": {
+    "last_12_month_total": 63310,
+    "unique_donors": 709,
+    "repeat_donor_rate": 0.34
+  },
+  "ch_00925": {
+    "last_12_month_total": 170488,
+    "unique_donors": 474,
+    "repeat_donor_rate": 0.26
+  },
+  "ch_00926": {
+    "last_12_month_total": 56601,
+    "unique_donors": 230,
+    "repeat_donor_rate": 0.44
+  },
+  "ch_00927": {
+    "last_12_month_total": 176276,
+    "unique_donors": 207,
+    "repeat_donor_rate": 0.77
+  },
+  "ch_00928": {
+    "last_12_month_total": 11140,
+    "unique_donors": 873,
+    "repeat_donor_rate": 0.66
+  },
+  "ch_00929": {
+    "last_12_month_total": 69094,
+    "unique_donors": 538,
+    "repeat_donor_rate": 0.39
+  },
+  "ch_00930": {
+    "last_12_month_total": 123370,
+    "unique_donors": 474,
+    "repeat_donor_rate": 0.41
+  },
+  "ch_00931": {
+    "last_12_month_total": 254946,
+    "unique_donors": 544,
+    "repeat_donor_rate": 0.65
+  },
+  "ch_00932": {
+    "last_12_month_total": 125793,
+    "unique_donors": 182,
+    "repeat_donor_rate": 0.47
+  },
+  "ch_00933": {
+    "last_12_month_total": 72205,
+    "unique_donors": 135,
+    "repeat_donor_rate": 0.35
+  },
+  "ch_00934": {
+    "last_12_month_total": 25058,
+    "unique_donors": 549,
+    "repeat_donor_rate": 0.67
+  },
+  "ch_00935": {
+    "last_12_month_total": 12688,
+    "unique_donors": 877,
+    "repeat_donor_rate": 0.77
+  },
+  "ch_00936": {
+    "last_12_month_total": 68188,
+    "unique_donors": 250,
+    "repeat_donor_rate": 0.4
+  },
+  "ch_00937": {
+    "last_12_month_total": 77239,
+    "unique_donors": 145,
+    "repeat_donor_rate": 0.33
+  },
+  "ch_00938": {
+    "last_12_month_total": 10866,
+    "unique_donors": 104,
+    "repeat_donor_rate": 0.48
+  },
+  "ch_00939": {
+    "last_12_month_total": 119658,
+    "unique_donors": 1118,
+    "repeat_donor_rate": 0.21
+  },
+  "ch_00940": {
+    "last_12_month_total": 188937,
+    "unique_donors": 967,
+    "repeat_donor_rate": 0.41
+  },
+  "ch_00941": {
+    "last_12_month_total": 198572,
+    "unique_donors": 808,
+    "repeat_donor_rate": 0.8
+  },
+  "ch_00942": {
+    "last_12_month_total": 170393,
+    "unique_donors": 747,
+    "repeat_donor_rate": 0.61
+  },
+  "ch_00943": {
+    "last_12_month_total": 137424,
+    "unique_donors": 437,
+    "repeat_donor_rate": 0.46
+  },
+  "ch_00944": {
+    "last_12_month_total": 164882,
+    "unique_donors": 501,
+    "repeat_donor_rate": 0.63
+  },
+  "ch_00945": {
+    "last_12_month_total": 207027,
+    "unique_donors": 979,
+    "repeat_donor_rate": 0.37
+  },
+  "ch_00946": {
+    "last_12_month_total": 67790,
+    "unique_donors": 231,
+    "repeat_donor_rate": 0.59
+  },
+  "ch_00947": {
+    "last_12_month_total": 19358,
+    "unique_donors": 190,
+    "repeat_donor_rate": 0.71
+  },
+  "ch_00948": {
+    "last_12_month_total": 280182,
+    "unique_donors": 1188,
+    "repeat_donor_rate": 0.52
+  },
+  "ch_00949": {
+    "last_12_month_total": 201506,
+    "unique_donors": 851,
+    "repeat_donor_rate": 0.62
+  },
+  "ch_00950": {
+    "last_12_month_total": 126119,
+    "unique_donors": 803,
+    "repeat_donor_rate": 0.72
+  },
+  "ch_00951": {
+    "last_12_month_total": 296326,
+    "unique_donors": 784,
+    "repeat_donor_rate": 0.7
+  },
+  "ch_00952": {
+    "last_12_month_total": 279252,
+    "unique_donors": 172,
+    "repeat_donor_rate": 0.44
+  },
+  "ch_00953": {
+    "last_12_month_total": 27347,
+    "unique_donors": 409,
+    "repeat_donor_rate": 0.52
+  },
+  "ch_00954": {
+    "last_12_month_total": 167144,
+    "unique_donors": 716,
+    "repeat_donor_rate": 0.7
+  },
+  "ch_00955": {
+    "last_12_month_total": 202690,
+    "unique_donors": 964,
+    "repeat_donor_rate": 0.69
+  },
+  "ch_00956": {
+    "last_12_month_total": 16642,
+    "unique_donors": 1095,
+    "repeat_donor_rate": 0.71
+  },
+  "ch_00957": {
+    "last_12_month_total": 47459,
+    "unique_donors": 728,
+    "repeat_donor_rate": 0.42
+  },
+  "ch_00958": {
+    "last_12_month_total": 119849,
+    "unique_donors": 251,
+    "repeat_donor_rate": 0.33
+  },
+  "ch_00959": {
+    "last_12_month_total": 146224,
+    "unique_donors": 637,
+    "repeat_donor_rate": 0.58
+  },
+  "ch_00960": {
+    "last_12_month_total": 231150,
+    "unique_donors": 470,
+    "repeat_donor_rate": 0.27
+  },
+  "ch_00961": {
+    "last_12_month_total": 124798,
+    "unique_donors": 1158,
+    "repeat_donor_rate": 0.58
+  },
+  "ch_00962": {
+    "last_12_month_total": 264342,
+    "unique_donors": 108,
+    "repeat_donor_rate": 0.67
+  },
+  "ch_00963": {
+    "last_12_month_total": 222671,
+    "unique_donors": 984,
+    "repeat_donor_rate": 0.35
+  },
+  "ch_00964": {
+    "last_12_month_total": 217337,
+    "unique_donors": 159,
+    "repeat_donor_rate": 0.66
+  },
+  "ch_00965": {
+    "last_12_month_total": 38142,
+    "unique_donors": 513,
+    "repeat_donor_rate": 0.58
+  },
+  "ch_00966": {
+    "last_12_month_total": 262835,
+    "unique_donors": 467,
+    "repeat_donor_rate": 0.62
+  },
+  "ch_00967": {
+    "last_12_month_total": 233343,
+    "unique_donors": 1194,
+    "repeat_donor_rate": 0.64
+  },
+  "ch_00968": {
+    "last_12_month_total": 237241,
+    "unique_donors": 72,
+    "repeat_donor_rate": 0.64
+  },
+  "ch_00969": {
+    "last_12_month_total": 112879,
+    "unique_donors": 583,
+    "repeat_donor_rate": 0.5
+  },
+  "ch_00970": {
+    "last_12_month_total": 284424,
+    "unique_donors": 295,
+    "repeat_donor_rate": 0.77
+  },
+  "ch_00971": {
+    "last_12_month_total": 131241,
+    "unique_donors": 985,
+    "repeat_donor_rate": 0.68
+  },
+  "ch_00972": {
+    "last_12_month_total": 31948,
+    "unique_donors": 576,
+    "repeat_donor_rate": 0.7
+  },
+  "ch_00973": {
+    "last_12_month_total": 109931,
+    "unique_donors": 1100,
+    "repeat_donor_rate": 0.34
+  },
+  "ch_00974": {
+    "last_12_month_total": 243324,
+    "unique_donors": 1108,
+    "repeat_donor_rate": 0.28
+  },
+  "ch_00975": {
+    "last_12_month_total": 20386,
+    "unique_donors": 1178,
+    "repeat_donor_rate": 0.27
+  },
+  "ch_00976": {
+    "last_12_month_total": 151665,
+    "unique_donors": 953,
+    "repeat_donor_rate": 0.68
+  },
+  "ch_00977": {
+    "last_12_month_total": 10437,
+    "unique_donors": 1063,
+    "repeat_donor_rate": 0.77
+  },
+  "ch_00978": {
+    "last_12_month_total": 216796,
+    "unique_donors": 197,
+    "repeat_donor_rate": 0.38
+  },
+  "ch_00979": {
+    "last_12_month_total": 82211,
+    "unique_donors": 915,
+    "repeat_donor_rate": 0.56
+  },
+  "ch_00980": {
+    "last_12_month_total": 194649,
+    "unique_donors": 105,
+    "repeat_donor_rate": 0.8
+  },
+  "ch_00981": {
+    "last_12_month_total": 197732,
+    "unique_donors": 688,
+    "repeat_donor_rate": 0.28
+  },
+  "ch_00982": {
+    "last_12_month_total": 217522,
+    "unique_donors": 1075,
+    "repeat_donor_rate": 0.71
+  },
+  "ch_00983": {
+    "last_12_month_total": 130931,
+    "unique_donors": 179,
+    "repeat_donor_rate": 0.46
+  },
+  "ch_00984": {
+    "last_12_month_total": 246952,
+    "unique_donors": 646,
+    "repeat_donor_rate": 0.4
+  },
+  "ch_00985": {
+    "last_12_month_total": 160946,
+    "unique_donors": 373,
+    "repeat_donor_rate": 0.74
+  },
+  "ch_00986": {
+    "last_12_month_total": 154656,
+    "unique_donors": 324,
+    "repeat_donor_rate": 0.54
+  },
+  "ch_00987": {
+    "last_12_month_total": 182466,
+    "unique_donors": 200,
+    "repeat_donor_rate": 0.4
+  },
+  "ch_00988": {
+    "last_12_month_total": 150749,
+    "unique_donors": 209,
+    "repeat_donor_rate": 0.34
+  },
+  "ch_00989": {
+    "last_12_month_total": 143525,
+    "unique_donors": 61,
+    "repeat_donor_rate": 0.53
+  },
+  "ch_00990": {
+    "last_12_month_total": 107380,
+    "unique_donors": 920,
+    "repeat_donor_rate": 0.72
+  },
+  "ch_00991": {
+    "last_12_month_total": 166891,
+    "unique_donors": 924,
+    "repeat_donor_rate": 0.56
+  },
+  "ch_00992": {
+    "last_12_month_total": 108007,
+    "unique_donors": 198,
+    "repeat_donor_rate": 0.44
+  },
+  "ch_00993": {
+    "last_12_month_total": 94625,
+    "unique_donors": 532,
+    "repeat_donor_rate": 0.58
+  },
+  "ch_00994": {
+    "last_12_month_total": 264970,
+    "unique_donors": 286,
+    "repeat_donor_rate": 0.58
+  },
+  "ch_00995": {
+    "last_12_month_total": 94153,
+    "unique_donors": 789,
+    "repeat_donor_rate": 0.41
+  },
+  "ch_00996": {
+    "last_12_month_total": 187143,
+    "unique_donors": 900,
+    "repeat_donor_rate": 0.66
+  },
+  "ch_00997": {
+    "last_12_month_total": 137695,
+    "unique_donors": 782,
+    "repeat_donor_rate": 0.42
+  },
+  "ch_00998": {
+    "last_12_month_total": 247293,
+    "unique_donors": 273,
+    "repeat_donor_rate": 0.34
+  },
+  "ch_00999": {
+    "last_12_month_total": 55006,
+    "unique_donors": 453,
+    "repeat_donor_rate": 0.79
+  }
+}
