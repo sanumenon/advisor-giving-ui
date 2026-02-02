@@ -40,5 +40,8 @@ Sl No	Use Case	Example (What the user does / sees)
 11b	Follow User Default Regions	User says: “Allocate $400” → system automatically restricts to user’s default region (e.g., Ontario).
 
 12	Generate Deterministic Narrative	Same input run twice produces identical Portfolio Summary text, no randomness.
+
 13	View Charity Details & Links	Each charity row includes a clickable link to my.charitableimpact.com/charity/ch_xxxxx.
+
 14	Maintain Conversation Context	User says: “Increase it to $700” → system applies $700 to the previous charity selection.
+
