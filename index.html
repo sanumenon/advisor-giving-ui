@@ -27,9 +27,18 @@
     .header {
       background: #0056b3;
       color: white;
-      padding: 16px;
+      padding: 12px 16px;
       font-weight: bold;
-      text-align: center;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    
+    #userSelect {
+      margin-left: auto;
+      padding: 6px;
+      border-radius: 6px;
+      border: none;
     }
     .messages {
       flex: 1;
@@ -99,8 +108,14 @@
 </head>
 <body>
 
-<div class="chat-container">
-  <div class="header">Charitable Impact Giving Advisor Bot - V1.0</div>
+  <div class="chat-container">
+    <div class="header">
+    <span id="userAvatar">🧠</span>
+    <span id="userName">Sanu</span>
+  
+    <select id="userSelect" onchange="changeUser(this.value)">
+    </select>
+  </div>
   <div class="messages" id="messages"></div>
   <div class="input-area">
   <input id="input" placeholder="Ask about donations..." onkeydown="handleKey(event)" />
@@ -111,6 +126,16 @@
 
 <script>
 const API_URL = "https://advisor-giving-ui.menon-sanu.workers.dev";
+
+const USERS = [
+  { id: "user1", name: "Sanu", avatar: "🧠" },
+  { id: "user2", name: "Anita", avatar: "🐾" },
+  { id: "user3", name: "Rahul", avatar: "📊" },
+  { id: "user4", name: "Priya", avatar: "🌱" }
+];
+
+let selectedUserId = USERS[0].id;
+
 
 const systemPrompt = `You are a helpful donation advisor.`;
 
@@ -140,6 +165,34 @@ function renderMessages() {
   });
   messagesDiv.scrollTop = messagesDiv.scrollHeight;
 }
+
+  function initUsers() {
+  const select = document.getElementById("userSelect");
+
+  USERS.forEach(u => {
+    const option = document.createElement("option");
+    option.value = u.id;
+    option.textContent = `${u.avatar} ${u.name}`;
+    select.appendChild(option);
+  });
+
+  updateUserBadge();
+}
+
+function changeUser(userId) {
+  selectedUserId = userId;
+  updateUserBadge();
+
+  // Optional: clear chat when user switches
+  clearChat();
+}
+
+function updateUserBadge() {
+  const user = USERS.find(u => u.id === selectedUserId);
+  document.getElementById("userAvatar").textContent = user.avatar;
+  document.getElementById("userName").textContent = user.name;
+}
+
 
 function renderMarkdown(text) {
   if (!text) return "";
@@ -220,28 +273,20 @@ async function sendMessage() {
     typing.id = "typing";
     typing.innerText = "Advisor is typing...";
     messagesDiv.appendChild(typing);
+
     const response = await fetch(API_URL, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ 
-      user_id: [...messages]
-        .reverse()
-        .find(m => m.role === "user")
-        ?.content.match(/\buser\d+\b/)?.[0],
-      messages 
-    })
-
-
+      body: JSON.stringify({
+        user_id: selectedUserId,
+        messages
+      })
     });
+
     document.getElementById("typing")?.remove();
     const data = await response.json();
-    
-    if (!data.choices) {
-      throw new Error(JSON.stringify(data));
-    }
 
     const reply = data.choices[0].message.content;
-
     messages.push({ role: "assistant", content: reply });
     sessionStorage.setItem("chat", JSON.stringify(messages));
     renderMessages();
@@ -252,6 +297,7 @@ async function sendMessage() {
 }
 
 renderMessages();
+initUsers();
 </script>
 
 </body>
